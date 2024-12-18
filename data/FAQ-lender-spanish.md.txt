@@ -1,0 +1,2042 @@
+
+
+## Pregunta: ¿Qué hacer si cometí un error al completar mi información personal?
+Respuesta: Una vez que la información personal ingresada en la plataforma se confirma y envía, se requiere WIN. Cuando el sistema le indique que necesita actualizar su información personal, aparecerá un botón [Modificar] en la página. En ese momento, puede proceder a realizar las modificaciones.
+
+## Pregunta: ¿Qué hacer si escribí mal mi información profesional?
+Respuesta: Una vez que la información personal ingresada en la plataforma se confirma y envía, se requiere WIN. Cuando el sistema le indique que necesita actualizar su información personal, aparecerá un botón [Modificar] en la página. En ese momento, puede proceder a realizar las modificaciones.
+
+## Pregunta: Escribí información incorrecta, necesito modificarla
+Respuesta: Una vez que la información personal ingresada en la plataforma se confirma y envía, se requiere WIN. Cuando el sistema le indique que necesita actualizar su información personal, aparecerá un botón [Modificar] en la página. En ese momento, puede proceder a realizar las modificaciones.
+
+## Pregunta: Ayúdame a cambiar mi información personal
+Respuesta: Una vez que la información personal ingresada en la plataforma se confirma y envía, se requiere WIN. Cuando el sistema le indique que necesita actualizar su información personal, aparecerá un botón [Modificar] en la página. En ese momento, puede proceder a realizar las modificaciones.
+
+## Pregunta: Escribí mal mi dirección, ¿dónde puedo cambiarla?
+Respuesta: Una vez que la información personal ingresada en la plataforma se confirma y envía, se requiere WIN. Cuando el sistema le indique que necesita actualizar su información personal, aparecerá un botón [Modificar] en la página. En ese momento, puede proceder a realizar las modificaciones.
+
+## Pregunta: Escribí mal mis ingresos, ¿cómo puedo volver y modificarlos?
+Respuesta: Una vez que la información personal ingresada en la plataforma se confirma y envía, se requiere WIN. Cuando el sistema le indique que necesita actualizar su información personal, aparecerá un botón [Modificar] en la página. En ese momento, puede proceder a realizar las modificaciones.
+
+## Pregunta: El nombre de mi empresa está incorrecto, escribí el de mi empresa anterior, ¿puedes revisarlo y ayudarme a cambiarlo?
+Respuesta: Una vez que la información personal ingresada en la plataforma se confirma y envía, se requiere WIN. Cuando el sistema le indique que necesita actualizar su información personal, aparecerá un botón [Modificar] en la página. En ese momento, puede proceder a realizar las modificaciones.
+
+## Pregunta: ¿Cómo modifico mi información personal?
+Respuesta: Una vez que la información personal ingresada en la plataforma se confirma y envía, se requiere WIN. Cuando el sistema le indique que necesita actualizar su información personal, aparecerá un botón [Modificar] en la página. En ese momento, puede proceder a realizar las modificaciones.
+
+## Pregunta: ¿Se puede modificar la información si ha cambiado?
+Respuesta: Una vez que la información personal ingresada en la plataforma se confirma y envía, se requiere WIN. Cuando el sistema le indique que necesita actualizar su información personal, aparecerá un botón [Modificar] en la página. En ese momento, puede proceder a realizar las modificaciones.
+
+
+## Pregunta: Cambié mi número de teléfono, ¿qué debo hacer?
+
+Respuesta: Resumen del manejo de primera línea: Primero determine si el número de teléfono original del cliente no está A, y si el nuevo número no ha sido X antes, la información B coincide con la cuenta original, y el tiempo de uso supera los C días, entonces se puede realizar el cambio. Verifique qué APP registró el cliente, si usa la versión 7 de la APP, informe al usuario que no es compatible con el sistema móvil de Banjia y necesita usar el sistema XO para cambiar el número de teléfono.
+
+Pasos para cambiar el número de teléfono vinculado:
+1. Si puede iniciar sesión con el número original: Página principal de la APP -> "Mi cuenta" en la esquina inferior derecha -> "Más configuraciones" -> "Configuración de seguridad" -> "Modificar número de teléfono de inicio de sesión"
+2. Si no puede iniciar sesión con el número original: En la página de inicio de sesión de la APP, haga clic en "Usar otro método de inicio de sesión" en la parte inferior, luego haga clic en el texto rojo en la parte superior "Haga clic para modificar el número de teléfono de inicio de sesión", complete la información requerida según las instrucciones para modificar el número de teléfono registrado.
+
+(II) Condiciones para modificar el número de teléfono
+1. Cumplir con las restricciones de frecuencia: No más de 2 veces por mes, no más de 1 vez por día. Nota: Si el usuario informa que ha alcanzado el límite diario para cambiar el número, el servicio al cliente debe verificar proactivamente si los números nuevos y antiguos cumplen con las reglas de modificación, e informar al usuario sobre las reglas antes de indicarle que intente nuevamente al día siguiente.
+
+2. El número de teléfono debe cumplir las siguientes condiciones:
+
+1) Condiciones para el número original:
+① El número original debe estar AAA
+② El número original debe estar XXX
+③ El número original debe estar YYY
+
+2) Condiciones para el nuevo número:
+① El nuevo número no puede tener SSS en la plataforma
+② El nuevo número debe coincidir con GGG de la cuenta original
+③ El nuevo número debe RRR
+④ El nuevo número del usuario debe ser EEE
+
+(III) Consideraciones al cambiar el número de teléfono
+1. Al cambiar el nuevo número, C y D deben realizarse simultáneamente
+2. El usuario ya ha realizado T
+3. Si el nuevo número tiene K, se debe hacer clic en M
+4. El número de teléfono no ha tenido otras operaciones
+
+Proceso de manejo:
+1. Obtener FN del usuario
+2. Verificar si el número original está X
+3. Verificar si el número original ha sido D, si es D, se debe realizar V, si no es D, se debe realizar T
+4. Verificar si el nuevo número se ha generado recientemente en el sistema
+
+(1) Verificar si el nuevo número ya está D: Página del usuario - A del usuario - S del usuario - Usar D del usuario para consultar y determinar según las indicaciones
+(2) Verificar si el nuevo número ya ha sido X
+
+Z del usuario - X del usuario - C del usuario - Usar V del usuario para consultar y ver la columna [MG]
+
+[Ya D]: Informar al usuario que no se puede modificar, puede guiarlo para que use XXX para iniciar sesión
+
+[No D]: A del usuario - S del usuario - D del usuario - Realizar [Eliminar número de teléfono registrado]
+
+(V) Frases de referencia
+1. Obtener el número de teléfono:
+Hola, por favor proporcione su número de teléfono registrado original y el nuevo número que desea cambiar, para que pueda verificar si cumple con las condiciones para el cambio.
+
+2. Ha sido X:
+Hola, el nuevo número que proporcionó actualmente no es compatible para cambiarlo como número de teléfono registrado. Nos disculpamos por los inconvenientes. El sistema realiza una evaluación integral de su calificación, y lo hace de manera intermitente. Le sugerimos que esté atento a las actualizaciones de la APP.
+
+3. El número original y el nuevo cumplen las condiciones:
+Hola, el servicio al cliente ha verificado que tanto su nuevo número como la cuenta registrada original cumplen con las condiciones para cambiar el número. Puede proceder con el cambio en la APP.
+
+4. El nuevo número ya está EE:
+Hola, el servicio al cliente ha verificado que su nuevo número XXXXXX no es compatible para ser modificado. Le sugerimos que inicie sesión directamente con el nuevo número para verificar.
+
+5. RR el nuevo número:
+Hola, el servicio al cliente ha verificado que su nuevo número ya está FFF, lo que afectará el éxito de la modificación. El servicio al cliente ya ha GGG la información de registro para usted. Puede proceder con el cambio en la APP.
+
+
+## Pregunta: Cambié mi número de teléfono, ¿qué debo hacer?
+
+Respuesta: Resumen del manejo de primera línea: Primero determine si el número de teléfono original del cliente no está A, y si el nuevo número no ha sido X antes, la información B coincide con la cuenta original, y el tiempo de uso supera los C días, entonces se puede realizar el cambio. Verifique qué APP registró el cliente, si usa la versión 7 de la APP, informe al usuario que no es compatible con el sistema móvil de Banjia y necesita usar el sistema XO para cambiar el número de teléfono.
+
+Pasos para cambiar el número de teléfono vinculado:
+1. Si puede iniciar sesión con el número original: Página principal de la APP -> "Mi cuenta" en la esquina inferior derecha -> "Más configuraciones" -> "Configuración de seguridad" -> "Modificar número de teléfono de inicio de sesión"
+2. Si no puede iniciar sesión con el número original: En la página de inicio de sesión de la APP, haga clic en "Usar otro método de inicio de sesión" en la parte inferior, luego haga clic en el texto rojo en la parte superior "Haga clic para modificar el número de teléfono de inicio de sesión", complete la información requerida según las instrucciones para modificar el número de teléfono registrado.
+
+(II) Condiciones para modificar el número de teléfono
+1. Cumplir con las restricciones de frecuencia: No más de 2 veces por mes, no más de 1 vez por día. Nota: Si el usuario informa que ha alcanzado el límite diario para cambiar el número, el servicio al cliente debe verificar proactivamente si los números nuevos y antiguos cumplen con las reglas de modificación, e informar al usuario sobre las reglas antes de indicarle que intente nuevamente al día siguiente.
+
+2. El número de teléfono debe cumplir las siguientes condiciones:
+
+1) Condiciones para el número original:
+① El número original debe estar AAA
+② El número original debe estar XXX
+③ El número original debe estar YYY
+
+2) Condiciones para el nuevo número:
+① El nuevo número no puede tener SSS en la plataforma
+② El nuevo número debe coincidir con GGG de la cuenta original
+③ El nuevo número debe RRR
+④ El nuevo número del usuario debe ser EEE
+
+(III) Consideraciones al cambiar el número de teléfono
+1. Al cambiar el nuevo número, C y D deben realizarse simultáneamente
+2. El usuario ya ha realizado T
+3. Si el nuevo número tiene K, se debe hacer clic en M
+4. El número de teléfono no ha tenido otras operaciones
+
+Proceso de manejo:
+1. Obtener FN del usuario
+2. Verificar si el número original está X
+3. Verificar si el número original ha sido D, si es D, se debe realizar V, si no es D, se debe realizar T
+4. Verificar si el nuevo número se ha generado recientemente en el sistema
+
+(1) Verificar si el nuevo número ya está D: Página del usuario - A del usuario - S del usuario - Usar D del usuario para consultar y determinar según las indicaciones
+(2) Verificar si el nuevo número ya ha sido X
+
+Z del usuario - X del usuario - C del usuario - Usar V del usuario para consultar y ver la columna [MG]
+
+[Ya D]: Informar al usuario que no se puede modificar, puede guiarlo para que use XXX para iniciar sesión
+
+[No D]: A del usuario - S del usuario - D del usuario - Realizar [Eliminar número de teléfono registrado]
+
+(V) Frases de referencia
+1. Obtener el número de teléfono:
+Hola, por favor proporcione su número de teléfono registrado original y el nuevo número que desea cambiar, para que pueda verificar si cumple con las condiciones para el cambio.
+
+2. Ha sido X:
+Hola, el nuevo número que proporcionó actualmente no es compatible para cambiarlo como número de teléfono registrado. Nos disculpamos por los inconvenientes. El sistema realiza una evaluación integral de su calificación, y lo hace de manera intermitente. Le sugerimos que esté atento a las actualizaciones de la APP.
+
+3. El número original y el nuevo cumplen las condiciones:
+Hola, el servicio al cliente ha verificado que tanto su nuevo número como la cuenta registrada original cumplen con las condiciones para cambiar el número. Puede proceder con el cambio en la APP.
+
+4. El nuevo número ya está EE:
+Hola, el servicio al cliente ha verificado que su nuevo número XXXXXX no es compatible para ser modificado. Le sugerimos que inicie sesión directamente con el nuevo número para verificar.
+
+5. RR el nuevo número:
+Hola, el servicio al cliente ha verificado que su nuevo número ya está FFF, lo que afectará el éxito de la modificación. El servicio al cliente ya ha GGG la información de registro para usted. Puede proceder con el cambio en la APP.
+
+
+Escenarios de error y soluciones
+
+1. El teléfono no coincide con SSS
+Causa: El número de teléfono SSS del usuario no coincide con EEE
+
+Acción del servicio al cliente:
+a. Preguntar al usuario el número de serie ASD del nuevo número de teléfono RRR;
+b. Consultar el SSS del usuario en el sistema y verificar si coincide con lo proporcionado por el usuario
+
+Solución:
+a. Si coincide, informar al departamento correspondiente;
+b. Si no coincide, sugerir al usuario que intente nuevamente la operación YUI en su teléfono.
+
+Frases de referencia:
+a. Coincide: Hola, hemos informado de su problema al departamento correspondiente para su verificación. Un empleado le llamará pronto, por favor esté atento a la llamada.
+
+b. No coincide: Hola, se muestra que el número de teléfono es W, ¿su T y H del número de teléfono son los mismos?
+
+2. Su información A ya está FIN. ¿Desea hacer clic en [Modificar número de teléfono de inicio de sesión] para modificarlo?
+Causa: El número de teléfono del usuario ya está SDD
+
+Acción del servicio al cliente: Guiar al usuario a hacer clic en el botón y seguir las instrucciones
+
+Solución:
+Guiar al usuario a hacer clic en [Modificar número de teléfono de inicio de sesión] para iniciar sesión en la cuenta original registrada (después de redirigir mediante este botón, se completará AWESD)
+
+Frase de referencia:
+Hola, si se le indica que su información A ya está FIN, significa que su información A ya ha sido ADE en nuestra plataforma. Puede hacer clic en [Modificar número de teléfono de inicio de sesión] y seguir las instrucciones para modificar el registro. Si su nuevo número de teléfono cumple con los requisitos, podrá cambiar el número con éxito.
+
+3. Su cuenta ya está TR o tiene una situación W3, esta operación no es compatible
+Causa: El nuevo número de teléfono del usuario ya tiene un historial de registro (no necesariamente información de préstamo personal)
+
+Acción del servicio al cliente: Guiar al usuario para iniciar sesión en la APP con el nuevo número de teléfono
+
+Frase de referencia:
+Hola, su cuenta ya está TR, le sugerimos que inicie sesión directamente con el nuevo número de teléfono para verificar.
+
+4. El número de teléfono que se va a modificar ya está PP
+Causa: El nuevo número de teléfono del usuario ya está PP
+
+Acción del servicio al cliente:
+Verificar en el sistema de usuarios Q-C de usuario-V de usuario-Operación, si hay un botón [FG]
+
+Solución:
+a. Si hay botón, se puede realizar T: Realizar la operación para el usuario, luego guiarlo para modificar nuevamente;
+b. Si no hay botón, no se puede realizar T: Informar al usuario que intente con otro número
+
+Frases de referencia:
+a. Si hay botón y se puede realizar T: Hola, su nuevo número de teléfono ya está QW, lo que afectará su modificación. El servicio al cliente realizará T por usted, después podrá intentar modificar nuevamente el número de teléfono registrado. ¿Necesita que el servicio al cliente lo haga por usted?
+
+b. Si no hay botón y no se puede realizar: Hola, el nuevo número de teléfono que proporcionó ya tiene E, no se puede usar como nuevo número para modificación. Le sugerimos que intente con otro número de teléfono para el registro.
+
+5. Se ha alcanzado el límite diario de cambios de número, por favor intente mañana o contacte al servicio al cliente
+Causa: El usuario ha superado las x solicitudes de cambio de número en el día (por ejemplo, ha hecho clic en el botón x veces, pero no significa que el cambio haya sido exitoso)
+
+Solución: El servicio al cliente debe verificar proactivamente si los números nuevo y antiguo del usuario cumplen con las reglas de modificación, informar al usuario sobre las reglas de cambio y guiarlo para que intente al día siguiente
+
+Frase de referencia:
+Hola, hay un límite en el número de veces que se puede cambiar el número de teléfono: máximo x solicitudes por día y y veces por mes. Usted ha alcanzado el límite diario. (Informar al usuario sobre las reglas de cambio y guiarlo para que intente al día siguiente)
+
+
+## Pregunta: ¿Cómo modificar el número de teléfono registrado?
+Respuesta: Resumen del tratamiento de primera línea: Primero determine si el número de teléfono original del cliente no está A, y el nuevo número de teléfono debe cumplir con no haber sido X antes, la información B debe coincidir con la cuenta original, y el tiempo de uso debe superar los C días, solo entonces se puede realizar el cambio. Determine la APP que el cliente registró, si está usando la versión 7 de la APP, informe al usuario que no es compatible con el sistema móvil de Banjia y necesita usar el sistema XO para cambiar el número de teléfono.
+
+Ruta de operación para cambiar el número de teléfono vinculado
+1. Si se puede iniciar sesión con el número original: Página principal de la APP - esquina inferior derecha [Mi cuenta] - [Más configuraciones] - [Configuración de seguridad] - [Modificar número de teléfono de inicio de sesión]
+2. Si no se puede iniciar sesión con el número original: A través de la página de inicio de sesión de la APP, haga clic en "Usar otro método de inicio de sesión" en la parte inferior de la página, luego haga clic en el texto rojo en la parte superior de la página [Haga clic para modificar el número de teléfono de inicio de sesión], siga las instrucciones para completar la información relevante y operar para modificar el número de teléfono registrado.
+
+(II) Condiciones para modificar el número de teléfono
+1. Cumplir con las condiciones de frecuencia: No más de 2 veces por mes para modificar el número de teléfono, no más de 1 vez por día. Nota: Si el usuario informa que ha alcanzado el límite diario para cambiar el número de teléfono, el servicio al cliente debe verificar activamente si los números de teléfono nuevos y antiguos del usuario cumplen con las reglas de modificación, y al mismo tiempo informar al usuario sobre las reglas de cambio y guiarlo para que intente al día siguiente.
+
+2. El número de teléfono debe cumplir con las condiciones
+
+1) Condiciones para el número de teléfono original:
+
+① El número de teléfono original AAA;
+
+② El número de teléfono original XXX;
+
+③ El número de teléfono original YYY
+
+2) Condiciones para el nuevo número de teléfono:
+
+① El nuevo número de teléfono no puede tener SSS en la plataforma
+
+② El nuevo número de teléfono debe GGG con la cuenta original;
+
+③ El nuevo número de teléfono debe RRR;
+
+④ El nuevo número de teléfono del usuario debe ser EEE
+
+(III) Precauciones para el cambio de número de teléfono
+1. Al cambiar el nuevo número de teléfono, se deben realizar C y D simultáneamente;
+
+2. El usuario ya ha realizado T;
+
+3. Si el nuevo número de teléfono tiene K, se debe hacer clic en M;
+
+4. El número de teléfono no ha sido sometido a otras operaciones
+
+Proceso de manejo
+1. Obtener FN del usuario
+
+2. Determinar si el número de teléfono original es X
+
+3. Determinar si el número de teléfono original ha sido D, si es D, entonces se debe realizar V, si no es D, entonces se debe realizar T
+
+4. Determinar si el nuevo número de teléfono es recién generado en el sistema
+
+(1) Determinar si el nuevo número de teléfono ya ha sido D: Página del usuario - A del usuario - S del usuario - Usar D del usuario para consultar y juzgar según las indicaciones
+(2) Determinar si el nuevo número de teléfono ya ha realizado X
+
+Z del usuario - X del usuario - C del usuario - Usar V del usuario para consultar y ver la columna [MG]
+
+[Ya D]: Informar al usuario que no se admite la modificación, se puede guiar al usuario para que use XXX para iniciar sesión
+
+[No D]: A del usuario - S del usuario - D del usuario - Realizar [Eliminar número de teléfono registrado]
+
+
+(V) Frases de referencia
+1. Obtener el número de teléfono:
+Hola, por favor proporcione su número de teléfono registrado original y el nuevo número de teléfono que desea cambiar, verificaré si cumple con las condiciones para el cambio.
+
+2. Si está X:
+Hola, el nuevo número que proporcionó actualmente no es compatible para cambiarlo como número de teléfono registrado. Lamentamos las molestias causadas. El sistema realiza una evaluación integral de sus calificaciones y lo hace de forma intermitente. Le sugerimos que preste atención a las actualizaciones de la APP.
+
+3. Si el número de teléfono original y nuevo cumplen con las condiciones:
+Hola, el servicio al cliente ha verificado que tanto su nuevo número de teléfono como su cuenta registrada original cumplen con las condiciones para cambiar el número de teléfono. Puede proceder con la operación de cambio en la APP.
+
+4. Si el nuevo número de teléfono ya está EE:
+Hola, el servicio al cliente ha verificado que su nuevo número de teléfono XXXXXX no es compatible como número modificable. Le sugerimos que inicie sesión directamente con el nuevo número de teléfono para verificar.
+
+5. RR nuevo número de teléfono:
+Hola, el servicio al cliente ha verificado que su nuevo número de teléfono ya está FFF, lo que afectará el éxito de su modificación. El servicio al cliente ya ha GGG la información de registro para usted. Puede proceder con la operación de cambio en la APP.
+
+
+Escenarios de error y soluciones
+
+1. El teléfono móvil no coincide con el SSS
+Razón: El número de teléfono móvil SSS del usuario no coincide con el EEE
+
+Acciones del servicio al cliente:
+a. Preguntar al usuario el número de serie ASD del nuevo número de teléfono RRR;
+b. Consultar el SSS del usuario en el backend y verificar si coincide con lo proporcionado por el usuario
+
+Soluciones:
+a. Si coincide, informar al departamento correspondiente para su procesamiento;
+b. Si no coincide, sugerir al usuario que intente nuevamente la operación YUI en su teléfono.
+
+Diálogo de referencia:
+
+a. Coincide: Hola, su problema ha sido informado al departamento correspondiente para su verificación. Un representante le llamará más tarde, por favor esté atento a la llamada.
+
+b. No coincide: Hola, se muestra el número de teléfono W, ¿el T y H de su número de teléfono son consistentes?
+
+2. Su información A ya está FIN. ¿Desea hacer clic en [Modificar número de teléfono de inicio de sesión] para modificarlo?
+
+Razón: El número de teléfono del usuario ya está SDD
+
+Acción del servicio al cliente: Guiar al usuario para que haga clic en el botón y siga las instrucciones
+
+Solución:
+Guiar al usuario para que haga clic en [Modificar número de teléfono de inicio de sesión] para iniciar sesión en la cuenta original registrada (después de redirigir a través de este botón, se AWESD y estará listo)
+
+Diálogo de referencia:
+Hola, si se le indica que su información A ya está FIN, significa que su información A ya ha sido ADE en nuestra plataforma. Puede hacer clic en [Modificar número de teléfono de inicio de sesión] y seguir las instrucciones para modificar el registro. Si su nuevo número de teléfono cumple con los requisitos, la vinculación se realizará con éxito.
+
+3. Su cuenta ya está TR o tiene una situación W3, no se admite esta operación
+Razón: El nuevo número de teléfono del usuario ya tiene un registro histórico (no necesariamente información de préstamo propia)
+
+Acción del servicio al cliente: Guiar al usuario para que inicie sesión en la APP con el nuevo número de teléfono
+
+Diálogo de referencia:
+Hola, su cuenta ya está TR. Le sugerimos que inicie sesión directamente con el nuevo número de teléfono para verificar.
+
+4. El número de teléfono que se va a modificar ya está PP
+Razón: El nuevo número de teléfono del usuario ya está PP
+
+Acción del servicio al cliente:
+Verificar en el sistema de usuarios del backend Q - Usuario C - Usuario V - Operación, si hay un botón [FG]
+
+Solución:
+a. Si hay botón, se puede realizar la operación T: Operar para el usuario y luego guiarlo para que modifique nuevamente;
+b. Si no hay botón, no se puede realizar la operación T: Informar al usuario que intente con otro número
+
+Diálogo de referencia:
+
+a. Con botón, se puede operar T, diálogo guía: Hola, su nuevo número de teléfono ya está QW, lo que afectará su modificación. El servicio al cliente le ayudará con la operación T, después de lo cual puede intentar modificar nuevamente el número de teléfono registrado. ¿Necesita que el servicio al cliente lo haga por usted?
+
+b. Sin botón, no se puede operar, diálogo guía: Hola, el nuevo número de teléfono que proporcionó ya existe E, no se puede usar como nuevo número de teléfono para la modificación. Le sugerimos que cambie a otro número de teléfono para el registro.
+
+5. Se ha alcanzado el límite de cambios de número para hoy, intente mañana o contacte al servicio al cliente
+Razón: Las solicitudes de cambio de número de teléfono del usuario para el día han excedido x veces (por ejemplo, hizo clic en el botón x veces, pero no significa que el cambio haya sido exitoso)
+
+Solución: El servicio al cliente debe verificar activamente si los nuevos y viejos números de teléfono que el usuario desea cambiar cumplen con las reglas de modificación, y al mismo tiempo informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente
+
+Diálogo de referencia:
+Hola, el cambio de número de teléfono tiene un límite de veces. Se permite un máximo de x solicitudes por día y y veces por mes. Ha alcanzado el límite diario. (Informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente)
+
+
+Aquí está la traducción del documento del chino al español:
+
+## Pregunta: Cambié mi número, ¿cómo inicio sesión?
+Respuesta: Resumen del tratamiento de primera línea: Primero determine si el número de teléfono original del cliente no está A, y debe cumplir con que el nuevo número de teléfono no haya sido X, que la información B sea consistente con la cuenta original, y que el tiempo de uso supere los C días, solo entonces se puede realizar el cambio. Determine la APP que el cliente registró, si está usando la versión 7 de la APP, informe al usuario que no es compatible con el sistema móvil de Banjia y que necesita usar el sistema XO para cambiar el número de teléfono.
+
+Ruta de operación para vincular un nuevo número de teléfono
+1. Si se puede iniciar sesión con el número original: Página principal de la APP - [Mi cuenta] en la esquina inferior derecha - [Más configuraciones] - [Configuración de seguridad] - [Modificar número de teléfono de inicio de sesión]
+2. Si no se puede iniciar sesión con el número original: En la página de inicio de sesión de la APP, haga clic en "Usar otro método de inicio de sesión" en la parte inferior, luego haga clic en el texto rojo en la parte superior [Haga clic para modificar el número de teléfono de inicio de sesión], siga las instrucciones para completar la información relevante y operar para modificar el número de teléfono registrado.
+
+(II) Condiciones para modificar el número de teléfono
+1. Cumplir con las condiciones de frecuencia: No más de 2 veces por mes para modificar el número de teléfono, y no más de 1 vez por día. Nota: Si el usuario informa que ha alcanzado el límite diario para cambiar el número, el servicio al cliente debe verificar activamente si los números nuevos y antiguos cumplen con las reglas de modificación, e informar al usuario sobre las reglas de cambio antes de guiarlo para que lo intente al día siguiente.
+
+2. El número de teléfono debe cumplir con las siguientes condiciones
+
+1) Condiciones para el número original:
+
+① El número original AAA;
+
+② El número original XXX;
+
+③ El número original YYY
+
+2) Condiciones para el nuevo número:
+
+① El nuevo número no puede tener SSS en la plataforma
+
+② El nuevo número debe GGG con la cuenta original;
+
+③ El nuevo número necesita RRR;
+
+④ El nuevo número del usuario debe ser EEE
+
+(III) Precauciones para el cambio de número de teléfono
+1. Al cambiar al nuevo número, se deben realizar C y D simultáneamente;
+
+2. El usuario ya ha operado T;
+
+3. Si el nuevo número tiene K, se debe hacer clic en M;
+
+4. El número de teléfono no ha realizado otras operaciones
+
+Proceso de manejo
+1. Obtener FN del usuario
+
+2. Determinar si el número original está X
+
+3. Determinar si el número original ha sido D, si es D, se debe operar V, si no es D, se debe operar T
+
+4. Determinar si el nuevo número se ha generado recientemente en el sistema
+
+(1) Determinar si el nuevo número ya está D: Página de usuario - A de usuario - S de usuario - Usar D de usuario para consultar y juzgar según las indicaciones
+(2) Determinar si el nuevo número ya ha operado X
+
+Z de usuario - X de usuario - C de usuario - Usar V de usuario para consultar y ver la columna [MG]
+
+[Ya D]: Informar al usuario que no se admite la modificación, se puede guiar al usuario para que inicie sesión con XXX
+
+[No D]: A de usuario - S de usuario - D de usuario - Operar [Eliminar número de teléfono registrado]
+
+
+(V) Guiones de referencia
+1. Obtener el número de teléfono:
+Hola, proporcione su número de teléfono registrado original y el nuevo número que desea cambiar, para que pueda verificar si cumplen con las condiciones de cambio.
+
+2. X:
+Hola, el nuevo número que proporcionó actualmente no admite cambios como número de teléfono registrado. Lamentamos las molestias causadas. El sistema realiza una evaluación integral de sus calificaciones, y el sistema realizará evaluaciones en momentos aleatorios. Le sugerimos que preste atención a las actualizaciones de la APP.
+
+3. Los números originales y nuevos cumplen con las condiciones:
+Hola, el servicio al cliente ha verificado que tanto su nuevo número de teléfono como su cuenta registrada original cumplen con las condiciones para cambiar el número. Puede proceder con el cambio en la APP.
+
+4. El nuevo número ya está EE:
+Hola, el servicio al cliente ha verificado que su nuevo número XXXXXX no es elegible para modificación. Le sugerimos que inicie sesión directamente con el nuevo número para verificar.
+
+5. RR nuevo número:
+Hola, el servicio al cliente ha verificado que su nuevo número ya está FFF, lo que afectará el éxito de la modificación. El servicio al cliente ya ha GGG la información de registro para usted. Puede proceder con el cambio en la APP.
+
+Escenarios de error y soluciones
+
+1. El teléfono móvil no coincide con el SSS
+Causa: El número de teléfono móvil SSS del usuario no coincide con el EEE
+
+Acciones del servicio al cliente:
+a. Preguntar al usuario el número de serie ASD del nuevo número de teléfono RRR;
+b. Consultar el SSS del usuario en el sistema y verificar si coincide con el proporcionado
+
+Soluciones:
+a. Si coincide, informar al departamento correspondiente;
+b. Si no coincide, sugerir al usuario que intente nuevamente la operación YUI en el teléfono.
+
+Guiones de referencia:
+
+a. Coincide: Hola, su problema ha sido informado al departamento correspondiente para verificación. Un empleado le llamará más tarde, por favor esté atento a la llamada.
+
+b. No coincide: Hola, se muestra el número de teléfono W, ¿su T y H del número de teléfono coinciden?
+
+2. Su información A ya está FIN. ¿Desea hacer clic en [Modificar número de teléfono de inicio de sesión] para modificarlo?
+
+Causa: El número de teléfono del usuario ya está SDD
+
+Acción del servicio al cliente: Guiar al usuario para que haga clic en el botón y siga las instrucciones
+
+Solución:
+Guiar al usuario para que haga clic en [Modificar número de teléfono de inicio de sesión] para iniciar sesión en la cuenta original (después de saltar a través de este botón, se AWESD y estará listo)
+
+Guion de referencia:
+Hola, si le indica que su información A ya está FIN, significa que su información A ya ha sido ADE en nuestra plataforma. Puede hacer clic en [Modificar número de teléfono de inicio de sesión] y seguir las instrucciones para modificar el registro. Si su nuevo número de teléfono cumple con los requisitos, podrá cambiar el enlace con éxito.
+
+3. Su cuenta ya está TR o tiene una situación W3, no se admite esta operación
+Causa: El nuevo número de teléfono del usuario ya tiene un registro histórico (no necesariamente información de préstamo del usuario)
+
+Acción del servicio al cliente: Guiar al usuario para que inicie sesión en la APP con el nuevo número de teléfono
+
+Guion de referencia:
+Hola, su cuenta ya está TR, le sugerimos que inicie sesión directamente con el nuevo número de teléfono para verificar.
+
+4. El número de teléfono que se va a modificar ya está PP
+Causa: El nuevo número de teléfono del usuario ya está PP
+
+Acción del servicio al cliente:
+Verificar en el sistema de usuarios Q-C de usuario-V de usuario-operación, si hay un botón [FG]
+
+Solución:
+a. Si hay botón, se puede operar T: Operar para el usuario y luego guiarlo para que modifique nuevamente;
+b. Si no hay botón, no se puede operar T: Informar al usuario que intente con otro número
+
+Guiones de referencia:
+
+a. Si hay botón, se puede operar T, guion de orientación: Hola, su nuevo número de teléfono ya está QW, lo que afectará su modificación. El servicio al cliente le ayudará a operar T, después de lo cual puede intentar modificar nuevamente el número de teléfono de registro. ¿Necesita que el servicio al cliente lo haga por usted?
+
+b. Si no hay botón, no se puede operar, guion de orientación: Hola, el nuevo número de teléfono que proporcionó ya existe E, no se admite como nuevo número de teléfono para modificación. Le sugerimos que cambie a otro número de teléfono para registrarse.
+
+5. Se ha alcanzado el límite diario de cambios de número, por favor intente mañana o contacte al servicio al cliente
+Causa: Las solicitudes de cambio de número de teléfono del usuario han superado x veces en el día (por ejemplo, hizo clic en el botón x veces, pero no significa que el cambio haya sido exitoso)
+
+Solución: El servicio al cliente debe verificar activamente si los nuevos y antiguos números de teléfono que el usuario desea cambiar cumplen con las reglas de modificación, y al mismo tiempo informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente
+
+Guion de referencia:
+Hola, hay un límite en el número de veces que se puede cambiar el número de teléfono, máximo x veces por día y y veces por mes. Ha alcanzado el límite diario. (Informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente)
+
+
+
+## Pregunta: Ya no uso mi número de teléfono anterior, ¿cómo procedo ahora?
+
+Respuesta: Resumen del manejo de primera línea: Primero determine si el número de teléfono original del cliente no es A, y si el nuevo número de teléfono no ha sido X, la información B coincide con la cuenta original y el tiempo de uso excede C días, solo entonces se puede realizar el cambio. Determine la aplicación que el cliente registró, si está usando la versión 7 de la APP, informe al usuario que no es compatible con el sistema de teléfono Banjia y que necesita usar el sistema XO para cambiar el número de teléfono.
+
+Pasos para cambiar el número de teléfono vinculado:
+1. Si puede iniciar sesión con el número original: Página principal de la APP - esquina inferior derecha [Mi cuenta] - [Más configuraciones] - [Configuración de seguridad] - [Modificar número de teléfono de inicio de sesión]
+2. Si no puede iniciar sesión con el número original: En la página de inicio de sesión de la APP, haga clic en "Usar otro método de inicio de sesión" en la parte inferior, luego haga clic en el texto rojo en la parte superior [Haga clic para modificar el número de teléfono de inicio de sesión], complete la información relevante según las indicaciones y siga los pasos para modificar el número de teléfono registrado.
+
+(II) Condiciones para modificar el número de teléfono
+1. Cumplir con las condiciones de frecuencia: No más de 2 veces al mes y no más de 1 vez al día. Nota: Si el usuario informa que ha alcanzado el límite diario para cambiar el número, el servicio al cliente debe verificar proactivamente si los números nuevos y antiguos cumplen con las reglas de modificación, e informar al usuario sobre las reglas de cambio antes de guiarlo para que lo intente al día siguiente.
+
+2. El número de teléfono debe cumplir las siguientes condiciones:
+
+1) Condiciones para el número original:
+① El número original debe ser AAA;
+② El número original debe ser XXX;
+③ El número original debe ser YYY
+
+2) Condiciones para el nuevo número:
+① El nuevo número no puede tener SSS en la plataforma
+② El nuevo número debe GGG con la cuenta original;
+③ El nuevo número debe RRR;
+④ El nuevo número del usuario debe ser EEE
+
+(III) Precauciones al cambiar el número de teléfono
+1. Al cambiar al nuevo número, se deben realizar C y D simultáneamente;
+2. El usuario ya ha realizado T;
+3. Si el nuevo número tiene K, se debe hacer clic en M;
+4. El número de teléfono no ha sido sometido a otras operaciones
+
+Proceso de manejo
+1. Obtener FN del usuario
+2. Determinar si el número original es X
+3. Determinar si el número original ha sido D, si es D, se debe realizar V, si no es D, se debe realizar T
+4. Determinar si el nuevo número se ha generado recientemente en el sistema
+
+(1) Determinar si el nuevo número ya está D: Página del usuario - A del usuario - S del usuario - Usar D del usuario para consultar y juzgar según las indicaciones
+(2) Determinar si el nuevo número ya ha sido X
+
+Z del usuario - X del usuario - C del usuario - Usar V del usuario para consultar y ver la columna [MG]
+
+[Ya D]: Informar al usuario que no se admite la modificación, se puede guiar al usuario para que inicie sesión con XXX
+[No D]: A del usuario - S del usuario - D del usuario - Realizar [Eliminar número de teléfono registrado]
+
+(V) Frases de referencia
+1. Obtener el número de teléfono:
+Hola, por favor proporcione su número de teléfono registrado original y el nuevo número que desea cambiar, verificaré si cumple con las condiciones para el cambio.
+
+2. Ha sido X:
+Hola, el nuevo número que proporcionó actualmente no es compatible para cambiarlo como número de teléfono registrado. Nos disculpamos por cualquier inconveniente. El sistema realiza una evaluación integral de sus calificaciones y lo hace de forma intermitente. Le sugerimos que preste atención a las actualizaciones de la APP.
+
+3. Los números original y nuevo cumplen las condiciones:
+Hola, el servicio al cliente ha verificado que tanto su nuevo número de teléfono como su cuenta registrada original cumplen con las condiciones para cambiar el número. Puede proceder con el cambio en la APP.
+
+4. El nuevo número ya está EE:
+Hola, el servicio al cliente ha verificado que su nuevo número XXXXXX no es compatible para modificación. Le sugerimos que inicie sesión directamente con el nuevo número para verificar.
+
+5. RR el nuevo número:
+Hola, el servicio al cliente ha verificado que su nuevo número de teléfono ya está FFF, lo que afectará el éxito de la modificación. El servicio al cliente ya ha GGG la información de registro para usted. Puede proceder con el cambio en la APP.
+
+
+Escenarios de error y soluciones
+
+1. El teléfono no coincide con el SSS
+Causa: El número de teléfono SSS del usuario no coincide con el EEE
+
+Acciones del servicio al cliente:
+a. Preguntar al usuario el número de serie ASD del nuevo número de teléfono RRR;
+b. Consultar el SSS del usuario en el backend y verificar si coincide con lo proporcionado por el usuario
+
+Solución:
+a. Si coincide, reportar para procesamiento +1; b. Si no coincide, sugerir al usuario que intente nuevamente la operación YUI en el teléfono.
+
+Frases de referencia:
+
+a. Coincide: Hola, su problema ha sido reportado al departamento correspondiente para verificación. Un representante le llamará posteriormente, por favor esté atento a la llamada.
+
+b. No coincide: Hola, se muestra el número de teléfono W, ¿su T y H del número de teléfono son consistentes?
+
+2. Su información A ya está FIN. ¿Desea hacer clic en [Modificar número de teléfono de inicio de sesión] para modificarlo?
+
+Causa: El número de teléfono del usuario ya está SDD
+
+Acción del servicio al cliente: Guiar al usuario para hacer clic en el botón y seguir las instrucciones
+
+Solución:
+Guiar al usuario para hacer clic en [Modificar número de teléfono de inicio de sesión] para iniciar sesión en la cuenta original registrada (después de redirigir a través de este botón, se completará AWESD)
+
+Frase de referencia:
+Hola, si se indica que su información A ya está FIN, significa que su información A ya ha sido ADE en nuestra plataforma. Puede hacer clic en [Modificar número de teléfono de inicio de sesión] y seguir las instrucciones para modificar el registro. Si su nuevo número de teléfono cumple con los requisitos, podrá cambiar el enlace con éxito.
+
+3. Su cuenta ya está TR o tiene una situación W3, no se admite esta operación
+Causa: El nuevo número de teléfono del usuario ya tiene un registro histórico (no necesariamente información de préstamo personal)
+
+Acción del servicio al cliente: Guiar al usuario para iniciar sesión en la APP con el nuevo número de teléfono
+
+Frase de referencia:
+Hola, su cuenta ya está TR, le sugerimos que inicie sesión directamente con el nuevo número de teléfono para verificar.
+
+4. El número de teléfono que se va a modificar ya está PP
+Causa: El nuevo número de teléfono del usuario ya está PP
+
+Acción del servicio al cliente:
+Verificar en el sistema de usuarios backend Q - Usuario C - Usuario V - Operación, si hay un botón [FG]
+
+Solución:
+a. Si hay botón, se puede operar T: Operar para el usuario y luego guiarlo para modificar nuevamente;
+b. Si no hay botón, no se puede operar T: Informar al usuario que intente con otro número
+
+Frases de referencia:
+
+a. Si hay botón y se puede operar T, frase guía: Hola, su nuevo número de teléfono ya está QW, lo que afectará su modificación. Después de que el servicio al cliente opere T para usted, puede intentar modificar nuevamente el número de teléfono registrado. ¿Necesita que el servicio al cliente lo haga por usted?
+
+b. Si no hay botón y no se puede operar, frase guía: Hola, el nuevo número de teléfono que proporcionó ya existe E, no se admite como nuevo número de teléfono para modificación. Le sugerimos que cambie a otro número de teléfono para registrarse.
+
+5. Se ha alcanzado el límite diario de cambios de número, intente nuevamente mañana o contacte al servicio al cliente
+Causa: Las solicitudes de cambio de número de teléfono del usuario en el día han superado x veces (por ejemplo, hizo clic en el botón x veces, pero no significa que el cambio haya sido exitoso)
+
+Solución: El servicio al cliente debe verificar activamente si los números de teléfono nuevo y antiguo del usuario cumplen con las reglas de modificación, y al mismo tiempo informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente
+
+Frase de referencia:
+Hola, hay un límite en el número de cambios de teléfono, con un máximo de x solicitudes por día y y por mes. Usted ha alcanzado el límite diario. (Informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente)
+
+
+
+## Pregunta: Cambié mi número, ¿cómo puedo iniciar sesión?
+Respuesta: Resumen del manejo de primera línea: Primero determine si el número de teléfono original del cliente no está A, y debe cumplir con que el nuevo número no haya sido X antes, que la información B coincida con la cuenta original, y que el tiempo de uso exceda C días, solo entonces se puede realizar el cambio. Determine qué APP registró el cliente, si está usando la versión 7 de la APP, informe al usuario que no es compatible con el sistema móvil de Banjia y que necesita usar el sistema XO para cambiar el número de teléfono.
+
+Pasos para cambiar el número de teléfono vinculado
+1. Si puede iniciar sesión con el número original: Página principal de la APP - [Mi] en la esquina inferior derecha - [Más configuraciones] - [Configuración de seguridad] - [Modificar número de teléfono de inicio de sesión]
+2. Si no puede iniciar sesión con el número original: En la página de inicio de sesión de la APP, haga clic en "Usar otro método de inicio de sesión" en la parte inferior, luego haga clic en el texto rojo en la parte superior [Haga clic para modificar el número de teléfono de inicio de sesión], siga las instrucciones para completar la información relevante y opere para modificar el número de teléfono registrado.
+
+(II) Condiciones para modificar el número de teléfono
+1. Cumplir con las condiciones de frecuencia: No más de 2 veces por mes para modificar el número de teléfono, y no más de 1 vez por día. Nota: Si el usuario informa que ha alcanzado el límite diario para cambiar el número, el servicio al cliente debe verificar proactivamente si los números nuevos y antiguos cumplen con las reglas de modificación, y al mismo tiempo informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente.
+
+2. El número de teléfono debe cumplir con las siguientes condiciones
+
+1) Condiciones para el número original:
+
+①El número original AAA;
+
+②El número original XXX;
+
+③El número original YYY
+
+2) Condiciones para el nuevo número:
+
+①El nuevo número no puede tener SSS en la plataforma
+
+②El nuevo número debe GGG con la cuenta original;
+
+③El nuevo número necesita RRR;
+
+④El nuevo número del usuario debe ser EEE
+
+(III) Precauciones para el cambio de número de teléfono
+1. Al cambiar al nuevo número, C y D deben realizarse simultáneamente;
+
+2. El usuario ya ha realizado T;
+
+3. Si el nuevo número tiene K, se debe hacer clic en M;
+
+4. El número de teléfono no ha sido sometido a otras operaciones
+
+Proceso de manejo
+1. Obtener FN del usuario
+
+2. Determinar si el número original está X
+
+3. Determinar si el número original ha sido D, si es D, se necesita operar V, si no es D, se necesita operar T
+
+4. Determinar si el nuevo número se ha generado recientemente en el sistema
+
+(1) Determinar si el nuevo número ya está D: Página del usuario - A del usuario - S del usuario - Usar D del usuario para consultar y juzgar según las indicaciones
+(2) Determinar si el nuevo número ya ha sido operado X
+
+Z del usuario - X del usuario - C del usuario - Usar V del usuario para consultar y ver la columna [MG]
+
+[Ya D]: Informar al usuario que no se admite la modificación, se puede guiar al usuario para que use XXX para iniciar sesión
+
+[No D]: A del usuario - S del usuario - D del usuario - Operar [Eliminar número de teléfono registrado]
+
+(V) Ejemplos de diálogo
+1. Obtener el número de teléfono:
+Hola, por favor proporcione su número de teléfono registrado original y el nuevo número que desea cambiar, verificaré si cumplen con las condiciones para el cambio.
+
+2. Está X:
+Hola, el nuevo número que proporcionó actualmente no es compatible para cambiarlo como número de teléfono registrado. Nos disculpamos por los inconvenientes causados. El sistema realiza una evaluación integral de sus calificaciones, y la evaluación se realiza de manera irregular. Le sugerimos que preste atención a las actualizaciones de la APP.
+
+3. El número original y el nuevo cumplen con las condiciones:
+Hola, el servicio al cliente ha verificado que tanto su nuevo número de teléfono como la cuenta registrada original cumplen con las condiciones para cambiar el número. Puede proceder con el cambio en la APP.
+
+4. El nuevo número ya está EE:
+Hola, el servicio al cliente ha verificado que su nuevo número XXXXXX no es compatible como número modificable. Le sugerimos que inicie sesión directamente con el nuevo número para verificar.
+
+5. RR el nuevo número:
+Hola, el servicio al cliente ha verificado que su nuevo número de teléfono ya está FFF, lo que afectará el éxito de la modificación. El servicio al cliente ya ha GGG la información de registro para usted. Puede proceder con el cambio en la APP.
+
+
+Escenarios de error y soluciones
+
+1. El teléfono no coincide con el SSS
+Causa: El número de teléfono SSS del usuario no coincide con el EEE
+
+Acciones del servicio al cliente:
+a. Preguntar al usuario el número de serie ASD del nuevo número de teléfono RRR;
+b. Consultar el SSS del usuario en el backend y verificar si coincide con lo proporcionado por el usuario
+
+Solución:
+a. Si coincide, reportar para procesamiento +1; b. Si no coincide, sugerir al usuario que intente nuevamente la operación YUI en el teléfono.
+
+Frases de referencia:
+
+a. Coincide: Hola, su problema ha sido reportado al departamento correspondiente para verificación. Un representante le llamará posteriormente, por favor esté atento a la llamada.
+
+b. No coincide: Hola, se muestra el número de teléfono W, ¿su T y H del número de teléfono son consistentes?
+
+2. Su información A ya está FIN. ¿Desea hacer clic en [Modificar número de teléfono de inicio de sesión] para modificarlo?
+
+Causa: El número de teléfono del usuario ya está SDD
+
+Acción del servicio al cliente: Guiar al usuario para hacer clic en el botón y seguir las instrucciones
+
+Solución:
+Guiar al usuario para hacer clic en [Modificar número de teléfono de inicio de sesión] para iniciar sesión en la cuenta original registrada (después de redirigir a través de este botón, se completará AWESD)
+
+Frase de referencia:
+Hola, si se indica que su información A ya está FIN, significa que su información A ya ha sido ADE en nuestra plataforma. Puede hacer clic en [Modificar número de teléfono de inicio de sesión] y seguir las instrucciones para modificar el registro. Si su nuevo número de teléfono cumple con los requisitos, podrá cambiar el enlace con éxito.
+
+3. Su cuenta ya está TR o tiene una situación W3, no se admite esta operación
+Causa: El nuevo número de teléfono del usuario ya tiene un registro histórico (no necesariamente información de préstamo personal)
+
+Acción del servicio al cliente: Guiar al usuario para iniciar sesión en la APP con el nuevo número de teléfono
+
+Frase de referencia:
+Hola, su cuenta ya está TR, le sugerimos que inicie sesión directamente con el nuevo número de teléfono para verificar.
+
+4. El número de teléfono que se va a modificar ya está PP
+Causa: El nuevo número de teléfono del usuario ya está PP
+
+Acción del servicio al cliente:
+Verificar en el sistema de usuarios backend Q - Usuario C - Usuario V - Operación, si hay un botón [FG]
+
+Solución:
+a. Si hay botón, se puede operar T: Operar para el usuario y luego guiarlo para modificar nuevamente;
+b. Si no hay botón, no se puede operar T: Informar al usuario que intente con otro número
+
+Frases de referencia:
+
+a. Si hay botón y se puede operar T, frase guía: Hola, su nuevo número de teléfono ya está QW, lo que afectará su modificación. Después de que el servicio al cliente opere T para usted, puede intentar modificar nuevamente el número de teléfono registrado. ¿Necesita que el servicio al cliente lo haga por usted?
+
+b. Si no hay botón y no se puede operar, frase guía: Hola, el nuevo número de teléfono que proporcionó ya existe E, no se admite como nuevo número de teléfono para modificación. Le sugerimos que cambie a otro número de teléfono para registrarse.
+
+5. Se ha alcanzado el límite diario de cambios de número, intente nuevamente mañana o contacte al servicio al cliente
+Causa: Las solicitudes de cambio de número de teléfono del usuario en el día han superado x veces (por ejemplo, hizo clic en el botón x veces, pero no significa que el cambio haya sido exitoso)
+
+Solución: El servicio al cliente debe verificar activamente si los números de teléfono nuevo y antiguo del usuario cumplen con las reglas de modificación, y al mismo tiempo informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente
+
+Frase de referencia:
+Hola, hay un límite en el número de cambios de teléfono, con un máximo de x solicitudes por día y y por mes. Usted ha alcanzado el límite diario. (Informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente)
+
+
+## Pregunta: ¿Cómo inicio sesión con mi nuevo número de teléfono?
+
+Respuesta: Resumen del tratamiento de primera línea: Primero determine si el número de teléfono original del cliente no es A, y debe cumplir con que el nuevo número no haya sido X, que la información B sea consistente con la cuenta original, y que el tiempo de uso exceda C días, antes de poder realizar el cambio. Determine la aplicación que el cliente registró, si está utilizando la versión 7 de la APP, informe al usuario que no es compatible con el sistema de teléfono Banjia y que necesita usar el sistema XO para cambiar el número de teléfono.
+
+Ruta de operación para cambiar el número de teléfono vinculado:
+1. Si puede iniciar sesión con el número original: Página principal de la APP - esquina inferior derecha [Mi cuenta] - [Más configuraciones] - [Configuración de seguridad] - [Modificar número de teléfono de inicio de sesión]
+2. Si no puede iniciar sesión con el número original: A través de la página de inicio de sesión de la APP, haga clic en "Usar otro método de inicio de sesión" en la parte inferior de la página, luego haga clic en el texto rojo en la parte superior de la página [Haga clic para modificar el número de teléfono de inicio de sesión], siga las instrucciones para completar la información relevante y operar para modificar el número de teléfono registrado.
+
+(II) Condiciones para modificar el número de teléfono
+1. Cumplir con las condiciones de frecuencia: No más de 2 veces al mes y no más de 1 vez al día. Nota: Si el usuario informa que ha alcanzado el límite diario para cambiar el número de teléfono, el servicio al cliente debe verificar activamente si los números de teléfono nuevos y antiguos cumplen con las reglas de modificación, y al mismo tiempo informar al usuario sobre las reglas de cambio y guiarlo para que intente al día siguiente.
+
+2. El número de teléfono debe cumplir con las siguientes condiciones:
+
+1) Condiciones para el número de teléfono original:
+① El número original debe ser AAA;
+② El número original debe ser XXX;
+③ El número original debe ser YYY
+
+2) Condiciones para el nuevo número de teléfono:
+① El nuevo número no puede tener SSS en la plataforma
+② El nuevo número debe ser GGG con la cuenta original;
+③ El nuevo número debe ser RRR;
+④ El nuevo número del usuario debe ser EEE
+
+(III) Precauciones para el cambio de número de teléfono
+1. Al cambiar el nuevo número de teléfono, se deben realizar C y D simultáneamente;
+2. El usuario ya ha realizado T;
+3. Si el nuevo número de teléfono tiene K, entonces se debe hacer clic en M;
+4. El número de teléfono no ha sido sometido a otras operaciones
+
+Proceso de manejo
+1. Obtener FN del usuario
+2. Determinar si el número de teléfono original es X
+3. Determinar si el número de teléfono original ha sido D, si es D, entonces se debe realizar V, si no es D, entonces se debe realizar T
+4. Determinar si el nuevo número de teléfono se ha generado recientemente en el sistema
+
+(1) Determinar si el nuevo número de teléfono ya ha sido D: Página del usuario - A del usuario - S del usuario - Usar D del usuario para consultar y juzgar según las indicaciones
+(2) Determinar si el nuevo número de teléfono ya ha realizado X
+
+Z del usuario - X del usuario - C del usuario - Usar V del usuario para consultar y ver la columna [MG]
+
+[Ya D]: Informar al usuario que no se admite la modificación, se puede guiar al usuario para que use XXX para iniciar sesión
+
+[No D]: A del usuario - S del usuario - D del usuario - Realizar [Eliminar número de teléfono registrado]
+
+(V) Guiones de referencia
+1. Obtener número de teléfono:
+Hola, por favor proporcione su número de teléfono registrado original y el nuevo número que desea cambiar, verificaré si cumple con las condiciones para el cambio.
+
+2. X:
+Hola, el nuevo número que proporcionó actualmente no es compatible para cambiarlo como número de teléfono registrado. Nos disculpamos por cualquier inconveniente. El sistema realiza una evaluación integral de sus calificaciones y lo hace de manera irregular. Le sugerimos que preste atención a las actualizaciones de la APP.
+
+3. Los números de teléfono original y nuevo cumplen con las condiciones:
+Hola, el servicio al cliente ha verificado que tanto su nuevo número de teléfono como su cuenta registrada original cumplen con las condiciones para cambiar el número de teléfono. Puede proceder con el cambio en la APP.
+
+4. El nuevo número de teléfono ya es EE:
+Hola, el servicio al cliente ha verificado que su nuevo número de teléfono XXXXXX no es compatible como número modificable. Le sugerimos que inicie sesión directamente con el nuevo número de teléfono para verificar.
+
+5. RR nuevo número de teléfono:
+Hola, el servicio al cliente ha verificado que su nuevo número de teléfono ya ha sido FFF, lo que afectará el éxito de su modificación. El servicio al cliente ya ha ayudado a GGG la información de registro, puede proceder con el cambio en la APP.
+
+Escenarios de error y soluciones
+
+1. El teléfono no coincide con el SSS
+Causa: El número de teléfono SSS del usuario no coincide con el EEE
+
+Acciones del servicio al cliente:
+a. Preguntar al usuario el número de serie ASD del nuevo número de teléfono RRR;
+b. Consultar el SSS del usuario en el backend y verificar si coincide con lo proporcionado por el usuario
+
+Solución:
+a. Si coincide, reportar para procesamiento +1; b. Si no coincide, sugerir al usuario que intente nuevamente la operación YUI en el teléfono.
+
+Frases de referencia:
+
+a. Coincide: Hola, su problema ha sido reportado al departamento correspondiente para verificación. Un representante le llamará posteriormente, por favor esté atento a la llamada.
+
+b. No coincide: Hola, se muestra el número de teléfono W, ¿su T y H del número de teléfono son consistentes?
+
+2. Su información A ya está FIN. ¿Desea hacer clic en [Modificar número de teléfono de inicio de sesión] para modificarlo?
+
+Causa: El número de teléfono del usuario ya está SDD
+
+Acción del servicio al cliente: Guiar al usuario para hacer clic en el botón y seguir las instrucciones
+
+Solución:
+Guiar al usuario para hacer clic en [Modificar número de teléfono de inicio de sesión] para iniciar sesión en la cuenta original registrada (después de redirigir a través de este botón, se completará AWESD)
+
+Frase de referencia:
+Hola, si se indica que su información A ya está FIN, significa que su información A ya ha sido ADE en nuestra plataforma. Puede hacer clic en [Modificar número de teléfono de inicio de sesión] y seguir las instrucciones para modificar el registro. Si su nuevo número de teléfono cumple con los requisitos, podrá cambiar el enlace con éxito.
+
+3. Su cuenta ya está TR o tiene una situación W3, no se admite esta operación
+Causa: El nuevo número de teléfono del usuario ya tiene un registro histórico (no necesariamente información de préstamo personal)
+
+Acción del servicio al cliente: Guiar al usuario para iniciar sesión en la APP con el nuevo número de teléfono
+
+Frase de referencia:
+Hola, su cuenta ya está TR, le sugerimos que inicie sesión directamente con el nuevo número de teléfono para verificar.
+
+4. El número de teléfono que se va a modificar ya está PP
+Causa: El nuevo número de teléfono del usuario ya está PP
+
+Acción del servicio al cliente:
+Verificar en el sistema de usuarios backend Q - Usuario C - Usuario V - Operación, si hay un botón [FG]
+
+Solución:
+a. Si hay botón, se puede operar T: Operar para el usuario y luego guiarlo para modificar nuevamente;
+b. Si no hay botón, no se puede operar T: Informar al usuario que intente con otro número
+
+Frases de referencia:
+
+a. Si hay botón y se puede operar T, frase guía: Hola, su nuevo número de teléfono ya está QW, lo que afectará su modificación. Después de que el servicio al cliente opere T para usted, puede intentar modificar nuevamente el número de teléfono registrado. ¿Necesita que el servicio al cliente lo haga por usted?
+
+b. Si no hay botón y no se puede operar, frase guía: Hola, el nuevo número de teléfono que proporcionó ya existe E, no se admite como nuevo número de teléfono para modificación. Le sugerimos que cambie a otro número de teléfono para registrarse.
+
+5. Se ha alcanzado el límite diario de cambios de número, intente nuevamente mañana o contacte al servicio al cliente
+Causa: Las solicitudes de cambio de número de teléfono del usuario en el día han superado x veces (por ejemplo, hizo clic en el botón x veces, pero no significa que el cambio haya sido exitoso)
+
+Solución: El servicio al cliente debe verificar activamente si los números de teléfono nuevo y antiguo del usuario cumplen con las reglas de modificación, y al mismo tiempo informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente
+
+Frase de referencia:
+Hola, hay un límite en el número de cambios de teléfono, con un máximo de x solicitudes por día y y por mes. Usted ha alcanzado el límite diario. (Informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente)
+
+
+
+## Pregunta: ¿Puedes modificar mi número de teléfono de inicio de sesión?
+
+Respuesta: Resumen del manejo de primera línea: Primero determine si el número de teléfono original del cliente no es A, y si el nuevo número de teléfono cumple con los requisitos de no haber sido X, que la información B coincida con la cuenta original, y que el tiempo de uso exceda C días, antes de poder realizar el cambio. Verifique la aplicación que el cliente está usando para registrarse. Si está usando la versión 7 de la APP, informe al usuario que no es compatible con el sistema móvil de Banjia y que necesita usar el sistema XO para cambiar el número de teléfono.
+
+Pasos para cambiar el número de teléfono vinculado:
+1. Si se puede iniciar sesión con el número original: En la página principal de la APP, vaya a [Mi cuenta] en la esquina inferior derecha - [Más configuraciones] - [Configuración de seguridad] - [Modificar número de teléfono de inicio de sesión]
+2. Si no se puede iniciar sesión con el número original: En la página de inicio de sesión de la APP, haga clic en "Usar otro método de inicio de sesión" en la parte inferior, luego haga clic en el texto rojo en la parte superior que dice [Haga clic para modificar el número de teléfono de inicio de sesión], y siga las instrucciones para completar la información relevante y modificar el número de teléfono registrado.
+
+(II) Condiciones para modificar el número de teléfono
+1. Cumplir con las condiciones de frecuencia: No más de 2 veces al mes y no más de 1 vez por día. Nota: Si el usuario informa que ha alcanzado el límite diario para cambiar el número, el servicio al cliente debe verificar activamente si los números nuevos y antiguos cumplen con las reglas de modificación, e informar al usuario sobre las reglas antes de guiarlo para que lo intente al día siguiente.
+
+2. El número de teléfono debe cumplir con las siguientes condiciones:
+
+1) Condiciones para el número original:
+
+① El número original debe ser AAA;
+
+② El número original debe ser XXX;
+
+③ El número original debe ser YYY
+
+2) Condiciones para el nuevo número:
+
+① El nuevo número no puede tener SSS en la plataforma
+
+② El nuevo número debe coincidir con GGG de la cuenta original;
+
+③ El nuevo número debe ser RRR;
+
+④ El nuevo número del usuario debe ser EEE
+
+(III) Precauciones para el cambio de número de teléfono
+1. Al cambiar el nuevo número, C y D deben realizarse simultáneamente;
+
+2. El usuario ya ha realizado T;
+
+3. Si el nuevo número tiene K, se debe hacer clic en M;
+
+4. El número de teléfono no ha sido sometido a otras operaciones
+
+Proceso de manejo
+1. Obtener FN del usuario
+
+2. Determinar si el número original es X
+
+3. Determinar si el número original ha sido D, si es D, entonces se debe realizar V, si no es D, entonces se debe realizar T
+
+4. Determinar si el nuevo número se ha generado recientemente en el sistema
+
+(1) Determinar si el nuevo número ya ha sido D: Página de usuario - A de usuario - S de usuario - Usar D de usuario para consultar y juzgar según las indicaciones
+(2) Determinar si el nuevo número ya ha realizado X
+
+Z de usuario - X de usuario - C de usuario - Usar V de usuario para consultar y ver la columna [MG]
+
+[Ya D]: Informar al usuario que no se admite la modificación, se puede guiar al usuario para que use XXX para iniciar sesión
+
+[No D]: A de usuario - S de usuario - D de usuario - Realizar [Eliminar número de teléfono registrado]
+
+(V) Guiones de referencia
+1. Obtener el número de teléfono:
+Hola, por favor proporcione su número de teléfono registrado original y el nuevo número que desea cambiar, verificaré si cumple con las condiciones para el cambio.
+
+2. Si está X:
+Hola, el nuevo número que proporcionó no es elegible para ser cambiado como número de teléfono registrado por el momento. Lamentamos las molestias ocasionadas. El sistema realiza una evaluación integral de sus calificaciones y lo hace periódicamente. Le sugerimos que preste atención a las actualizaciones de la APP.
+
+3. Si el número original y el nuevo cumplen con las condiciones:
+Hola, el servicio al cliente ha verificado que tanto su nuevo número de teléfono como su cuenta registrada original cumplen con las condiciones para cambiar el número. Puede proceder con el cambio en la APP.
+
+4. Si el nuevo número ya está EE:
+Hola, el servicio al cliente ha verificado que su nuevo número XXXXXX no es elegible para ser modificado. Le sugerimos que inicie sesión directamente con el nuevo número para verificar.
+
+5. RR el nuevo número:
+Hola, el servicio al cliente ha verificado que su nuevo número de teléfono ya está FFF, lo que afectará el éxito de la modificación. El servicio al cliente ya ha GGG la información de registro para usted. Puede proceder con el cambio en la APP.
+
+Escenarios de error y soluciones
+
+1. El teléfono no coincide con el SSS
+Causa: El número de teléfono SSS del usuario no coincide con el EEE
+
+Acciones del servicio al cliente:
+a. Preguntar al usuario el número de serie ASD del nuevo número de teléfono RRR;
+b. Consultar el SSS del usuario en el backend y verificar si coincide con lo proporcionado por el usuario
+
+Solución:
+a. Si coincide, reportar para procesamiento +1; b. Si no coincide, sugerir al usuario que intente nuevamente la operación YUI en el teléfono.
+
+Frases de referencia:
+
+a. Coincide: Hola, su problema ha sido reportado al departamento correspondiente para verificación. Un representante le llamará posteriormente, por favor esté atento a la llamada.
+
+b. No coincide: Hola, se muestra el número de teléfono W, ¿su T y H del número de teléfono son consistentes?
+
+2. Su información A ya está FIN. ¿Desea hacer clic en [Modificar número de teléfono de inicio de sesión] para modificarlo?
+
+Causa: El número de teléfono del usuario ya está SDD
+
+Acción del servicio al cliente: Guiar al usuario para hacer clic en el botón y seguir las instrucciones
+
+Solución:
+Guiar al usuario para hacer clic en [Modificar número de teléfono de inicio de sesión] para iniciar sesión en la cuenta original registrada (después de redirigir a través de este botón, se completará AWESD)
+
+Frase de referencia:
+Hola, si se indica que su información A ya está FIN, significa que su información A ya ha sido ADE en nuestra plataforma. Puede hacer clic en [Modificar número de teléfono de inicio de sesión] y seguir las instrucciones para modificar el registro. Si su nuevo número de teléfono cumple con los requisitos, podrá cambiar el enlace con éxito.
+
+3. Su cuenta ya está TR o tiene una situación W3, no se admite esta operación
+Causa: El nuevo número de teléfono del usuario ya tiene un registro histórico (no necesariamente información de préstamo personal)
+
+Acción del servicio al cliente: Guiar al usuario para iniciar sesión en la APP con el nuevo número de teléfono
+
+Frase de referencia:
+Hola, su cuenta ya está TR, le sugerimos que inicie sesión directamente con el nuevo número de teléfono para verificar.
+
+4. El número de teléfono que se va a modificar ya está PP
+Causa: El nuevo número de teléfono del usuario ya está PP
+
+Acción del servicio al cliente:
+Verificar en el sistema de usuarios backend Q - Usuario C - Usuario V - Operación, si hay un botón [FG]
+
+Solución:
+a. Si hay botón, se puede operar T: Operar para el usuario y luego guiarlo para modificar nuevamente;
+b. Si no hay botón, no se puede operar T: Informar al usuario que intente con otro número
+
+Frases de referencia:
+
+a. Si hay botón y se puede operar T, frase guía: Hola, su nuevo número de teléfono ya está QW, lo que afectará su modificación. Después de que el servicio al cliente opere T para usted, puede intentar modificar nuevamente el número de teléfono registrado. ¿Necesita que el servicio al cliente lo haga por usted?
+
+b. Si no hay botón y no se puede operar, frase guía: Hola, el nuevo número de teléfono que proporcionó ya existe E, no se admite como nuevo número de teléfono para modificación. Le sugerimos que cambie a otro número de teléfono para registrarse.
+
+5. Se ha alcanzado el límite diario de cambios de número, intente nuevamente mañana o contacte al servicio al cliente
+Causa: Las solicitudes de cambio de número de teléfono del usuario en el día han superado x veces (por ejemplo, hizo clic en el botón x veces, pero no significa que el cambio haya sido exitoso)
+
+Solución: El servicio al cliente debe verificar activamente si los números de teléfono nuevo y antiguo del usuario cumplen con las reglas de modificación, y al mismo tiempo informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente
+
+Frase de referencia:
+Hola, hay un límite en el número de cambios de teléfono, con un máximo de x solicitudes por día y y por mes. Usted ha alcanzado el límite diario. (Informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente)
+
+
+## Pregunta: ¿Dónde puedo introducir mi nuevo número de teléfono para iniciar sesión?
+
+Respuesta: Resumen del tratamiento de primera línea: Primero determine si el número de teléfono original del cliente no está A, y el nuevo número de teléfono debe cumplir con no haber sido X, la información B coincide con la cuenta original, y el tiempo de uso supera los C días, antes de poder realizar el cambio. Verifique la aplicación que el cliente ha registrado; si está usando la versión 7 de la APP, informe al usuario que no es compatible con el sistema de teléfono Banjia y que necesita usar el sistema XO para cambiar el número de teléfono.
+
+Pasos para cambiar el número de teléfono vinculado:
+1. Si puede iniciar sesión con el número original: Página principal de la APP > "Mi perfil" en la esquina inferior derecha > "Más configuraciones" > "Configuración de seguridad" > "Modificar número de teléfono de inicio de sesión"
+2. Si no puede iniciar sesión con el número original: En la página de inicio de sesión de la APP, haga clic en "Usar otro método de inicio de sesión" en la parte inferior, luego haga clic en el texto rojo "Haga clic para modificar el número de teléfono de inicio de sesión" en la parte superior, y siga las instrucciones para completar la información relevante y modificar el número de teléfono registrado.
+
+(II) Condiciones para modificar el número de teléfono
+1. Cumplir con las condiciones de frecuencia: No más de 2 veces al mes y no más de 1 vez al día. Nota: Si el usuario informa que ha alcanzado el límite diario para cambiar el número, el servicio al cliente debe verificar proactivamente si los números nuevos y antiguos cumplen con las reglas de modificación, e informar al usuario sobre las reglas antes de guiarlo para que intente al día siguiente.
+
+2. El número de teléfono debe cumplir con las siguientes condiciones:
+
+1) Condiciones para el número original:
+① El número original AAA;
+② El número original XXX;
+③ El número original YYY
+
+2) Condiciones para el nuevo número:
+① El nuevo número no puede tener SSS en la plataforma
+② El nuevo número debe GGG con la cuenta original;
+③ El nuevo número debe RRR;
+④ El nuevo número del usuario debe ser EEE
+
+(III) Consideraciones para el cambio de número de teléfono
+1. Al cambiar el nuevo número, C y D deben realizarse simultáneamente;
+2. El usuario ya ha realizado T;
+3. Si el nuevo número tiene K, es necesario hacer clic en M;
+4. El número de teléfono no ha sido sometido a otras operaciones
+
+Proceso de manejo
+1. Obtener FN del usuario
+2. Determinar si el número original está X
+3. Determinar si el número original ha sido D; si es D, se necesita realizar V; si no es D, se necesita realizar T
+4. Determinar si el nuevo número se ha generado recientemente en el sistema
+
+(1) Determinar si el nuevo número ya está D: Página del usuario - A del usuario - S del usuario - Usar D del usuario para consultar y juzgar según las indicaciones
+(2) Determinar si el nuevo número ya ha realizado X
+
+Z del usuario - X del usuario - C del usuario - Usar V del usuario para consultar y verificar la columna [MG]
+
+[Ya D]: Informar al usuario que no se admite la modificación, se puede guiar al usuario para que inicie sesión con XXX
+
+[No D]: A del usuario - S del usuario - D del usuario - Realizar [Eliminar número de teléfono registrado]
+
+(V) Guiones de referencia
+1. Obtener el número de teléfono:
+Hola, por favor proporcione su número de teléfono registrado original y el nuevo número que desea cambiar, para que pueda verificar si cumplen con las condiciones de cambio.
+
+2. X:
+Hola, el nuevo número que proporcionó no es elegible actualmente para ser cambiado como número de teléfono registrado. Nos disculpamos por cualquier inconveniente. El sistema realiza una evaluación integral de su calificación y se actualiza periódicamente. Le sugerimos que preste atención a las actualizaciones de la APP.
+
+3. Números original y nuevo cumplen con las condiciones:
+Hola, el servicio al cliente ha verificado que tanto su nuevo número de teléfono como su cuenta registrada original cumplen con las condiciones para cambiar el número. Puede proceder con el cambio en la APP.
+
+4. El nuevo número ya está EE:
+Hola, el servicio al cliente ha verificado que su nuevo número XXXXXX no es elegible para ser modificado. Le sugerimos que intente iniciar sesión directamente con el nuevo número.
+
+5. RR el nuevo número:
+Hola, el servicio al cliente ha verificado que su nuevo número de teléfono ya está FFF, lo que podría afectar el éxito de la modificación. El servicio al cliente ha GGG la información de registro para usted. Ahora puede proceder con el cambio en la APP.
+Escenarios de error y soluciones
+
+1. El teléfono no coincide con el SSS
+Causa: El número de teléfono SSS del usuario no coincide con el EEE
+
+Acciones del servicio al cliente:
+a. Preguntar al usuario el número de serie ASD del nuevo número de teléfono RRR;
+b. Consultar el SSS del usuario en el backend y verificar si coincide con lo proporcionado por el usuario
+
+Solución:
+a. Si coincide, reportar para procesamiento +1; b. Si no coincide, sugerir al usuario que intente nuevamente la operación YUI en el teléfono.
+
+Frases de referencia:
+
+a. Coincide: Hola, su problema ha sido reportado al departamento correspondiente para verificación. Un representante le llamará posteriormente, por favor esté atento a la llamada.
+
+b. No coincide: Hola, se muestra el número de teléfono W, ¿su T y H del número de teléfono son consistentes?
+
+2. Su información A ya está FIN. ¿Desea hacer clic en [Modificar número de teléfono de inicio de sesión] para modificarlo?
+
+Causa: El número de teléfono del usuario ya está SDD
+
+Acción del servicio al cliente: Guiar al usuario para hacer clic en el botón y seguir las instrucciones
+
+Solución:
+Guiar al usuario para hacer clic en [Modificar número de teléfono de inicio de sesión] para iniciar sesión en la cuenta original registrada (después de redirigir a través de este botón, se completará AWESD)
+
+Frase de referencia:
+Hola, si se indica que su información A ya está FIN, significa que su información A ya ha sido ADE en nuestra plataforma. Puede hacer clic en [Modificar número de teléfono de inicio de sesión] y seguir las instrucciones para modificar el registro. Si su nuevo número de teléfono cumple con los requisitos, podrá cambiar el enlace con éxito.
+
+3. Su cuenta ya está TR o tiene una situación W3, no se admite esta operación
+Causa: El nuevo número de teléfono del usuario ya tiene un registro histórico (no necesariamente información de préstamo personal)
+
+Acción del servicio al cliente: Guiar al usuario para iniciar sesión en la APP con el nuevo número de teléfono
+
+Frase de referencia:
+Hola, su cuenta ya está TR, le sugerimos que inicie sesión directamente con el nuevo número de teléfono para verificar.
+
+4. El número de teléfono que se va a modificar ya está PP
+Causa: El nuevo número de teléfono del usuario ya está PP
+
+Acción del servicio al cliente:
+Verificar en el sistema de usuarios backend Q - Usuario C - Usuario V - Operación, si hay un botón [FG]
+
+Solución:
+a. Si hay botón, se puede operar T: Operar para el usuario y luego guiarlo para modificar nuevamente;
+b. Si no hay botón, no se puede operar T: Informar al usuario que intente con otro número
+
+Frases de referencia:
+
+a. Si hay botón y se puede operar T, frase guía: Hola, su nuevo número de teléfono ya está QW, lo que afectará su modificación. Después de que el servicio al cliente opere T para usted, puede intentar modificar nuevamente el número de teléfono registrado. ¿Necesita que el servicio al cliente lo haga por usted?
+
+b. Si no hay botón y no se puede operar, frase guía: Hola, el nuevo número de teléfono que proporcionó ya existe E, no se admite como nuevo número de teléfono para modificación. Le sugerimos que cambie a otro número de teléfono para registrarse.
+
+5. Se ha alcanzado el límite diario de cambios de número, intente nuevamente mañana o contacte al servicio al cliente
+Causa: Las solicitudes de cambio de número de teléfono del usuario en el día han superado x veces (por ejemplo, hizo clic en el botón x veces, pero no significa que el cambio haya sido exitoso)
+
+Solución: El servicio al cliente debe verificar activamente si los números de teléfono nuevo y antiguo del usuario cumplen con las reglas de modificación, y al mismo tiempo informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente
+
+Frase de referencia:
+Hola, hay un límite en el número de cambios de teléfono, con un máximo de x solicitudes por día y y por mes. Usted ha alcanzado el límite diario. (Informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente)
+
+
+## Pregunta: Proceso de cambio del número de teléfono registrado
+
+Respuesta: Resumen del manejo de primera línea: Primero determine si el número de teléfono original del cliente no está A, y el nuevo número de teléfono no debe haber sido X, la información B debe coincidir con la cuenta original, y el tiempo de uso debe exceder C días para poder realizar el cambio. Determine la aplicación que el cliente está usando para registrarse, si está usando la versión 7 de la APP, informe al usuario que no es compatible con el sistema móvil Banjia y necesita usar el sistema XO para cambiar el número de teléfono.
+
+Pasos para cambiar el número de teléfono:
+1. Si se puede iniciar sesión con el número original: Página principal de la APP -> [Mi perfil] en la esquina inferior derecha -> [Más configuraciones] -> [Configuración de seguridad] -> [Modificar número de teléfono de inicio de sesión]
+2. Si no se puede iniciar sesión con el número original: En la página de inicio de sesión de la APP, haga clic en "Usar otro método de inicio de sesión" en la parte inferior, luego haga clic en el texto rojo en la parte superior [Haga clic para modificar el número de teléfono de inicio de sesión], complete la información relevante según las indicaciones y siga las instrucciones para modificar el número de teléfono registrado.
+
+(II) Condiciones para modificar el número de teléfono
+1. Cumplir con las condiciones de frecuencia: No más de 2 veces por mes y no más de 1 vez por día. Nota: Si el usuario informa que ha alcanzado el límite diario para cambiar el número de teléfono, el servicio al cliente debe verificar activamente si los números de teléfono nuevos y antiguos cumplen con las reglas de modificación, y al mismo tiempo informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente.
+
+2. El número de teléfono debe cumplir con las siguientes condiciones:
+
+1) Condiciones para el número original:
+
+① El número original debe estar AAA;
+
+② El número original debe estar XXX;
+
+③ El número original debe estar YYY
+
+2) Condiciones para el nuevo número:
+
+① El nuevo número no puede tener SSS en la plataforma
+
+② El nuevo número debe GGG con la cuenta original;
+
+③ El nuevo número debe RRR;
+
+④ El nuevo número del usuario debe ser EEE
+
+(III) Consideraciones para el cambio de número de teléfono
+1. Al cambiar el nuevo número de teléfono, se deben realizar C y D simultáneamente;
+
+2. El usuario ya ha realizado T;
+
+3. Si el nuevo número tiene K, se debe hacer clic en M;
+
+4. El número de teléfono no ha tenido otras operaciones
+
+Proceso de manejo
+1. Obtener FN del usuario
+
+2. Determinar si el número original está X
+
+3. Determinar si el número original ha sido D, si es D, se debe realizar V, si no es D, se debe realizar T
+
+4. Determinar si el nuevo número se ha generado recientemente en el sistema
+
+(1) Determinar si el nuevo número ya está D: Página del usuario - A del usuario - S del usuario - Usar D del usuario para consultar y juzgar según las indicaciones
+(2) Determinar si el nuevo número ya ha realizado X
+
+Z del usuario - X del usuario - C del usuario - Usar V del usuario para consultar y ver la columna [MG]
+
+[Ya D]: Informar al usuario que no se admite la modificación, se puede guiar al usuario para que inicie sesión con XXX
+
+[No D]: A del usuario - S del usuario - D del usuario - Realizar [Eliminar número de teléfono registrado]
+
+(V) Frases de referencia
+1. Obtener el número de teléfono:
+Hola, por favor proporcione su número de teléfono registrado original y el nuevo número que desea cambiar, verificaré si cumple con las condiciones para el cambio.
+
+2. Está X:
+Hola, el nuevo número que proporcionó no es compatible temporalmente para cambiarlo como número de teléfono registrado. Lamentamos las molestias causadas. El sistema realiza una evaluación integral de sus calificaciones, y lo hace de forma periódica. Le sugerimos que preste atención a las actualizaciones de la APP.
+
+3. Los números original y nuevo cumplen las condiciones:
+Hola, el servicio al cliente ha verificado que tanto su nuevo número de teléfono como su cuenta registrada original cumplen con las condiciones para cambiar el número. Puede proceder con el cambio en la APP.
+
+4. El nuevo número ya está EE:
+Hola, el servicio al cliente ha verificado que su nuevo número XXXXXX no es compatible como número modificable. Le sugerimos que inicie sesión directamente con el nuevo número para verificar.
+
+5. RR el nuevo número:
+Hola, el servicio al cliente ha verificado que su nuevo número de teléfono ya está FFF, lo que afectará el éxito de la modificación. El servicio al cliente ya ha GGG la información de registro por usted. Puede proceder con el cambio en la APP.
+
+Escenarios de error y soluciones
+
+1. El teléfono no coincide con el SSS
+Causa: El número de teléfono SSS del usuario no coincide con el EEE
+
+Acciones del servicio al cliente:
+a. Preguntar al usuario el número de serie ASD del nuevo número de teléfono RRR;
+b. Consultar el SSS del usuario en el backend y verificar si coincide con lo proporcionado por el usuario
+
+Solución:
+a. Si coincide, reportar para procesamiento +1; b. Si no coincide, sugerir al usuario que intente nuevamente la operación YUI en el teléfono.
+
+Frases de referencia:
+
+a. Coincide: Hola, su problema ha sido reportado al departamento correspondiente para verificación. Un representante le llamará posteriormente, por favor esté atento a la llamada.
+
+b. No coincide: Hola, se muestra el número de teléfono W, ¿su T y H del número de teléfono son consistentes?
+
+2. Su información A ya está FIN. ¿Desea hacer clic en [Modificar número de teléfono de inicio de sesión] para modificarlo?
+
+Causa: El número de teléfono del usuario ya está SDD
+
+Acción del servicio al cliente: Guiar al usuario para hacer clic en el botón y seguir las instrucciones
+
+Solución:
+Guiar al usuario para hacer clic en [Modificar número de teléfono de inicio de sesión] para iniciar sesión en la cuenta original registrada (después de redirigir a través de este botón, se completará AWESD)
+
+Frase de referencia:
+Hola, si se indica que su información A ya está FIN, significa que su información A ya ha sido ADE en nuestra plataforma. Puede hacer clic en [Modificar número de teléfono de inicio de sesión] y seguir las instrucciones para modificar el registro. Si su nuevo número de teléfono cumple con los requisitos, podrá cambiar el enlace con éxito.
+
+3. Su cuenta ya está TR o tiene una situación W3, no se admite esta operación
+Causa: El nuevo número de teléfono del usuario ya tiene un registro histórico (no necesariamente información de préstamo personal)
+
+Acción del servicio al cliente: Guiar al usuario para iniciar sesión en la APP con el nuevo número de teléfono
+
+Frase de referencia:
+Hola, su cuenta ya está TR, le sugerimos que inicie sesión directamente con el nuevo número de teléfono para verificar.
+
+4. El número de teléfono que se va a modificar ya está PP
+Causa: El nuevo número de teléfono del usuario ya está PP
+
+Acción del servicio al cliente:
+Verificar en el sistema de usuarios backend Q - Usuario C - Usuario V - Operación, si hay un botón [FG]
+
+Solución:
+a. Si hay botón, se puede operar T: Operar para el usuario y luego guiarlo para modificar nuevamente;
+b. Si no hay botón, no se puede operar T: Informar al usuario que intente con otro número
+
+Frases de referencia:
+
+a. Si hay botón y se puede operar T, frase guía: Hola, su nuevo número de teléfono ya está QW, lo que afectará su modificación. Después de que el servicio al cliente opere T para usted, puede intentar modificar nuevamente el número de teléfono registrado. ¿Necesita que el servicio al cliente lo haga por usted?
+
+b. Si no hay botón y no se puede operar, frase guía: Hola, el nuevo número de teléfono que proporcionó ya existe E, no se admite como nuevo número de teléfono para modificación. Le sugerimos que cambie a otro número de teléfono para registrarse.
+
+5. Se ha alcanzado el límite diario de cambios de número, intente nuevamente mañana o contacte al servicio al cliente
+Causa: Las solicitudes de cambio de número de teléfono del usuario en el día han superado x veces (por ejemplo, hizo clic en el botón x veces, pero no significa que el cambio haya sido exitoso)
+
+Solución: El servicio al cliente debe verificar activamente si los números de teléfono nuevo y antiguo del usuario cumplen con las reglas de modificación, y al mismo tiempo informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente
+
+Frase de referencia:
+Hola, hay un límite en el número de cambios de teléfono, con un máximo de x solicitudes por día y y por mes. Usted ha alcanzado el límite diario. (Informar al usuario sobre las reglas de cambio y guiarlo para que lo intente al día siguiente)
+
+## Pregunta: ¿Qué hago si olvidé mi contraseña de inicio de sesión? ¿Cómo la modifico?
+Respuesta: Hola, después de entrar en la página de inicio de sesión, haga clic sucesivamente en [Usar otro método de inicio de sesión] - [Inicio de sesión con contraseña] - [Olvidé mi contraseña] y haga clic para obtener un código de verificación para modificar su contraseña de inicio de sesión.
+
+## Pregunta: Olvidé mi contraseña y no puedo iniciar sesión, ¿qué puedo hacer?
+Respuesta: Hola, después de entrar en la página de inicio de sesión, haga clic sucesivamente en [Usar otro método de inicio de sesión] - [Inicio de sesión con contraseña] - [Olvidé mi contraseña] y haga clic para obtener un código de verificación para modificar su contraseña de inicio de sesión.
+
+## Pregunta: Ayúdeme a cambiar mi contraseña, no puedo iniciar sesión
+Respuesta: Hola, después de entrar en la página de inicio de sesión, haga clic sucesivamente en [Usar otro método de inicio de sesión] - [Inicio de sesión con contraseña] - [Olvidé mi contraseña] y haga clic para obtener un código de verificación para modificar su contraseña de inicio de sesión.
+
+## Pregunta: No recuerdo mi contraseña, ¿cómo puedo iniciar sesión?
+Respuesta: Hola, después de entrar en la página de inicio de sesión, haga clic sucesivamente en [Usar otro método de inicio de sesión] - [Inicio de sesión con contraseña] - [Olvidé mi contraseña] y haga clic para obtener un código de verificación para modificar su contraseña de inicio de sesión.
+
+## Pregunta: ¿Dónde puedo ver mi contraseña? ¿Cómo recuperarla? No puedo iniciar sesión sin contraseña
+Respuesta: Hola, después de entrar en la página de inicio de sesión, haga clic sucesivamente en [Usar otro método de inicio de sesión] - [Inicio de sesión con contraseña] - [Olvidé mi contraseña] y haga clic para obtener un código de verificación para modificar su contraseña de inicio de sesión.
+
+## Pregunta: ¿Cómo cambiar la contraseña de inicio de sesión?
+Respuesta: Hola, después de entrar en la página de inicio de sesión, haga clic sucesivamente en [Usar otro método de inicio de sesión] - [Inicio de sesión con contraseña] - [Olvidé mi contraseña] y haga clic para obtener un código de verificación para modificar su contraseña de inicio de sesión.
+
+## Pregunta: Me registré, pero muestra la información de otra persona, ¿qué está pasando?
+Respuesta: Hola, esto se debe a que el número de teléfono que está utilizando fue utilizado previamente por otra persona, por lo que no puede usar este número. Le sugerimos que obtenga un nuevo número o intente con otro número de teléfono a su nombre.
+
+## Pregunta: ¿Por qué después de registrarme, no es mi información?
+Respuesta: Hola, esto se debe a que el número de teléfono que está utilizando fue utilizado previamente por otra persona, por lo que no puede usar este número. Le sugerimos que obtenga un nuevo número o intente con otro número de teléfono a su nombre.
+
+## Pregunta: ¿Por qué después del registro la aplicación muestra información que no es mía?
+Respuesta: Hola, esto se debe a que el número de teléfono que está utilizando fue utilizado previamente por otra persona, por lo que no puede usar este número. Le sugerimos que obtenga un nuevo número o intente con otro número de teléfono a su nombre.
+
+## Pregunta: ¿Cómo es que después de registrarme, no se muestra mi información?
+Respuesta: Hola, esto se debe a que el número de teléfono que está utilizando fue utilizado previamente por otra persona, por lo que no puede usar este número. Le sugerimos que obtenga un nuevo número o intente con otro número de teléfono a su nombre.
+
+## Pregunta: Después del registro, la aplicación muestra información que no es mía
+Respuesta: Hola, esto se debe a que el número de teléfono que está utilizando fue utilizado previamente por otra persona, por lo que no puede usar este número. Le sugerimos que obtenga un nuevo número o intente con otro número de teléfono a su nombre.
+
+## Pregunta: ¿Qué hago si falla el reconocimiento facial?
+Respuesta: 
+P1: ¿Se realiza el reconocimiento facial cada vez que se inicia sesión?
+R: Hola, no se realizará la verificación de reconocimiento facial.
+
+P2: ¿Qué hago si falla el reconocimiento facial por haberme sometido a cirugía plástica?
+R: Lo sentimos mucho, señor/señora, el reconocimiento facial es un proceso automático del sistema. Si falla el reconocimiento, no podrá usar la aplicación. Lamentamos los inconvenientes y le pedimos su comprensión.
+
+P3: ¿Por qué falló la autenticación de reconocimiento facial?
+R: Hola, para el reconocimiento facial necesita permitir el acceso a la cámara. Puede ir a la esquina inferior derecha de la aplicación "Mi perfil" - "Más configuraciones" en la parte inferior de la página - "Configuración de seguridad" - "Modificar permisos", y activar el permiso de acceso a la cámara, luego intente nuevamente. Durante el proceso de reconocimiento, asegúrese de que haya buena iluminación, el enfoque sea claro, y siga las instrucciones para mover la cabeza de izquierda a derecha, arriba y abajo, parpadear, etc.
+
+Q4 ¿Qué hacer cuando no se puede escanear durante el reconocimiento facial?
+R: Hola, tenga en cuenta lo siguiente durante la autenticación de reconocimiento facial:
+
+1. Otorgue permisos de cámara al teléfono
+2. Asegúrese de que haya buena iluminación y que el rostro sea claramente visible
+
+Para habilitar los permisos de cámara: Vaya a [Mi perfil] - [Más configuraciones] - [Configuración de seguridad] - [Modificar permisos]. Después de habilitar los permisos, intente nuevamente la autenticación.
+
+[Consejo] Durante el proceso de reconocimiento, asegúrese de tener iluminación adecuada y enfoque nítido. Siga los pasos indicados por el sistema para completar la autenticación.
+
+Q5 ¿Por qué se necesita reconocimiento facial para contactar a WQ?
+R: Contexto: Para proteger la información de la cuenta y los activos del usuario, se requiere reconocimiento facial para acceder a WQ.
+
+Proceso de manejo:
+
+1. Tranquilice al usuario, obtenga su aprobación, pregunte qué problema necesita resolver y continúe respondiendo
+2. Si el usuario amenaza con S o menciona problemas Y (consulte el proceso NF), escale el caso
+
+Diálogo de referencia:
+
+Para garantizar la seguridad de su información personal y activos, se requiere verificación facial para acceder a WQ. Una vez que pase el reconocimiento facial, podrá acceder normalmente.
+
+1. También puede consultar al servicio al cliente sobre cualquier problema, yo puedo ayudarle igualmente.
+2. ¿Qué problema está experimentando? El servicio al cliente puede ayudarle.
+3. Lamento las molestias. Su problema ha sido registrado y enviado al personal responsable. Mantenga su teléfono disponible y esté atento a las llamadas.
+
+Q6 ¿Por qué no puedo abrir la cámara?
+Hola, verifique si ha otorgado permisos de acceso a la cámara. Vaya a [Mi perfil] en la esquina inferior derecha de la aplicación - [Más configuraciones] - [Configuración de seguridad] - [Modificar permisos]. Si los permisos no están habilitados, habilítelos e intente nuevamente.
+
+Pregunta: ¿Cómo puedo pasar la verificación facial?
+Respuesta: Q1 ¿Se requiere reconocimiento facial cada vez que se realiza FN?
+R: Hola, no se requiere verificación de reconocimiento facial.
+
+
+## Pregunta: ¿Cómo resolver el problema de que la verificación facial no funciona?
+
+Respuesta: 
+
+Q1: ¿Se realiza una verificación facial cada vez que se inicia sesión?
+R: Hola, no se realiza una verificación facial.
+
+Q2: ¿Qué hacer si la verificación facial falla después de una cirugía plástica?
+R: Lo sentimos mucho, señor/señora. La verificación facial es un proceso automático del sistema. Si falla, no se podrá usar la aplicación. Disculpe las molestias y gracias por su comprensión.
+
+Q3: ¿Por qué falla la autenticación de reconocimiento facial?
+R: Hola, el reconocimiento facial requiere que usted habilite el permiso de acceso a la cámara. Puede ir a "Mi perfil" en la esquina inferior derecha de la app, luego a "Más configuraciones" en la parte inferior de la página, "Configuración de seguridad", "Modificar permisos", y habilitar el acceso a la cámara. Luego intente nuevamente. Durante el proceso de reconocimiento, asegúrese de tener buena iluminación, un enfoque claro, y siga las instrucciones para mover la cabeza de lado a lado, arriba y abajo, y parpadear.
+
+Q4: ¿Qué hacer si no se puede escanear durante el reconocimiento facial?
+R: Hola, tenga en cuenta lo siguiente para la autenticación de reconocimiento facial:
+
+1. Habilite el permiso de la cámara en el teléfono
+2. Asegúrese de tener buena iluminación y que su rostro sea claramente visible
+
+Para habilitar el permiso de la cámara: Vaya a [Mi perfil] - [Más configuraciones] - [Configuración de seguridad] - [Modificar permisos]. Después de habilitar el permiso, intente la autenticación nuevamente.
+
+[Consejo] Durante el reconocimiento, asegúrese de tener buena iluminación, un enfoque claro, y siga los pasos indicados por el sistema.
+
+Q5: ¿Por qué se necesita reconocimiento facial para contactar a WQ?
+R: Contexto: Para proteger la información de la cuenta del usuario y la seguridad de los activos, se requiere reconocimiento facial para acceder a WQ.
+
+Proceso de manejo:
+
+1. Tranquilice al usuario, obtenga su aprobación, pregunte qué problema necesita resolver y continúe respondiendo.
+2. Si el usuario amenaza con S o menciona problemas Y (consulte el proceso de entrada NF), escale el caso.
+
+Guión de referencia:
+
+Para garantizar la seguridad de su información personal y activos, necesitamos que realice una verificación facial antes de acceder a WQ. Una vez que pase la verificación facial, podrá acceder normalmente.
+
+1. También puede consultar al servicio al cliente sobre cualquier problema, puedo ayudarle igualmente.
+2. ¿Qué problema está experimentando? El servicio al cliente puede ayudarle.
+3. Lamentamos los inconvenientes. Su problema ha sido registrado y remitido al personal correspondiente. Por favor, mantenga su teléfono disponible y esté atento a las llamadas.
+
+Q6: ¿Por qué no puedo abrir la cámara?
+Hola, por favor verifique si ha habilitado el permiso de acceso a la cámara. Haga clic en [Mi perfil] en la esquina inferior derecha de la APP - [Más configuraciones] - [Configuración de seguridad] - [Modificar permisos]. Si el permiso no está habilitado, por favor habilítelo e intente nuevamente.
+
+
+## Pregunta: ¿Por qué no se puede verificar el rostro?
+
+Respuesta: P1: ¿Se realiza reconocimiento facial cada vez que se inicia sesión?
+R: Hola, no se realiza verificación de reconocimiento facial.
+
+P2: ¿Qué hacer si falla la verificación de vivacidad facial después de una cirugía plástica?
+R: Lo sentimos mucho, señor/señora. El reconocimiento facial es un proceso automático del sistema. Si falla la verificación, no se puede usar la aplicación. Disculpe las molestias y gracias por su comprensión.
+
+P3: ¿Por qué falló la autenticación de reconocimiento facial?
+R: Hola, el reconocimiento facial requiere que otorgue permiso de acceso a la cámara. Puede ir a "Mi perfil" en la esquina inferior derecha de la app - "Más configuraciones" en la parte inferior - "Configuración de seguridad" - "Modificar permisos", y activar el permiso de acceso a la cámara. Luego intente nuevamente. Durante el proceso de reconocimiento, asegúrese de que haya buena iluminación y enfoque nítido, y siga las instrucciones para mover la cabeza de izquierda a derecha, arriba y abajo, parpadear, etc.
+
+P4: ¿Qué hacer si no se puede escanear durante el reconocimiento facial?
+R: Hola, aquí hay algunos puntos a tener en cuenta durante la autenticación de reconocimiento facial:
+
+1. Otorgue permiso de acceso a la cámara del teléfono
+2. Asegúrese de que haya buena iluminación y que el rostro sea claramente visible
+
+Para habilitar el permiso de la cámara: Vaya a [Mi perfil] - [Más configuraciones] - [Configuración de seguridad] - [Modificar permisos]. Después de habilitar el permiso, intente la autenticación nuevamente.
+
+[Consejo] Durante el proceso de reconocimiento, se recomienda asegurar una iluminación adecuada, un enfoque nítido y seguir los pasos indicados por el sistema.
+
+P5: ¿Por qué se necesita reconocimiento facial para contactar a WQ?
+R: Contexto: Para proteger la información y los activos de la cuenta del usuario, se requiere reconocimiento facial para acceder a WQ.
+
+Proceso de manejo:
+
+1. Calmar al usuario, obtener su aprobación, preguntar qué problema necesita resolver y continuar respondiendo.
+2. Si el usuario amenaza con S o menciona problemas Y (consultar el proceso de entrada NF), escalar el manejo.
+
+Guión de referencia:
+
+Para garantizar la seguridad de su información de identidad y activos, se requiere verificación de reconocimiento facial para acceder a WQ. Una vez que pase el reconocimiento facial, podrá acceder normalmente.
+
+1. También puede consultar al servicio al cliente sobre cualquier pregunta, puedo brindarle el mismo servicio.
+2. ¿Qué problema ha encontrado? El servicio al cliente puede responderle.
+3. Lamento las molestias ocasionadas. Su problema ha sido registrado y remitido al personal responsable. Mantenga su teléfono disponible y esté atento a las llamadas.
+
+P6: ¿Por qué no puedo abrir la cámara?
+R: Hola, verifique si ha otorgado permiso de acceso a la cámara. Haga clic en [Mi perfil] en la esquina inferior derecha de la app - [Más configuraciones] - [Configuración de seguridad] - [Modificar permisos]. Si ve que el permiso no está habilitado, actívelo e intente la operación nuevamente.
+
+## Pregunta: ¿Qué hacer si hay problemas con el reconocimiento facial?
+
+Respuesta: 
+
+Q1: ¿Se realiza el reconocimiento facial cada vez que se usa FN?
+R: Hola, no se realiza una verificación de reconocimiento facial.
+
+Q2: ¿Qué hacer si falla el reconocimiento facial después de una cirugía plástica?
+R: Lo sentimos mucho, señor/señora. El reconocimiento facial es un proceso automático del sistema. Si falla, no se puede usar la aplicación. Disculpe las molestias y gracias por su comprensión.
+
+Q3: ¿Por qué falla la autenticación de reconocimiento facial?
+R: Hola, el reconocimiento facial requiere que usted permita el acceso a la cámara. Puede ir a la esquina inferior derecha de la app "Mi perfil" - "Más configuraciones" en la parte inferior - "Configuración de seguridad" - "Modificar permisos", y activar el permiso de acceso a la cámara. Luego intente nuevamente. Durante el proceso de reconocimiento, asegúrese de tener buena iluminación, enfoque claro, y siga las instrucciones para mover la cabeza de lado a lado, arriba y abajo, parpadear, etc.
+
+Q4: ¿Qué hacer si no se puede escanear durante el reconocimiento facial?
+R: Hola, tenga en cuenta lo siguiente para la autenticación de reconocimiento facial:
+
+1. Permita el acceso a la cámara del teléfono
+2. Asegure buena iluminación y visibilidad clara del rostro
+
+Para activar el permiso de la cámara: Vaya a [Mi perfil] - [Más configuraciones] - [Configuración de seguridad] - [Modificar permisos]. Después de activar el permiso, intente autenticarse nuevamente.
+
+[Consejo] Durante el reconocimiento, mantenga buena iluminación, enfoque claro y siga los pasos indicados por el sistema.
+
+Q5: ¿Por qué se necesita reconocimiento facial para contactar a WQ?
+R: Contexto: Para proteger la información de la cuenta y los activos del usuario, se requiere reconocimiento facial para acceder a WQ.
+
+Proceso de manejo:
+1. Tranquilizar al usuario, obtener su aprobación, preguntar qué problema necesita resolver y continuar respondiendo.
+2. Si el usuario amenaza con S o menciona problemas Y (consulte el proceso de NF), escalar el caso.
+
+Frases de referencia:
+Para garantizar la seguridad de su información personal y activos, se requiere verificación de reconocimiento facial para acceder a WQ. Una vez aprobado, podrá acceder normalmente.
+1. También puede consultar al servicio al cliente, puedo ayudarle igualmente.
+2. ¿Qué problema está enfrentando? El servicio al cliente puede ayudarle.
+3. Lamentamos los inconvenientes. Su problema ha sido registrado y enviado al personal responsable. Mantenga su teléfono disponible y atienda oportunamente.
+
+Q6: ¿Por qué no puedo abrir la cámara?
+R: Hola, verifique si ha permitido el acceso a la cámara. Vaya a la esquina inferior derecha de la app [Mi perfil] - [Más configuraciones] - [Configuración de seguridad] - [Modificar permisos]. Si el permiso no está activado, actívelo e intente nuevamente.
+
+## Pregunta: Preguntas frecuentes sobre reconocimiento facial
+
+Respuesta: 
+
+Q1: ¿Se realiza el reconocimiento facial cada vez que se usa FN?
+R: Hola, no se realiza una verificación de reconocimiento facial.
+
+Q2: ¿Qué hago si falla el reconocimiento facial después de una cirugía plástica?
+R: Lo sentimos mucho, señor/señora. El reconocimiento facial es un proceso automático del sistema. Si falla, no podrá usar la aplicación. Nos disculpamos por las molestias y pedimos su comprensión.
+
+Q3: ¿Por qué falló la autenticación de reconocimiento facial?
+R: Hola, el reconocimiento facial requiere que usted permita el acceso a la cámara. Puede ir a la esquina inferior derecha de la aplicación, seleccionar "Mi cuenta" - "Más configuraciones" - "Configuración de seguridad" - "Modificar permisos", y habilitar el acceso a la cámara. Luego, intente nuevamente. Durante el proceso de reconocimiento, asegúrese de que haya buena iluminación, el enfoque sea claro, y siga las instrucciones para mover la cabeza de lado a lado, arriba y abajo, y parpadear.
+
+Q4: ¿Qué hago si no puedo escanear durante el reconocimiento facial?
+R: Hola, tenga en cuenta lo siguiente para la autenticación de reconocimiento facial:
+
+1. Permita el acceso a la cámara del teléfono
+2. Asegúrese de que haya buena iluminación y su rostro sea claramente visible
+
+Para habilitar el acceso a la cámara: Vaya a [Mi cuenta] - [Más configuraciones] - [Configuración de seguridad] - [Modificar permisos]. Después de habilitar el permiso, intente la autenticación nuevamente.
+
+[Consejo] Durante el proceso de reconocimiento, asegúrese de que haya buena iluminación, el enfoque sea claro, y siga los pasos indicados por el sistema.
+
+Q5: ¿Por qué se necesita reconocimiento facial para contactar a WQ?
+R: Contexto: Para proteger la información de la cuenta del usuario y la seguridad de los activos, se requiere reconocimiento facial para acceder a WQ.
+
+Proceso de manejo:
+
+1. Tranquilice al usuario, obtenga su aprobación, pregunte qué problema necesita resolver y continúe respondiendo.
+2. Si el usuario amenaza con S o menciona problemas Y (consulte el proceso de NF), escale el caso.
+
+Guión de referencia:
+
+Para garantizar la seguridad de su información personal y activos, necesitamos que realice una verificación de reconocimiento facial para acceder a WQ. Una vez que pase el reconocimiento facial, podrá acceder normalmente.
+
+1. También puede consultar al servicio al cliente cualquier pregunta, yo puedo ayudarle igualmente.
+2. ¿Qué problema está enfrentando? El servicio al cliente puede ayudarle.
+3. Lamentamos los inconvenientes. Su problema ha sido registrado y enviado al personal responsable. Por favor, mantenga su teléfono disponible y atienda las llamadas oportunamente.
+
+Q6: ¿Por qué no puedo abrir la cámara?
+R: Hola, por favor verifique si ha habilitado el permiso de acceso a la cámara. Vaya a la esquina inferior derecha de la aplicación, seleccione [Mi cuenta] - [Más configuraciones] - [Configuración de seguridad] - [Modificar permisos]. Si ve que el permiso no está habilitado, por favor habilítelo e intente la operación nuevamente.
+
+
+## Pregunta: ¿Se realiza el reconocimiento facial cada vez que se usa FN?
+Respuesta: Hola, no se realiza una verificación de reconocimiento facial.
+
+## Pregunta: ¿Qué hacer si falla la verificación facial después de una cirugía plástica?
+Respuesta: Lo siento mucho, señor/señora. El reconocimiento facial es un proceso automático del sistema. Si falla, no podrá usar la aplicación. Disculpe las molestias y gracias por su comprensión.
+
+## Pregunta: ¿Por qué falló la autenticación de reconocimiento facial?
+Respuesta: Hola, el reconocimiento facial requiere que usted habilite el permiso de acceso a la cámara. Puede ir a "Mi perfil" en la esquina inferior derecha de la app, luego a "Más configuraciones" en la parte inferior de la página, "Configuración de seguridad", "Modificar permisos", y activar el permiso de acceso a la cámara. Luego intente nuevamente. Durante el proceso de reconocimiento, asegúrese de que la iluminación sea normal, el enfoque sea claro, y siga las instrucciones para mover la cabeza de izquierda a derecha, arriba y abajo, y parpadear.
+
+## Pregunta: ¿Qué hacer si no se puede escanear durante el reconocimiento facial?
+Respuesta: Hola, aquí hay algunos puntos a tener en cuenta durante la autenticación de reconocimiento facial:
+
+1. Asegúrese de que el permiso de la cámara del teléfono esté activado
+2. Asegúrese de que haya buena iluminación y que su rostro sea claramente visible
+
+Para activar el permiso de la cámara: Vaya a [Mi perfil] - [Más configuraciones] - [Configuración de seguridad] - [Modificar permisos]. Después de activar el permiso, puede intentar la autenticación nuevamente.
+
+[Consejo] Durante el proceso de reconocimiento, se recomienda asegurar una iluminación normal, un enfoque claro, y seguir los pasos indicados por el sistema para la autenticación.
+
+## Pregunta: ¿Por qué se necesita reconocimiento facial para contactar a WQ?
+Respuesta: Contexto: Para garantizar la seguridad de la información de la cuenta y los activos del usuario, se requiere reconocimiento facial para acceder a WQ.
+
+Proceso de manejo:
+
+1. Tranquilizar al usuario, obtener su aprobación, preguntar qué problema necesita resolver, y continuar respondiendo
+2. Si el usuario amenaza con S o menciona problemas de Y (consultar el proceso de entrada NF), escalar el manejo
+
+Guión de referencia:
+
+Para garantizar la seguridad de su información personal y activos, necesitamos que realice una verificación de reconocimiento facial antes de acceder a WQ. Una vez que pase el reconocimiento facial, podrá acceder normalmente.
+
+1. También puede consultar al servicio al cliente sobre cualquier problema, yo puedo ayudarle igualmente.
+2. ¿Qué problema ha encontrado? El servicio al cliente puede responder sus preguntas.
+3. Lamento las molestias causadas. Su problema ha sido registrado y remitido al personal responsable para su manejo. Por favor, mantenga su teléfono disponible y esté atento a las llamadas.
+
+
+## Pregunta: ¿Por qué no puedo abrir la cámara?
+Respuesta: Hola, por favor verifique si ha habilitado los permisos de acceso a la cámara. Haga clic en [Mi perfil] en la esquina inferior derecha de la aplicación, luego vaya a [Más configuraciones] - [Configuración de seguridad] - [Modificar permisos]. Si ve que los permisos no están habilitados, por favor habilítelos e intente nuevamente.
+
+## Pregunta: ¿Cómo descargo su aplicación?
+Respuesta: Proceso de manejo:
+
+1. Verificar qué aplicación está usando el usuario
+
+2. Preguntar al usuario qué marca de teléfono utiliza
+
+3. Guiar al usuario para descargar según los siguientes métodos
+
+Contexto del problema:
+
+1. Aplicación versión no oficial: los teléfonos Tangpin y Wuxiang pueden descargarla desde el sitio web oficial
+
+Los teléfonos Tangpin pueden descargarla desde la tienda, los teléfonos Wuxiang pueden descargarla directamente desde el almacén.
+
+2. La aplicación versión no oficial se puede descargar siguiendo las instrucciones al hacer clic en [Versión no oficial] después de seguir la cuenta oficial de WeChat "Versión no oficial", o a través de un enlace de descarga
+
+Si el usuario informa que no puede instalar nuestra aplicación, primero confirme con el usuario la versión del sistema del teléfono
+Tangpin ahora es compatible con Tangpin 6 y versiones superiores
+Wuxiang es compatible con la versión 10 y superiores
+La versión del sistema se puede verificar en la configuración del teléfono.
+
+Si la versión es compatible pero aún no se puede instalar, puede pedirle al usuario que proporcione una captura de pantalla para que podamos verificar y responder con una solución.
+
+
+## Pregunta: Quiero usar tu app, ¿cómo la instalo?
+Respuesta: Proceso de manejo:
+
+1. Verificar qué app está usando el usuario
+
+2. Preguntar al usuario qué marca de teléfono usa
+
+3. Guiar al usuario para descargar de la siguiente manera
+
+Contexto del problema:
+
+1. App Feichang Ban: Los teléfonos Tangping y Wuxiang pueden descargarla a través del sitio web oficial
+
+Los teléfonos Tangping pueden descargarla a través de la tienda, los teléfonos Wuxiang pueden descargarla directamente del almacén.
+
+2. La app Feichang Ban se puede descargar siguiendo las instrucciones al hacer clic en [Feichang Ban] después de seguir la cuenta oficial de WeChat "Feichang Ban" o a través de un enlace
+
+Si el usuario informa que no puede instalar nuestra APP, primero confirme con el usuario la versión del sistema del teléfono
+Tangping ahora es compatible con Tangping 6 y versiones superiores
+Wuxiang es compatible con la versión 10 y superiores
+La versión del sistema se puede ver en la configuración del teléfono.
+
+Si la versión es compatible pero aún no se puede instalar, puede pedirle al usuario que proporcione una captura de pantalla, la verificaremos y responderemos
+
+
+## Pregunta: ¿Dónde puedo descargar vuestra app?
+Respuesta: Proceso de manejo:
+
+1. Verificar qué app está usando el usuario
+
+2. Preguntar al usuario qué marca de teléfono usa
+
+3. Guiar al usuario para descargar de la siguiente manera
+
+Contexto del problema:
+
+1. App Feichang Ban: Los teléfonos Tangping y Wuxiang pueden descargarla a través del sitio web oficial
+
+Los teléfonos Tangping pueden descargarla a través de la tienda, los teléfonos Wuxiang pueden descargarla directamente del almacén.
+
+2. La app Feichang Ban se puede descargar siguiendo las instrucciones al hacer clic en [Feichang Ban] después de seguir la cuenta oficial de WeChat "Feichang Ban" o a través de un enlace
+
+Si el usuario informa que no puede instalar nuestra APP, primero confirme con el usuario la versión del sistema del teléfono
+Tangping ahora es compatible con Tangping 6 y versiones superiores
+Wuxiang es compatible con la versión 10 y superiores
+La versión del sistema se puede ver en la configuración del teléfono.
+
+Si la versión es compatible pero aún no se puede instalar, puede pedirle al usuario que proporcione una captura de pantalla, la verificaremos y responderemos
+
+## Pregunta: ¿Puedes ayudarme a instalar vuestra app?
+Respuesta: Proceso de manejo:
+
+1. Verificar qué app está usando el usuario
+
+2. Preguntar al usuario qué marca de teléfono usa
+
+3. Guiar al usuario para descargar de la siguiente manera
+
+Contexto del problema:
+
+1. App Feichang Ban: Los teléfonos Tangping y Wuxiang pueden descargarla a través del sitio web oficial
+
+Los teléfonos Tangping pueden descargarla a través de la tienda, los teléfonos Wuxiang pueden descargarla directamente del almacén.
+
+2. La app Feichang Ban se puede descargar siguiendo las instrucciones al hacer clic en [Feichang Ban] después de seguir la cuenta oficial de WeChat "Feichang Ban" o a través de un enlace
+
+Si el usuario informa que no puede instalar nuestra APP, primero confirme con el usuario la versión del sistema del teléfono
+Tangping ahora es compatible con Tangping 6 y versiones superiores
+Wuxiang es compatible con la versión 10 y superiores
+La versión del sistema se puede ver en la configuración del teléfono.
+
+Si la versión es compatible pero aún no se puede instalar, puede pedirle al usuario que proporcione una captura de pantalla, la verificaremos y responderemos
+
+
+## Pregunta: ¿Cómo descargar la APP?
+Respuesta: Proceso de manejo:
+
+1. Verificar qué versión de la app está usando el usuario
+
+2. Preguntar qué marca de teléfono usa el usuario
+
+3. Guiar al usuario para descargar según lo siguiente
+
+Contexto del problema:
+
+1. App versión Feichang: Se puede descargar desde el sitio web oficial tanto para teléfonos Tangpin como Wuxiang
+
+Los teléfonos Tangpin pueden descargarla de la tienda, los teléfonos Wuxiang directamente del repositorio.
+
+2. La APP versión Feichang se puede descargar siguiendo las instrucciones al hacer clic en [Feichang] después de seguir la cuenta oficial de WeChat "Feichang", o mediante un enlace
+
+Si el usuario reporta que no puede instalar nuestra APP, primero confirme con el usuario la versión del sistema del teléfono
+Tangpin ahora soporta Tangpin 6 y superior
+Wuxiang soporta 10 y superior
+La versión del sistema se puede ver en la configuración del teléfono.
+
+Si la versión es compatible pero aún no se puede instalar, pida al usuario que proporcione una captura de pantalla, verificaremos y responderemos.
+
+## Pregunta: ¿Qué hacer si olvidé mi contraseña?
+Respuesta: Proceso de manejo:
+
+1. Preguntar al usuario si el número de teléfono registrado actualmente todavía está en uso,
+
+2. Si el número de teléfono registrado del usuario está en uso, puede guiar al usuario para modificar la contraseña de inicio de sesión utilizando la función "Olvidé mi contraseña" en la página de inicio de sesión.
+
+Puntos a entender:
+
+Cuando el usuario descubre que ha olvidado su contraseña o ha ingresado una contraseña incorrecta varias veces en la página de inicio de sesión, puede entrar al "Primer paso de Olvidé mi contraseña".
+
+Después de que el usuario ingrese el número de teléfono registrado en el "Primer paso de Olvidé mi contraseña", haga clic para enviar el código de verificación por SMS y verifique el código de imagen. Después de la verificación, se dirigirá al "Segundo paso de Olvidé mi contraseña".
+
+El usuario ingresa el código de verificación por SMS y la nueva contraseña, hace clic en el botón para completar el restablecimiento de la contraseña. Después de una verificación exitosa, se le notifica al usuario que el restablecimiento fue exitoso y se le redirige a la "Página de inicio de sesión con contraseña".
+
+Contexto del problema:
+
+Para iniciar sesión con contraseña, el usuario necesita ingresar la contraseña de inicio de sesión que configuró. Si olvida la contraseña de inicio de sesión, puede restablecerla a través del proceso de "Olvidé mi contraseña".
+
+
+## Pregunta: ¿Cómo recuperar la contraseña?
+Respuesta: Proceso de manejo:
+
+1. Preguntar al usuario si el número de teléfono móvil registrado actualmente todavía está en uso.
+
+2. Si el usuario todavía usa el número de teléfono móvil registrado, se le puede guiar para que use la función "Olvidé mi contraseña" en la página de inicio de sesión con contraseña para modificar la contraseña de inicio de sesión.
+
+Puntos a entender:
+
+Cuando el usuario descubre que ha olvidado su contraseña o ingresa una contraseña incorrecta varias veces en la página de inicio de sesión, puede entrar en "Olvidé mi contraseña - Paso 1".
+
+En "Olvidé mi contraseña - Paso 1", después de que el usuario ingrese el número de teléfono móvil registrado, hace clic para enviar el código de verificación por SMS y verifica el código de imagen. Después de la verificación exitosa, se redirige a "Olvidé mi contraseña - Paso 2".
+
+El usuario ingresa el código de verificación por SMS y la nueva contraseña, hace clic en el botón para completar el restablecimiento de la contraseña. Después de una verificación exitosa, se le notifica al usuario que el restablecimiento fue exitoso y se le redirige a la "Página de inicio de sesión con contraseña".
+
+Contexto del problema:
+
+Para iniciar sesión con contraseña, el usuario necesita ingresar la contraseña de inicio de sesión que ha establecido. Si olvida la contraseña de inicio de sesión, puede restablecerla usando el método "Olvidé mi contraseña".
+
+## Pregunta: ¿Qué hacer si olvidé la contraseña de inicio de sesión?
+Respuesta: Proceso de manejo:
+
+1. Preguntar al usuario si el número de teléfono móvil registrado actualmente todavía está en uso.
+
+2. Si el usuario todavía usa el número de teléfono móvil registrado, se le puede guiar para que use la función "Olvidé mi contraseña" en la página de inicio de sesión con contraseña para modificar la contraseña de inicio de sesión.
+
+Puntos a entender:
+
+Cuando el usuario descubre que ha olvidado su contraseña o ingresa una contraseña incorrecta varias veces en la página de inicio de sesión, puede entrar en "Olvidé mi contraseña - Paso 1".
+
+En "Olvidé mi contraseña - Paso 1", después de que el usuario ingrese el número de teléfono móvil registrado, hace clic para enviar el código de verificación por SMS y verifica el código de imagen. Después de la verificación exitosa, se redirige a "Olvidé mi contraseña - Paso 2".
+
+El usuario ingresa el código de verificación por SMS y la nueva contraseña, hace clic en el botón para completar el restablecimiento de la contraseña. Después de una verificación exitosa, se le notifica al usuario que el restablecimiento fue exitoso y se le redirige a la "Página de inicio de sesión con contraseña".
+
+Contexto del problema:
+
+Para iniciar sesión con contraseña, el usuario necesita ingresar la contraseña de inicio de sesión que ha establecido. Si olvida la contraseña de inicio de sesión, puede restablecerla usando el método "Olvidé mi contraseña".
+
+
+## Pregunta: ¿Cómo eliminar una tarjeta bancaria?
+
+Respuesta: 
+
+Q1: ¿Qué información se necesita para vincular una tarjeta bancaria?
+R: Hay dos formas de vincular una tarjeta bancaria: vinculación específica y vinculación general. Para la vinculación específica, el usuario solo necesita confirmar con Y para completar el proceso. Para la vinculación general, el usuario debe ingresar manualmente el número de tarjeta, el número de teléfono asociado y el nombre del banco.
+
+Q2: ¿Por qué me sale un error al intentar vincular la tarjeta bancaria?
+R: 1. Hola, la plataforma solo permite vincular tarjetas de débito a su nombre. La información de la tarjeta debe incluir su nombre, número de tarjeta, número de teléfono registrado en el banco y el banco emisor.
+
+2. (Si la información anterior es correcta pero aún falla) Por favor, no se preocupe. Le sugerimos que intente con otra tarjeta bancaria a su nombre.
+
+3. (Si el usuario no acepta cambiar de tarjeta) Disculpe las molestias. ¿Qué mensaje de error específico está recibiendo? Por favor, proporcione una captura de pantalla para que el servicio al cliente pueda remitirlo al departamento correspondiente para su verificación.
+
+4. Después de enviar una solicitud NF, la página mostrará "En NF". Durante este tiempo, no se permite modificar la tarjeta bancaria vinculada.
+
+Q5: ¿Cómo desvincular una tarjeta bancaria?
+R: En la app Tang Pin: Toque "Mi cuenta" en la esquina inferior derecha - Gestión de tarjetas bancarias - Deslice hacia la izquierda la tarjeta que desea eliminar y verá un botón para desvincular.
+
+En la app Wu Xiang: Toque "Mi cuenta" en la esquina inferior derecha - Gestión de tarjetas bancarias - Toque la tarjeta que desea eliminar - En la página siguiente, toque "Desvincular" en la esquina superior derecha.
+
+Q6: ¿Cómo puedo consultar mis tarjetas bancarias vinculadas?
+R: Toque "Mi cuenta" en la esquina inferior derecha - Gestión de tarjetas bancarias para ver todas las tarjetas bancarias actualmente vinculadas.
+
+Q7: ¿Cómo añadir/modificar una tarjeta bancaria?
+R: En la app, vaya a "Mi cuenta" - "Gestión de tarjetas bancarias" para añadir o modificar la información de su tarjeta bancaria.
+
+Q8: ¿Puedo vincular una tarjeta si el número de teléfono registrado en el banco es diferente al número de registro?
+R: Sí, puede hacerlo, pero debe usar el número de teléfono que proporcionó al banco cuando abrió la cuenta.
+
+Q9: ¿Hay algún problema si ya no uso el número de teléfono registrado en mi tarjeta bancaria?
+Contexto: El número de teléfono registrado en el banco puede ser diferente al número de registro. Tienen funciones distintas. El número registrado en el banco se usa principalmente para recibir códigos de verificación durante los pagos, mientras que el número de registro se usa para iniciar sesión y recibir mensajes de notificación.
+
+Q10: Cambiar el número de teléfono vinculado a la tarjeta bancaria
+Proceso:
+1. Pregunte al usuario si ha actualizado el número en el banco.
+2. Si no lo ha hecho, guíelo primero para que actualice el número en el banco.
+3. Si ya lo ha actualizado en el banco, guíelo para que lo cambie en "Gestión de tarjetas bancarias" en la app.
+
+Puntos a tener en cuenta:
+El nombre del titular no se puede modificar. Complete el número de la tarjeta de débito según las indicaciones, el nombre del banco se mostrará automáticamente. Ingrese el nuevo número de teléfono registrado en el banco, toque "Siguiente" para que aparezca una ventana de verificación por SMS, complete el código de verificación y confirme para completar la modificación.
+
+## Pregunta: Cómo cambiar de tarjeta bancaria
+
+Respuesta: 
+
+Q1: ¿Qué información se necesita para vincular una tarjeta bancaria?
+A: Hay dos formas de vincular una tarjeta bancaria: vinculación específica y vinculación general. Para la vinculación específica, el usuario solo necesita confirmar para completar el proceso. Para la vinculación general, el usuario debe ingresar manualmente el número de tarjeta, el número de teléfono asociado y el nombre del banco.
+
+Q2: ¿Por qué aparece un mensaje de error al intentar vincular la tarjeta?
+A: 1. Hola, la plataforma solo admite la vinculación de tarjetas de débito a su nombre. La información de la tarjeta debe incluir su nombre, número de tarjeta, número de teléfono registrado en el banco y el banco emisor.
+
+2. (Si la información anterior es correcta pero aún falla) Por favor, no se preocupe. Le sugerimos que intente con otra tarjeta bancaria a su nombre.
+
+3. (Si el usuario no acepta cambiar de tarjeta) Lamentamos la inconveniencia. ¿Qué mensaje de error específico está recibiendo? Por favor, proporcione una captura de pantalla para que podamos verificarlo con el departamento correspondiente.
+
+4. Después de enviar una solicitud NF, la página mostrará "En NF". Durante este tiempo, no se puede modificar la tarjeta bancaria vinculada.
+
+Q5: ¿Cómo desvincular una tarjeta bancaria?
+A: En la app Tang Pin: Toque "Mi cuenta" en la esquina inferior derecha - Gestión de tarjetas bancarias - Deslice hacia la izquierda la tarjeta que desea eliminar y verá un botón para desvincular.
+
+En la app Wu Xiang: Toque "Mi cuenta" en la esquina inferior derecha - Gestión de tarjetas bancarias - Seleccione la tarjeta a eliminar - Toque "Desvincular" en la esquina superior derecha de la página siguiente.
+
+Q6: ¿Cómo consultar las tarjetas bancarias vinculadas?
+A: Toque "Mi cuenta" en la esquina inferior derecha - Gestión de tarjetas bancarias para ver todas las tarjetas actualmente vinculadas.
+
+Q7: ¿Cómo añadir/modificar una tarjeta bancaria?
+A: En la app, vaya a "Mi cuenta" - "Gestión de tarjetas bancarias" para añadir o modificar la información de su tarjeta bancaria.
+
+Q8: ¿Se puede vincular una tarjeta si el número de teléfono registrado en el banco es diferente al número de registro?
+A: Sí, es posible. Sin embargo, debe ingresar el número de teléfono que registró cuando abrió la cuenta bancaria.
+
+Q9: ¿Hay algún problema si ya no uso el número de teléfono registrado en mi tarjeta bancaria?
+Contexto: El número de teléfono registrado en el banco puede ser diferente al número de registro. Tienen funciones distintas. El número registrado en el banco se usa principalmente para recibir códigos de verificación durante los pagos, mientras que el número de registro se usa para iniciar sesión y recibir mensajes de notificación.
+
+Q10: Cambiar el número de teléfono vinculado a la tarjeta bancaria
+Proceso:
+1. Preguntar al usuario si ha actualizado el número en el banco.
+2. Si no lo ha hecho, guiarlo para que primero actualice el número en el banco.
+3. Si ya lo actualizó en el banco, guiarlo para que lo cambie en "Gestión de tarjetas bancarias" en la app.
+
+Puntos importantes:
+El nombre del titular no se puede modificar. Complete el número de la tarjeta de débito según las instrucciones, el nombre del banco se mostrará automáticamente. Ingrese el nuevo número de teléfono registrado en el banco, toque "Siguiente" para recibir un código de verificación, ingréselo y confirme para completar la modificación.
+
+
+## Pregunta: Cómo añadir una tarjeta bancaria
+
+Respuesta: 
+
+Q1: ¿Qué información se necesita para vincular una tarjeta bancaria?
+R: Hay dos formas de vincular una tarjeta bancaria: vinculación específica y vinculación general. Para la vinculación específica, el usuario solo necesita confirmar con Y para completar el proceso. Para la vinculación general, el usuario debe ingresar manualmente el número de tarjeta, el número de teléfono asociado y el nombre del banco.
+
+Q2: ¿Por qué aparece un mensaje de error al intentar vincular la tarjeta bancaria?
+R: 1. Hola, la plataforma solo permite vincular tarjetas de débito a su nombre. La información de la tarjeta debe incluir su nombre, número de tarjeta, número de teléfono registrado en el banco y el banco emisor.
+
+2. (Si la información anterior es correcta pero aún falla) Por favor, no se preocupe. Le sugerimos que intente con otra tarjeta bancaria a su nombre.
+
+3. (Si el usuario no acepta cambiar de tarjeta) Lo sentimos mucho. ¿Qué mensaje de error específico está viendo? Por favor, proporcione una captura de pantalla para que el servicio al cliente pueda verificarlo con el departamento correspondiente.
+
+4. Después de enviar una solicitud NF, la página mostrará [En NF]. Durante este tiempo, no se puede modificar la tarjeta bancaria vinculada.
+
+Q5: ¿Cómo desvincular una tarjeta bancaria?
+R: En la app Tang Pin: Toque "Mi cuenta" en la esquina inferior derecha - Gestión de tarjetas bancarias - Deslice hacia la izquierda la tarjeta que desea eliminar, verá un botón para desvincular.
+
+En la app Wu Xiang: Toque "Mi cuenta" en la esquina inferior derecha - Gestión de tarjetas bancarias - Seleccione la tarjeta a eliminar - Toque "Desvincular" en la esquina superior derecha de la página.
+
+Q6: ¿Cómo consultar las tarjetas bancarias vinculadas?
+R: Toque "Mi cuenta" en la esquina inferior derecha - Gestión de tarjetas bancarias, allí podrá ver todas las tarjetas bancarias actualmente vinculadas.
+
+Q7: ¿Cómo añadir/modificar una tarjeta bancaria?
+R: En la app, vaya a [Mi cuenta] - [Gestión de tarjetas bancarias] para añadir o modificar la información de su tarjeta bancaria.
+
+Q8: ¿Se puede vincular una tarjeta si el número de teléfono registrado en el banco es diferente al número de registro?
+R: Sí, es posible. Sin embargo, debe ingresar el número de teléfono que registró cuando abrió la cuenta bancaria.
+
+Q9: ¿Hay algún problema si ya no uso el número de teléfono registrado en mi tarjeta bancaria?
+Contexto: El número de teléfono registrado en la tarjeta bancaria puede ser diferente al número de registro. Tienen funciones distintas. El número registrado en el banco se usa principalmente para recibir códigos de verificación durante los pagos, mientras que el número de registro se usa para iniciar sesión y recibir mensajes de notificación.
+
+Q10: Cambiar el número de teléfono vinculado a la tarjeta bancaria
+Proceso:
+1. Preguntar al usuario si ha actualizado el número en el banco;
+2. Si no lo ha hecho, guiarlo primero para que actualice el número en el banco;
+3. Si ya lo actualizó en el banco, guiarlo para que lo cambie en [Gestión de tarjetas bancarias] en la app.
+
+Puntos importantes:
+El nombre del titular no se puede modificar. Complete el número de la tarjeta de débito según las indicaciones, el nombre del banco se mostrará automáticamente. Ingrese el nuevo número de teléfono registrado en el banco, pulse el botón "Siguiente" para recibir un código de verificación por SMS, ingréselo y confirme para completar la modificación.
+
+
+
+## Pregunta: Preguntas frecuentes sobre vinculación/desvinculación de tarjetas bancarias
+
+Respuesta: 
+
+Q1: ¿Qué información se necesita para vincular una tarjeta bancaria?
+R: Existen dos formas de vincular tarjetas bancarias: vinculación específica y vinculación general. En la vinculación específica, el usuario solo necesita confirmar para completar el proceso. Para la vinculación general, el usuario debe ingresar manualmente el número de tarjeta, el número de teléfono asociado y el nombre del banco.
+
+Q2: ¿Por qué aparece un mensaje de error al vincular la tarjeta bancaria?
+R: 1. Hola, la plataforma solo admite la vinculación de tarjetas de débito a su nombre. La información de la tarjeta debe incluir su nombre, número de tarjeta, número de teléfono registrado en el banco y el banco emisor.
+
+2. (Si la información anterior es correcta pero aún falla la vinculación) Por favor, no se preocupe. Le sugerimos que intente con otra tarjeta bancaria a su nombre.
+
+3. (Si el usuario no acepta cambiar de tarjeta) Disculpe las molestias. ¿Qué mensaje de error específico recibe? Por favor, proporcione una captura de pantalla para que el servicio al cliente pueda remitirlo al departamento correspondiente para su verificación.
+
+4. Después de enviar una solicitud NF, la página mostrará "En NF". Durante este tiempo, no se puede modificar la tarjeta bancaria vinculada.
+
+Q5: ¿Cómo desvincular una tarjeta bancaria?
+R: En la app Tang Pin: Toque "Mi cuenta" en la esquina inferior derecha - Gestión de tarjetas bancarias - Deslice hacia la izquierda la tarjeta que desea eliminar, verá un botón de desvinculación para eliminarla.
+
+En la app Wu Xiang: Toque "Mi cuenta" en la esquina inferior derecha - Gestión de tarjetas bancarias - Seleccione la tarjeta a eliminar - En la página, toque "Desvincular" en la esquina superior derecha.
+
+Q6: ¿Cómo consultar las tarjetas bancarias vinculadas?
+R: Toque "Mi cuenta" en la esquina inferior derecha - Gestión de tarjetas bancarias para ver todas las tarjetas bancarias actualmente vinculadas.
+
+Q7: ¿Cómo añadir/modificar una tarjeta bancaria?
+R: En la app, vaya a "Mi cuenta" - "Gestión de tarjetas bancarias" para añadir o modificar la información de su tarjeta bancaria.
+
+Q8: ¿Se puede vincular una tarjeta si el número de teléfono registrado en el banco es diferente al número de registro?
+R: Sí, es posible. Sin embargo, debe ingresar el número de teléfono que registró cuando abrió la cuenta bancaria.
+
+Q9: ¿Hay algún problema si ya no uso el número de teléfono registrado en mi tarjeta bancaria?
+Contexto: El número de teléfono registrado en la tarjeta bancaria puede ser diferente al número de registro. Tienen funciones distintas. El número registrado en el banco se usa principalmente para recibir códigos de verificación durante los pagos, mientras que el número de registro se usa para iniciar sesión y recibir SMS de notificación.
+
+Q10: Cambiar el número de teléfono vinculado a la tarjeta bancaria
+Proceso:
+1. Preguntar al usuario si ha actualizado el número en el banco después del cambio.
+2. Si el usuario no ha actualizado en el banco, primero guiarlo para que lo haga.
+3. Si el usuario ya lo actualizó en el banco, guiarlo para que lo modifique en "Gestión de tarjetas bancarias".
+
+Puntos a tener en cuenta:
+El nombre del titular no se puede modificar. Complete el número de la tarjeta de débito según las instrucciones, el nombre del banco se mostrará automáticamente. Ingrese el nuevo número de teléfono registrado en el banco, haga clic en "Siguiente" para que aparezca una ventana de verificación SMS, complete el código de verificación y confirme para completar la modificación.
+
+
+## Pregunta: ¿Qué información se necesita para vincular una tarjeta bancaria?
+Respuesta: Hay dos formas de vincular una tarjeta bancaria: vinculación específica y vinculación general. Para la vinculación específica, el usuario puede completar la operación Y para vincular con éxito. Para la vinculación general, el usuario necesita ingresar manualmente el número de la tarjeta bancaria, el número de teléfono asociado a la tarjeta y el nombre del banco.
+
+## Pregunta: ¿Por qué aparece un mensaje de error al vincular la tarjeta bancaria?
+Respuesta: 
+1. Hola, la plataforma solo admite la vinculación de tarjetas de débito a su nombre. La información de la tarjeta bancaria debe incluir su nombre, número de tarjeta, número de teléfono registrado en el banco y el banco emisor.
+
+2. (Si la información anterior es correcta pero aún falla la vinculación) Hola, por favor no se preocupe. Le sugerimos que intente con otra tarjeta bancaria a su nombre.
+
+3. (Si el usuario no acepta cambiar de tarjeta) Disculpe las molestias. ¿Qué mensaje de error específico recibe? Por favor, proporcione una captura de pantalla para que el servicio al cliente pueda informar al departamento correspondiente para su verificación.
+
+4. Después de enviar la solicitud NF, la página mostrará [En NF]. Durante este tiempo, no se puede modificar la tarjeta bancaria vinculada.
+
+## Pregunta: ¿Cómo desvincular una tarjeta bancaria?
+Respuesta: 
+En la app Tang Pin: Toque "Mi cuenta" en la esquina inferior derecha — Gestión de tarjetas bancarias — Deslice hacia la izquierda la tarjeta que desea eliminar, verá un botón de desvinculación para eliminarla.
+
+En la app Wu Xiang: Toque "Mi cuenta" en la esquina inferior derecha — Gestión de tarjetas bancarias — Toque la tarjeta que desea eliminar — En la página siguiente, toque "Desvincular" en la esquina superior derecha.
+
+## Pregunta: ¿Cómo consultar las tarjetas bancarias vinculadas?
+Respuesta: Toque "Mi cuenta" en la esquina inferior derecha — Gestión de tarjetas bancarias, allí podrá ver todas las tarjetas bancarias actualmente vinculadas.
+
+## Pregunta: ¿Cómo añadir/modificar una tarjeta bancaria?
+Respuesta: En la aplicación, puede tocar sucesivamente [Mi cuenta] — [Gestión de tarjetas bancarias] para añadir o modificar la información de su tarjeta bancaria.
+
+
+## Pregunta: ¿Se puede vincular si el número de teléfono registrado en la tarjeta bancaria es diferente al número registrado?
+Respuesta: Hola, sí se puede, pero el número de teléfono registrado en la tarjeta bancaria debe ser el que proporcionó cuando abrió la cuenta.
+
+## Pregunta: ¿Habrá algún problema si ya no uso el número de teléfono registrado en mi tarjeta bancaria vinculada?
+Respuesta: Contexto: El número de teléfono registrado en la tarjeta bancaria puede ser diferente al número de registro, tienen funciones distintas. El número registrado en la tarjeta se usa principalmente para recibir códigos de verificación al hacer pagos, mientras que el número de registro se usa para iniciar sesión y recibir mensajes de notificación.
+
+## Pregunta: Cambiar el número de teléfono vinculado a la tarjeta bancaria
+Respuesta: Proceso:
+1. Preguntar al usuario si ha ido al banco a cambiar el número registrado después de cambiarlo;
+2. Si el usuario no ha ido al banco, primero guiarlo para que vaya al banco a cambiar el número registrado;
+3. Si el usuario ya lo ha cambiado en el banco, guiarlo para que lo haga en la sección "Gestión de tarjetas bancarias".
+
+## Pregunta: ¿Por qué no he recibido el código de verificación?
+Respuesta: Proceso:
+1. Verificar si hay registro de envío de SMS;
+2. Si hay registro pero falló el envío, escalar el problema;
+3. Si hay registro y el envío fue exitoso, guiar al usuario para que revise si su teléfono lo ha bloqueado, desactive el software de bloqueo, reinicie el teléfono e intente nuevamente.
+4. Si no hay registro de envío, informar al usuario y sugerir que intente en diferentes momentos.
+
+Contexto:
+Generalmente, las razones por las que un usuario no recibe el código de verificación son:
+1. Memoria insuficiente en el teléfono
+2. No haber reiniciado el teléfono en mucho tiempo
+3. El usuario se ha dado de baja del servicio
+4. El usuario ha configurado un bloqueo
+
+Guión de referencia:
+Hola, por favor proporcione su número de teléfono registrado completo para que el servicio al cliente pueda verificarlo.
+
+1. (Después de verificar el registro de envío, si muestra fallo) Su problema ha sido reportado, le sugerimos que intente nuevamente después de dos horas;
+2. (Después de verificar el registro de envío) Por favor revise si su teléfono lo ha bloqueado, le sugerimos que desactive el software de bloqueo, reinicie el teléfono e intente nuevamente;
+3. Le sugerimos que limpie la memoria caché del teléfono, reinicie el dispositivo, intente en diferentes momentos del día.
+
+
+## Pregunta: Ayúdame a verificar cuál es el código de verificación
+Respuesta: Proceso de manejo:
+
+1. Verificar si hay un registro de envío de SMS;
+
+2. Si hay un registro de envío que muestra fallo, escalar el tratamiento;
+
+3. Si hay un registro de envío que muestra éxito, guiar al usuario para que verifique si hay bloqueo en el teléfono, cancelar la configuración del software de bloqueo, apagar y reiniciar el teléfono e intentar de nuevo.
+
+4. Si no hay registro de envío, informar al usuario, cambiar a diferentes franjas horarias e intentar de nuevo.
+
+Contexto del problema:
+
+En general, los usuarios no pueden obtener el código de verificación por las siguientes razones:
+
+1. Caché insuficiente en el teléfono
+2. No se ha apagado el teléfono durante mucho tiempo
+3. El usuario se ha dado de baja
+4. El usuario ha configurado un bloqueo
+
+Guión de referencia:
+
+Hola, por favor proporcione el número de teléfono completo para el registro, el servicio al cliente le ayudará a verificarlo.
+
+1. (Después de verificar el registro de envío en el backend, si muestra fallo) Su problema ha sido reportado por el servicio al cliente, se sugiere intentar nuevamente después de dos horas;
+
+2. (Después de verificar el registro de envío en el backend) Puede verificar si hay bloqueo en su teléfono, se sugiere cancelar la configuración del software de bloqueo, apagar y reiniciar el teléfono e intentar nuevamente;
+
+3. Se sugiere limpiar la caché del teléfono, reiniciar el teléfono, cambiar a diferentes franjas horarias e intentar nuevamente.
+
+## Pregunta: ¿Qué hacer si no recibo el código de verificación?
+Respuesta: Proceso de manejo:
+
+1. Verificar si hay un registro de envío de SMS;
+
+2. Si hay un registro de envío que muestra fallo, escalar el tratamiento;
+
+3. Si hay un registro de envío exitoso, guiar al usuario para que revise si su teléfono tiene bloqueos, cancelar la configuración del software de bloqueo, apagar y reiniciar el teléfono, y luego intentar nuevamente.
+
+4. Si no hay registro de envío, informar al usuario y sugerir que intente en diferentes momentos del día.
+
+Contexto del problema:
+
+Generalmente, los usuarios no pueden recibir el código de verificación por las siguientes razones:
+
+1. Caché insuficiente en el teléfono
+2. No haber apagado el teléfono durante mucho tiempo
+3. El usuario se ha dado de baja
+4. El usuario ha configurado bloqueos
+
+Guión de referencia:
+
+Hola, por favor proporcione el número de teléfono completo registrado para que el servicio al cliente pueda verificarlo por usted.
+
+1. (Después de verificar el registro de envío en el backend, si muestra fallo) Su problema ha sido reportado por el servicio al cliente, se sugiere intentar nuevamente después de dos horas;
+
+2. (Después de verificar el registro de envío en el backend) Puede verificar si su teléfono tiene algún bloqueo, se sugiere cancelar la configuración del software de bloqueo, apagar y reiniciar el teléfono, y luego intentar nuevamente;
+
+3. Se sugiere limpiar la caché del teléfono, reiniciar el teléfono, intentar en diferentes momentos del día.
+
+## Pregunta: ¿Dónde puedo ver mi historial de operaciones anteriores?
+Respuesta: Puede hacer clic en "Mi perfil" seguido de "Historial de operaciones" para verlo.
+
+## Pregunta: ¿Cómo puedo ver mi historial de operaciones?
+Respuesta: Puede hacer clic en "Mi perfil" seguido de "Historial de operaciones" para verlo.
+
+## Pregunta: ¿Cómo consultar el historial de operaciones?
+Respuesta: Puede hacer clic en "Mi perfil" seguido de "Historial de operaciones" para verlo.

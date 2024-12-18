@@ -1,0 +1,10 @@
+{
+  "websocket": "",
+  "apiUrl": "",
+  "docsS3Bucket": "",
+  "workspaceId": "",
+  "oidcIssuer": "",
+  "oidcClientId": "",
+  "oidcLogoutUrl": "",
+  "oidcRedirectUrl": ""
+}

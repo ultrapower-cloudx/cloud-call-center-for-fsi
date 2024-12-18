@@ -1,0 +1,1898 @@
+
+## Pertanyaan: Apa yang harus dilakukan jika informasi pribadi diisi dengan salah?
+Jawaban: Setelah informasi pribadi yang diisi di platform dikonfirmasi dan dikirimkan, itu perlu di-WIN. Jika sistem memberi tahu Anda bahwa Anda perlu memperbarui informasi pribadi, halaman akan menampilkan [Pergi untuk mengubah]. Anda dapat melakukan modifikasi pada saat itu.
+
+## Pertanyaan: Apa yang harus dilakukan jika informasi pekerjaan ditulis salah?
+Jawaban: Setelah informasi pribadi yang diisi di platform dikonfirmasi dan dikirimkan, itu perlu di-WIN. Jika sistem memberi tahu Anda bahwa Anda perlu memperbarui informasi pribadi, halaman akan menampilkan [Pergi untuk mengubah]. Anda dapat melakukan modifikasi pada saat itu.
+
+## Pertanyaan: Informasi ditulis salah, perlu diubah
+Jawaban: Setelah informasi pribadi yang diisi di platform dikonfirmasi dan dikirimkan, itu perlu di-WIN. Jika sistem memberi tahu Anda bahwa Anda perlu memperbarui informasi pribadi, halaman akan menampilkan [Pergi untuk mengubah]. Anda dapat melakukan modifikasi pada saat itu.
+
+## Pertanyaan: Tolong ubah informasi pribadi saya
+Jawaban: Setelah informasi pribadi yang diisi di platform dikonfirmasi dan dikirimkan, itu perlu di-WIN. Jika sistem memberi tahu Anda bahwa Anda perlu memperbarui informasi pribadi, halaman akan menampilkan [Pergi untuk mengubah]. Anda dapat melakukan modifikasi pada saat itu.
+
+## Pertanyaan: Saya salah menulis alamat, di mana saya bisa mengubahnya?
+Jawaban: Setelah informasi pribadi yang diisi di platform dikonfirmasi dan dikirimkan, itu perlu di-WIN. Jika sistem memberi tahu Anda bahwa Anda perlu memperbarui informasi pribadi, halaman akan menampilkan [Pergi untuk mengubah]. Anda dapat melakukan modifikasi pada saat itu.
+
+## Pertanyaan: Saya salah menulis pendapatan, bagaimana cara kembali untuk mengubahnya?
+Jawaban: Setelah informasi pribadi yang diisi di platform dikonfirmasi dan dikirimkan, itu perlu di-WIN. Jika sistem memberi tahu Anda bahwa Anda perlu memperbarui informasi pribadi, halaman akan menampilkan [Pergi untuk mengubah]. Anda dapat melakukan modifikasi pada saat itu.
+
+## Pertanyaan: Nama perusahaan saya ditulis salah, tertulis sebagai perusahaan sebelumnya, bisakah Anda melihatnya dan membantu saya mengubahnya?
+Jawaban: Setelah informasi pribadi yang diisi di platform dikonfirmasi dan dikirimkan, itu perlu di-WIN. Jika sistem memberi tahu Anda bahwa Anda perlu memperbarui informasi pribadi, halaman akan menampilkan [Pergi untuk mengubah]. Anda dapat melakukan modifikasi pada saat itu.
+
+## Pertanyaan: Bagaimana cara mengubah informasi pribadi?
+Jawaban: Setelah informasi pribadi yang diisi di platform dikonfirmasi dan dikirimkan, itu perlu di-WIN. Jika sistem memberi tahu Anda bahwa Anda perlu memperbarui informasi pribadi, halaman akan menampilkan [Pergi untuk mengubah]. Anda dapat melakukan modifikasi pada saat itu.
+
+## Pertanyaan: Apakah saya bisa mengubah informasi jika ada perubahan?
+Jawaban: Setelah informasi pribadi yang diisi di platform dikonfirmasi dan dikirimkan, itu perlu di-WIN. Jika sistem memberi tahu Anda bahwa Anda perlu memperbarui informasi pribadi, halaman akan menampilkan [Pergi untuk mengubah]. Anda dapat melakukan modifikasi pada saat itu.
+
+
+## Pertanyaan: Saya mengganti nomor ponsel, apa yang harus saya lakukan?
+
+Jawaban: Ringkasan penanganan lini pertama: Prioritaskan menilai apakah nomor ponsel lama pelanggan belum A, dan perlu memenuhi syarat bahwa nomor ponsel baru belum pernah X, informasi B konsisten dengan akun asli, dan waktu penggunaan melebihi C hari, baru dapat dilakukan penggantian. Tentukan aplikasi yang digunakan pelanggan untuk mendaftar, jika menggunakan versi APP7, beritahu pengguna bahwa sistem ponsel Banja tidak didukung, dan perlu menggunakan sistem XO untuk mengganti nomor ponsel.
+
+Langkah-langkah mengganti nomor ponsel terdaftar:
+1. Jika nomor ponsel lama masih bisa login: Halaman utama APP - [Saya] di pojok kanan bawah - [Pengaturan Lainnya] - [Pengaturan Keamanan] - [Ubah Nomor Ponsel Login]
+2. Jika nomor ponsel lama tidak bisa login: Melalui halaman login APP, klik "Gunakan metode login lain" di bagian bawah halaman, lalu klik teks merah [Klik untuk mengubah nomor ponsel login] di bagian atas halaman. Ikuti petunjuk untuk mengisi informasi terkait dan lakukan operasi untuk mengubah nomor ponsel terdaftar.
+
+(II) Persyaratan mengubah nomor ponsel
+1. Memenuhi batasan frekuensi: Tidak lebih dari 2 kali per bulan dan tidak lebih dari 1 kali per hari untuk mengubah nomor ponsel. Catatan: Jika pengguna melaporkan telah mencapai batas harian untuk mengganti nomor, layanan pelanggan harus secara proaktif memeriksa apakah nomor ponsel lama dan baru pengguna memenuhi aturan perubahan, dan juga mengingatkan pengguna tentang aturan penggantian sebelum mengarahkan mereka untuk mencoba lagi keesokan harinya.
+
+2. Nomor ponsel harus memenuhi persyaratan
+
+1) Persyaratan untuk nomor ponsel lama:
+① Nomor ponsel lama AAA;
+② Nomor ponsel lama XXX;
+③ Nomor ponsel lama YYY
+
+2) Persyaratan untuk nomor ponsel baru:
+① Nomor ponsel baru tidak boleh memiliki SSS di platform
+② Nomor ponsel baru harus GGG dengan akun asli;
+③ Nomor ponsel baru harus RRR;
+④ Nomor ponsel baru pengguna harus EEE
+
+(III) Hal-hal yang perlu diperhatikan saat mengganti nomor ponsel
+1. Saat mengganti ke nomor ponsel baru, C dan D harus dilakukan secara bersamaan;
+2. Pengguna telah melakukan operasi T;
+3. Jika nomor ponsel baru memiliki K, maka perlu mengklik M;
+4. Nomor ponsel belum pernah melakukan operasi lain
+
+Proses penanganan
+1. Dapatkan FN pengguna
+2. Tentukan apakah nomor ponsel lama sudah X
+3. Tentukan apakah nomor ponsel lama telah D, jika ya D, maka perlu melakukan operasi V, jika tidak D, maka perlu melakukan operasi T
+4. Tentukan apakah nomor ponsel baru baru dibuat dalam sistem
+
+(1) Tentukan apakah nomor ponsel baru sudah D: Halaman pengguna - A pengguna - S pengguna - Gunakan D pengguna untuk mencari dan menilai berdasarkan petunjuk
+(2) Tentukan apakah nomor ponsel baru sudah pernah melakukan operasi X
+
+Z pengguna - X pengguna - C pengguna - Gunakan V pengguna untuk mencari dan lihat kolom [MG]
+
+[Sudah D]: Beritahu pengguna bahwa perubahan tidak didukung, dapat mengarahkan pengguna untuk login menggunakan XXX
+
+[Belum D]: A pengguna - S pengguna - D pengguna - Lakukan operasi [Hapus nomor ponsel terdaftar]
+
+(V) Contoh skrip percakapan
+1. Mendapatkan nomor ponsel:
+Halo, mohon berikan nomor ponsel terdaftar Anda yang lama dan nomor ponsel baru yang ingin Anda ganti, saya akan memverifikasi apakah memenuhi persyaratan penggantian.
+
+2. Telah X:
+Halo, nomor baru yang Anda berikan saat ini tidak dapat diubah menjadi nomor ponsel terdaftar. Kami mohon maaf atas ketidaknyamanan ini. Sistem melakukan evaluasi menyeluruh terhadap kualifikasi Anda, dan evaluasi akan dilakukan secara berkala. Kami sarankan Anda untuk tetap memperhatikan pembaruan APP.
+
+3. Nomor ponsel lama dan baru memenuhi persyaratan:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor ponsel baru Anda dan akun terdaftar asli keduanya memenuhi persyaratan untuk penggantian nomor ponsel. Anda dapat melakukan penggantian di APP.
+
+4. Nomor ponsel baru sudah EE:
+Halo, layanan pelanggan telah memeriksa bahwa nomor ponsel baru Anda XXXXXX tidak dapat digunakan sebagai nomor yang dapat diubah. Kami sarankan Anda dapat langsung login menggunakan nomor ponsel baru tersebut untuk melihat.
+
+5. RR nomor ponsel baru:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor ponsel baru Anda telah FFF, yang akan memengaruhi keberhasilan perubahan Anda. Layanan pelanggan telah membantu Anda GGG informasi pendaftaran, Anda dapat melakukan penggantian di APP.
+
+
+Skenario Kesalahan dan Solusi Penanganan
+
+1. Nomor Telepon tidak cocok dengan SSS
+Penyebab: Nomor telepon pengguna SSS tidak sesuai dengan EEE
+
+Tindakan layanan pelanggan:
+a. Tanyakan nomor seri ASD untuk nomor telepon baru RRR pengguna;
+b. Periksa SSS pengguna di backend, dan tentukan apakah sesuai dengan yang diberikan pengguna
+
+Solusi:
+a. Jika sesuai, laporkan untuk penanganan lebih lanjut; 
+b. Jika tidak sesuai, sarankan pengguna untuk mencoba lagi operasi YUI di ponsel mereka.
+
+Contoh percakapan:
+
+a. Sesuai: Halo, masalah Anda telah dilaporkan ke departemen terkait untuk verifikasi. Staf akan menghubungi Anda kembali, harap perhatikan panggilan masuk.
+
+b. Tidak sesuai: Halo, nomor telepon yang ditampilkan adalah W, apakah T dan H pada nomor telepon Anda sama?
+
+2. Informasi A Anda telah FIN. Klik [Ubah nomor telepon login] untuk mengubah?
+
+Penyebab: Nomor telepon pengguna telah SDD
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk mengklik tombol dan mengikuti petunjuk
+
+Solusi:
+Arahkan pengguna untuk mengklik [Ubah nomor telepon login] untuk masuk ke akun asli yang terdaftar (setelah dialihkan melalui tombol ini, akan AWESD kemudian selesai)
+
+Contoh percakapan:
+Halo, jika muncul pemberitahuan bahwa informasi A Anda telah FIN, itu berarti informasi A Anda telah ADE di platform kami. Anda dapat mengklik [Ubah nomor telepon login] dan mengikuti petunjuk untuk mengubah pendaftaran. Jika nomor telepon baru Anda memenuhi persyaratan, perubahan akan berhasil.
+
+3. Akun Anda telah TR atau ada situasi W3, operasi ini tidak didukung
+Penyebab: Nomor telepon baru pengguna memiliki catatan pendaftaran sebelumnya (tidak selalu informasi pinjaman milik pengguna sendiri)
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk login ke aplikasi menggunakan nomor telepon baru
+
+Contoh percakapan:
+Halo, akun Anda telah TR. Kami sarankan Anda dapat langsung login menggunakan nomor telepon baru untuk memeriksa.
+
+4. Nomor telepon yang akan diubah telah PP
+Penyebab: Nomor telepon baru pengguna telah PP
+
+Tindakan layanan pelanggan:
+Periksa di sistem backend pengguna Q - C pengguna - V pengguna - operasi, apakah ada tombol [FG]
+
+Solusi:
+a. Jika ada tombol, dapat melakukan operasi T: Setelah melakukan operasi untuk pengguna, arahkan pengguna untuk mengubah kembali;
+b. Jika tidak ada tombol, tidak dapat melakukan operasi T: Beritahu pengguna untuk mencoba nomor lain
+
+Contoh percakapan:
+
+a. Jika ada tombol, dapat melakukan operasi T, arahan percakapan: Halo, nomor telepon baru Anda telah QW, yang akan mempengaruhi perubahan Anda. Setelah layanan pelanggan membantu Anda melakukan operasi T, Anda dapat mencoba mengubah nomor telepon pendaftaran kembali. Apakah Anda memerlukan bantuan layanan pelanggan untuk melakukannya?
+
+b. Jika tidak ada tombol, tidak dapat melakukan operasi, arahan percakapan: Halo, nomor telepon baru yang Anda berikan sudah ada E, tidak didukung untuk digunakan sebagai nomor telepon baru untuk perubahan. Kami sarankan Anda untuk mencoba nomor telepon lain untuk pendaftaran.
+
+5. Batas perubahan nomor hari ini telah tercapai, silakan coba lagi besok atau hubungi layanan pelanggan
+Penyebab: Permintaan pengguna untuk mengganti nomor telepon pada hari itu telah melebihi x kali (misalnya mengklik tombol x kali, tetapi tidak berarti perubahan berhasil)
+
+Solusi: Layanan pelanggan perlu secara proaktif memeriksa apakah nomor telepon lama dan baru pengguna yang akan diubah memenuhi aturan perubahan, sambil menginformasikan pengguna tentang aturan perubahan dan mengarahkan mereka untuk mencoba lagi keesokan harinya
+
+Contoh percakapan:
+Halo, ada batasan jumlah untuk mengganti nomor telepon. Maksimum x kali permintaan per hari, dan maksimum y kali per bulan. Anda telah mencapai batas hari ini. (Informasikan pengguna tentang aturan perubahan dan arahkan mereka untuk mencoba lagi keesokan harinya)
+
+
+## Pertanyaan: Bagaimana cara mengubah nomor telepon terdaftar?
+
+Jawaban: Ringkasan penanganan lini pertama: Prioritaskan menilai apakah nomor telepon asli pelanggan tidak A, dan perlu memenuhi syarat nomor telepon baru belum pernah X, informasi B sama dengan akun asli, waktu penggunaan melebihi C hari, baru bisa dilakukan penggantian. Tentukan aplikasi yang digunakan pelanggan untuk mendaftar, jika menggunakan versi APP 7, beritahu pengguna bahwa sistem telepon Banka tidak didukung, perlu menggunakan sistem XO untuk mengubah nomor telepon.
+
+Langkah-langkah mengubah nomor telepon terikat:
+1. Jika nomor lama masih bisa login: Halaman utama APP > [Saya] di pojok kanan bawah > [Pengaturan Lainnya] > [Pengaturan Keamanan] > [Ubah Nomor Telepon Login]
+2. Jika nomor lama tidak bisa login: Melalui halaman login APP, klik "Gunakan metode login lain" di bagian bawah halaman, lalu klik teks merah [Klik untuk mengubah nomor telepon login] di bagian atas halaman, ikuti petunjuk untuk mengisi informasi terkait dan lakukan operasi untuk mengubah nomor telepon terdaftar.
+
+(II) Syarat mengubah nomor telepon
+1. Memenuhi syarat frekuensi: Tidak lebih dari 2 kali per bulan, tidak lebih dari 1 kali per hari. Catatan: Jika pengguna melaporkan telah mencapai batas harian untuk mengganti nomor, layanan pelanggan harus aktif memeriksa apakah nomor lama dan baru pengguna memenuhi aturan perubahan, dan pada saat yang sama menginformasikan aturan penggantian kepada pengguna dan mengarahkan mereka untuk mencoba lagi keesokan harinya.
+
+2. Nomor telepon harus memenuhi syarat
+
+1) Syarat nomor lama:
+① Nomor lama AAA;
+② Nomor lama XXX;
+③ Nomor lama YYY
+
+2) Syarat nomor baru:
+① Nomor baru tidak boleh memiliki SSS di platform
+② Informasi nomor baru harus GGG dengan akun asli;
+③ Nomor baru harus RRR;
+④ Nomor baru pengguna harus EEE
+
+(III) Hal-hal yang perlu diperhatikan saat mengubah nomor telepon
+1. Saat mengubah ke nomor baru, C dan D harus dilakukan bersamaan;
+2. Pengguna telah melakukan operasi T;
+3. Jika nomor baru memiliki K, maka perlu mengklik M;
+4. Nomor telepon belum pernah melakukan operasi lain
+
+Proses penanganan
+1. Dapatkan FN pengguna
+2. Tentukan apakah nomor lama X
+3. Tentukan apakah nomor lama telah D, jika ya maka perlu melakukan V, jika tidak maka perlu melakukan T
+4. Tentukan apakah nomor baru baru dibuat di sistem
+
+(1) Tentukan apakah nomor baru sudah D: Halaman pengguna - A pengguna - S pengguna - Gunakan D pengguna untuk mencari dan menilai berdasarkan petunjuk
+(2) Tentukan apakah nomor baru sudah melakukan operasi X
+
+Z pengguna - X pengguna - C pengguna - Gunakan V pengguna untuk mencari dan lihat kolom [MG]
+
+[Sudah D]: Beritahu pengguna perubahan tidak didukung, dapat mengarahkan pengguna untuk login menggunakan XXX
+[Belum D]: A pengguna - S pengguna - D pengguna - Lakukan [Hapus nomor telepon terdaftar]
+
+(V) Referensi percakapan
+1. Mendapatkan nomor telepon:
+Halo, mohon berikan nomor telepon terdaftar Anda yang lama dan nomor baru yang ingin Anda ganti, saya akan memverifikasi apakah memenuhi syarat penggantian.
+
+2. Telah X:
+Halo, nomor baru yang Anda berikan untuk saat ini tidak dapat diubah menjadi nomor telepon terdaftar. Kami mohon maaf atas ketidaknyamanan ini. Sistem melakukan evaluasi menyeluruh terhadap kualifikasi Anda, evaluasi dilakukan secara berkala. Kami sarankan Anda untuk terus memperhatikan pembaruan APP.
+
+3. Nomor lama dan baru memenuhi syarat:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor telepon baru Anda dan akun terdaftar asli keduanya memenuhi syarat untuk penggantian nomor. Anda dapat melakukan penggantian di APP.
+
+4. Nomor baru sudah EE:
+Halo, layanan pelanggan menemukan bahwa nomor baru Anda XXXXXX tidak dapat digunakan sebagai nomor yang dapat diubah. Kami sarankan Anda untuk langsung login menggunakan nomor telepon baru tersebut untuk melihat.
+
+5. RR nomor baru:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor telepon baru Anda telah FFF, yang akan mempengaruhi keberhasilan perubahan. Layanan pelanggan telah membantu Anda GGG informasi pendaftaran, Anda dapat melakukan penggantian di APP.
+
+
+Skenario Kesalahan dan Solusi Penanganan
+
+1. Nomor Telepon tidak cocok dengan SSS
+Penyebab: Nomor telepon pengguna SSS tidak sesuai dengan EEE
+
+Tindakan layanan pelanggan:
+a. Tanyakan nomor seri ASD untuk nomor telepon baru RRR pengguna;
+b. Periksa SSS pengguna di backend, dan tentukan apakah sesuai dengan yang diberikan pengguna
+
+Solusi:
+a. Jika sesuai, laporkan untuk penanganan lebih lanjut; 
+b. Jika tidak sesuai, sarankan pengguna untuk mencoba lagi operasi YUI di ponsel mereka.
+
+Contoh percakapan:
+
+a. Sesuai: Halo, masalah Anda telah dilaporkan ke departemen terkait untuk verifikasi. Staf akan menghubungi Anda kembali, harap perhatikan panggilan masuk.
+
+b. Tidak sesuai: Halo, nomor telepon yang ditampilkan adalah W, apakah T dan H pada nomor telepon Anda sama?
+
+2. Informasi A Anda telah FIN. Klik [Ubah nomor telepon login] untuk mengubah?
+
+Penyebab: Nomor telepon pengguna telah SDD
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk mengklik tombol dan mengikuti petunjuk
+
+Solusi:
+Arahkan pengguna untuk mengklik [Ubah nomor telepon login] untuk masuk ke akun asli yang terdaftar (setelah dialihkan melalui tombol ini, akan AWESD kemudian selesai)
+
+Contoh percakapan:
+Halo, jika muncul pemberitahuan bahwa informasi A Anda telah FIN, itu berarti informasi A Anda telah ADE di platform kami. Anda dapat mengklik [Ubah nomor telepon login] dan mengikuti petunjuk untuk mengubah pendaftaran. Jika nomor telepon baru Anda memenuhi persyaratan, perubahan akan berhasil.
+
+3. Akun Anda telah TR atau ada situasi W3, operasi ini tidak didukung
+Penyebab: Nomor telepon baru pengguna memiliki catatan pendaftaran sebelumnya (tidak selalu informasi pinjaman milik pengguna sendiri)
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk login ke aplikasi menggunakan nomor telepon baru
+
+Contoh percakapan:
+Halo, akun Anda telah TR. Kami sarankan Anda dapat langsung login menggunakan nomor telepon baru untuk memeriksa.
+
+4. Nomor telepon yang akan diubah telah PP
+Penyebab: Nomor telepon baru pengguna telah PP
+
+Tindakan layanan pelanggan:
+Periksa di sistem backend pengguna Q - C pengguna - V pengguna - operasi, apakah ada tombol [FG]
+
+Solusi:
+a. Jika ada tombol, dapat melakukan operasi T: Setelah melakukan operasi untuk pengguna, arahkan pengguna untuk mengubah kembali;
+b. Jika tidak ada tombol, tidak dapat melakukan operasi T: Beritahu pengguna untuk mencoba nomor lain
+
+Contoh percakapan:
+
+a. Jika ada tombol, dapat melakukan operasi T, arahan percakapan: Halo, nomor telepon baru Anda telah QW, yang akan mempengaruhi perubahan Anda. Setelah layanan pelanggan membantu Anda melakukan operasi T, Anda dapat mencoba mengubah nomor telepon pendaftaran kembali. Apakah Anda memerlukan bantuan layanan pelanggan untuk melakukannya?
+
+b. Jika tidak ada tombol, tidak dapat melakukan operasi, arahan percakapan: Halo, nomor telepon baru yang Anda berikan sudah ada E, tidak didukung untuk digunakan sebagai nomor telepon baru untuk perubahan. Kami sarankan Anda untuk mencoba nomor telepon lain untuk pendaftaran.
+
+5. Batas perubahan nomor hari ini telah tercapai, silakan coba lagi besok atau hubungi layanan pelanggan
+Penyebab: Permintaan pengguna untuk mengganti nomor telepon pada hari itu telah melebihi x kali (misalnya mengklik tombol x kali, tetapi tidak berarti perubahan berhasil)
+
+Solusi: Layanan pelanggan perlu secara proaktif memeriksa apakah nomor telepon lama dan baru pengguna yang akan diubah memenuhi aturan perubahan, sambil menginformasikan pengguna tentang aturan perubahan dan mengarahkan mereka untuk mencoba lagi keesokan harinya
+
+Contoh percakapan:
+Halo, ada batasan jumlah untuk mengganti nomor telepon. Maksimum x kali permintaan per hari, dan maksimum y kali per bulan. Anda telah mencapai batas hari ini. (Informasikan pengguna tentang aturan perubahan dan arahkan mereka untuk mencoba lagi keesokan harinya)
+
+
+## Pertanyaan: Saya mengganti nomor, bagaimana cara login?
+
+Jawaban: Ringkasan penanganan lini pertama: Prioritaskan menilai apakah nomor ponsel lama pelanggan belum A, dan perlu memenuhi syarat bahwa nomor ponsel baru belum pernah X, informasi B konsisten dengan akun asli, dan waktu penggunaan melebihi C hari, baru bisa dilakukan penggantian. Tentukan aplikasi yang digunakan pelanggan untuk mendaftar, jika menggunakan versi APP7, beritahu pengguna bahwa sistem ponsel Banjia tidak didukung, dan perlu menggunakan sistem XO untuk mengganti nomor ponsel.
+
+Langkah-langkah mengganti nomor ponsel terikat:
+1. Jika nomor ponsel lama masih bisa login: Halaman utama APP - [Saya] di pojok kanan bawah - [Pengaturan Lainnya] - [Pengaturan Keamanan] - [Ubah Nomor Ponsel Login]
+2. Jika nomor ponsel lama tidak bisa login: Melalui halaman login APP, klik "Gunakan metode login lain" di bagian bawah halaman, lalu klik teks merah [Klik untuk mengubah nomor ponsel login] di bagian atas halaman, ikuti petunjuk untuk mengisi informasi terkait dan lakukan operasi untuk mengubah nomor ponsel terdaftar.
+
+(II) Syarat mengubah nomor ponsel
+1. Memenuhi syarat frekuensi: Tidak lebih dari 2 kali perubahan nomor ponsel per bulan, tidak lebih dari 1 kali per hari. Catatan: Jika pengguna melaporkan telah mencapai batas harian untuk mengganti nomor, layanan pelanggan harus secara proaktif memeriksa apakah nomor ponsel lama dan baru pengguna memenuhi aturan perubahan, dan juga mengingatkan pengguna tentang aturan penggantian sebelum mengarahkan mereka untuk mencoba lagi keesokan harinya.
+
+2. Nomor ponsel harus memenuhi persyaratan
+
+1) Syarat nomor ponsel lama:
+① Nomor ponsel lama AAA;
+② Nomor ponsel lama XXX;
+③ Nomor ponsel lama YYY
+
+2) Syarat nomor ponsel baru:
+① Nomor ponsel baru tidak boleh memiliki SSS di platform
+② Nomor ponsel baru harus GGG dengan akun asli;
+③ Nomor ponsel baru harus RRR;
+④ Nomor ponsel baru pengguna harus EEE
+
+(III) Hal-hal yang perlu diperhatikan saat mengganti nomor ponsel
+1. Saat mengganti ke nomor ponsel baru, C dan D harus dilakukan secara bersamaan;
+2. Pengguna telah melakukan operasi T;
+3. Jika nomor ponsel baru memiliki K, maka perlu mengklik M;
+4. Nomor ponsel belum pernah melakukan operasi lain
+
+Proses penanganan
+1. Dapatkan FN pengguna
+2. Tentukan apakah nomor ponsel lama sudah X
+3. Tentukan apakah nomor ponsel lama telah D, jika ya maka perlu melakukan operasi V, jika tidak maka perlu melakukan operasi T
+4. Tentukan apakah nomor ponsel baru baru dibuat di sistem
+(1) Tentukan apakah nomor ponsel baru sudah D: Halaman pengguna - A pengguna - S pengguna - Gunakan D pengguna untuk mencari dan menentukan berdasarkan petunjuk
+(2) Tentukan apakah nomor ponsel baru sudah melakukan operasi X
+Z pengguna - X pengguna - C pengguna - Gunakan V pengguna untuk mencari dan lihat kolom [MG]
+[Sudah D]: Beritahu pengguna bahwa perubahan tidak didukung, arahkan pengguna untuk login menggunakan XXX
+[Belum D]: A pengguna - S pengguna - D pengguna - Lakukan operasi [Hapus nomor ponsel terdaftar]
+
+(V) Contoh skrip percakapan
+1. Mendapatkan nomor ponsel:
+Halo, mohon berikan nomor ponsel terdaftar Anda yang lama dan nomor ponsel baru yang ingin Anda ganti, saya akan memverifikasi apakah memenuhi syarat penggantian.
+
+2. Telah X:
+Halo, nomor baru yang Anda berikan saat ini tidak dapat diubah menjadi nomor ponsel terdaftar. Kami mohon maaf atas ketidaknyamanan ini. Sistem melakukan evaluasi menyeluruh terhadap kualifikasi Anda, dan evaluasi dilakukan secara berkala. Kami sarankan Anda untuk terus memperhatikan pembaruan di APP.
+
+3. Nomor ponsel lama dan baru memenuhi syarat:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor ponsel baru Anda dan akun terdaftar asli keduanya memenuhi syarat untuk penggantian nomor ponsel. Anda dapat melakukan penggantian di APP.
+
+4. Nomor ponsel baru sudah EE:
+Halo, layanan pelanggan telah memeriksa bahwa nomor ponsel baru Anda XXXXXX tidak didukung sebagai nomor yang dapat diubah. Kami sarankan Anda dapat langsung login menggunakan nomor ponsel baru tersebut untuk melihat.
+
+5. RR nomor ponsel baru:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor ponsel baru Anda telah FFF, yang akan mempengaruhi keberhasilan perubahan Anda. Layanan pelanggan telah membantu Anda GGG informasi pendaftaran, Anda dapat melakukan penggantian di APP.
+
+Skenario Kesalahan dan Solusi Penanganan
+
+1. Nomor Telepon tidak cocok dengan SSS
+Penyebab: Nomor telepon pengguna SSS tidak sesuai dengan EEE
+
+Tindakan layanan pelanggan:
+a. Tanyakan nomor seri ASD untuk nomor telepon baru RRR pengguna;
+b. Periksa SSS pengguna di backend, dan tentukan apakah sesuai dengan yang diberikan pengguna
+
+Solusi:
+a. Jika sesuai, laporkan untuk penanganan lebih lanjut; 
+b. Jika tidak sesuai, sarankan pengguna untuk mencoba lagi operasi YUI di ponsel mereka.
+
+Contoh percakapan:
+
+a. Sesuai: Halo, masalah Anda telah dilaporkan ke departemen terkait untuk verifikasi. Staf akan menghubungi Anda kembali, harap perhatikan panggilan masuk.
+
+b. Tidak sesuai: Halo, nomor telepon yang ditampilkan adalah W, apakah T dan H pada nomor telepon Anda sama?
+
+2. Informasi A Anda telah FIN. Klik [Ubah nomor telepon login] untuk mengubah?
+
+Penyebab: Nomor telepon pengguna telah SDD
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk mengklik tombol dan mengikuti petunjuk
+
+Solusi:
+Arahkan pengguna untuk mengklik [Ubah nomor telepon login] untuk masuk ke akun asli yang terdaftar (setelah dialihkan melalui tombol ini, akan AWESD kemudian selesai)
+
+Contoh percakapan:
+Halo, jika muncul pemberitahuan bahwa informasi A Anda telah FIN, itu berarti informasi A Anda telah ADE di platform kami. Anda dapat mengklik [Ubah nomor telepon login] dan mengikuti petunjuk untuk mengubah pendaftaran. Jika nomor telepon baru Anda memenuhi persyaratan, perubahan akan berhasil.
+
+3. Akun Anda telah TR atau ada situasi W3, operasi ini tidak didukung
+Penyebab: Nomor telepon baru pengguna memiliki catatan pendaftaran sebelumnya (tidak selalu informasi pinjaman milik pengguna sendiri)
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk login ke aplikasi menggunakan nomor telepon baru
+
+Contoh percakapan:
+Halo, akun Anda telah TR. Kami sarankan Anda dapat langsung login menggunakan nomor telepon baru untuk memeriksa.
+
+4. Nomor telepon yang akan diubah telah PP
+Penyebab: Nomor telepon baru pengguna telah PP
+
+Tindakan layanan pelanggan:
+Periksa di sistem backend pengguna Q - C pengguna - V pengguna - operasi, apakah ada tombol [FG]
+
+Solusi:
+a. Jika ada tombol, dapat melakukan operasi T: Setelah melakukan operasi untuk pengguna, arahkan pengguna untuk mengubah kembali;
+b. Jika tidak ada tombol, tidak dapat melakukan operasi T: Beritahu pengguna untuk mencoba nomor lain
+
+Contoh percakapan:
+
+a. Jika ada tombol, dapat melakukan operasi T, arahan percakapan: Halo, nomor telepon baru Anda telah QW, yang akan mempengaruhi perubahan Anda. Setelah layanan pelanggan membantu Anda melakukan operasi T, Anda dapat mencoba mengubah nomor telepon pendaftaran kembali. Apakah Anda memerlukan bantuan layanan pelanggan untuk melakukannya?
+
+b. Jika tidak ada tombol, tidak dapat melakukan operasi, arahan percakapan: Halo, nomor telepon baru yang Anda berikan sudah ada E, tidak didukung untuk digunakan sebagai nomor telepon baru untuk perubahan. Kami sarankan Anda untuk mencoba nomor telepon lain untuk pendaftaran.
+
+5. Batas perubahan nomor hari ini telah tercapai, silakan coba lagi besok atau hubungi layanan pelanggan
+Penyebab: Permintaan pengguna untuk mengganti nomor telepon pada hari itu telah melebihi x kali (misalnya mengklik tombol x kali, tetapi tidak berarti perubahan berhasil)
+
+Solusi: Layanan pelanggan perlu secara proaktif memeriksa apakah nomor telepon lama dan baru pengguna yang akan diubah memenuhi aturan perubahan, sambil menginformasikan pengguna tentang aturan perubahan dan mengarahkan mereka untuk mencoba lagi keesokan harinya
+
+Contoh percakapan:
+Halo, ada batasan jumlah untuk mengganti nomor telepon. Maksimum x kali permintaan per hari, dan maksimum y kali per bulan. Anda telah mencapai batas hari ini. (Informasikan pengguna tentang aturan perubahan dan arahkan mereka untuk mencoba lagi keesokan harinya)
+
+
+
+## Pertanyaan: Saya tidak lagi menggunakan nomor telepon saya sebelumnya, apa yang harus saya lakukan sekarang?
+
+Jawaban: Ringkasan penanganan lini pertama: Prioritaskan untuk menentukan apakah nomor telepon lama pelanggan belum A, dan nomor telepon baru harus memenuhi syarat belum pernah X, informasi B konsisten dengan akun asli, dan telah digunakan lebih dari C hari, baru dapat dilakukan penggantian. Tentukan aplikasi yang digunakan pelanggan untuk mendaftar, jika menggunakan versi APP7, informasikan pengguna bahwa sistem telepon Banjia tidak didukung, perlu menggunakan sistem XO untuk mengubah nomor telepon.
+
+Langkah-langkah untuk mengganti nomor telepon:
+1. Jika nomor lama masih bisa login: Halaman utama APP > [Saya] di pojok kanan bawah > [Pengaturan Lainnya] > [Pengaturan Keamanan] > [Ubah Nomor Telepon Login]
+2. Jika nomor lama tidak bisa login: Melalui halaman login APP, klik "Gunakan metode login lain" di bagian bawah halaman, lalu klik teks merah [Klik untuk mengubah nomor telepon login] di bagian atas halaman, ikuti petunjuk untuk mengisi informasi terkait dan operasikan untuk mengubah nomor telepon registrasi.
+
+(II) Persyaratan untuk mengubah nomor telepon
+1. Memenuhi batasan frekuensi: Tidak lebih dari 2 kali per bulan, tidak lebih dari 1 kali per hari. Catatan: Jika pengguna melaporkan telah mencapai batas harian untuk mengganti nomor, layanan pelanggan harus secara proaktif memeriksa apakah nomor lama dan baru pengguna memenuhi aturan perubahan, dan sekaligus menginformasikan pengguna tentang aturan penggantian serta mengarahkan mereka untuk mencoba lagi keesokan harinya.
+
+2. Nomor telepon harus memenuhi persyaratan
+
+1) Persyaratan untuk nomor lama:
+① Nomor lama harus AAA;
+② Nomor lama harus XXX;
+③ Nomor lama harus YYY
+
+2) Persyaratan untuk nomor baru:
+① Nomor baru tidak boleh memiliki SSS di platform;
+② Nomor baru harus GGG dengan akun asli;
+③ Nomor baru harus RRR;
+④ Nomor baru pengguna harus EEE
+
+(III) Hal-hal yang perlu diperhatikan saat mengganti nomor telepon
+1. Saat mengganti ke nomor baru, C dan D harus dilakukan bersamaan;
+2. Pengguna telah melakukan operasi T;
+3. Jika nomor baru memiliki K, maka perlu mengklik M;
+4. Nomor telepon belum pernah melakukan operasi lain
+
+Proses penanganan
+1. Dapatkan FN pengguna
+2. Tentukan apakah nomor lama sudah X
+3. Tentukan apakah nomor lama telah D, jika ya maka perlu melakukan V, jika tidak maka perlu melakukan T
+4. Tentukan apakah nomor baru baru dibuat di sistem
+   (1) Tentukan apakah nomor baru sudah D: Halaman pengguna > A pengguna > S pengguna > Gunakan D pengguna untuk mencari dan menentukan berdasarkan petunjuk
+   (2) Tentukan apakah nomor baru sudah pernah melakukan operasi X
+       Z pengguna > X pengguna > C pengguna > Gunakan V pengguna untuk mencari dan lihat kolom [MG]
+       [Sudah D]: Informasikan pengguna bahwa perubahan tidak didukung, arahkan pengguna untuk login menggunakan XXX
+       [Belum D]: A pengguna > S pengguna > D pengguna > Lakukan [Hapus nomor telepon registrasi]
+
+(V) Contoh percakapan
+1. Mendapatkan nomor telepon:
+Halo, mohon berikan nomor telepon registrasi lama Anda dan nomor baru yang ingin Anda ganti, saya akan memverifikasi apakah memenuhi syarat penggantian.
+
+2. Telah X:
+Halo, nomor baru yang Anda berikan saat ini tidak dapat diubah menjadi nomor telepon registrasi. Kami mohon maaf atas ketidaknyamanan ini. Sistem melakukan evaluasi komprehensif terhadap kualifikasi Anda, dan evaluasi akan dilakukan secara berkala. Kami sarankan Anda untuk tetap memperhatikan pembaruan APP.
+
+3. Nomor lama dan baru memenuhi syarat:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor telepon baru dan akun registrasi lama Anda keduanya memenuhi syarat untuk penggantian nomor. Anda dapat melakukan penggantian di APP.
+
+4. Nomor baru sudah EE:
+Halo, layanan pelanggan telah memeriksa bahwa nomor baru Anda XXXXXX tidak dapat digunakan sebagai nomor yang dapat diubah. Kami sarankan Anda untuk langsung login menggunakan nomor telepon baru tersebut untuk melihat.
+
+5. RR nomor baru:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor telepon baru Anda telah FFF, yang akan mempengaruhi keberhasilan perubahan. Layanan pelanggan telah membantu Anda GGG informasi registrasi, Anda dapat melakukan penggantian di APP.
+
+
+Skenario Kesalahan dan Solusi Penanganan
+
+1. Nomor Telepon tidak cocok dengan SSS
+Penyebab: Nomor telepon pengguna SSS tidak sesuai dengan EEE
+
+Tindakan layanan pelanggan:
+a. Tanyakan nomor seri ASD untuk nomor telepon baru RRR pengguna;
+b. Periksa SSS pengguna di backend, dan tentukan apakah sesuai dengan yang diberikan pengguna
+
+Solusi:
+a. Jika sesuai, laporkan untuk penanganan lebih lanjut; 
+b. Jika tidak sesuai, sarankan pengguna untuk mencoba lagi operasi YUI di ponsel mereka.
+
+Contoh percakapan:
+
+a. Sesuai: Halo, masalah Anda telah dilaporkan ke departemen terkait untuk verifikasi. Staf akan menghubungi Anda kembali, harap perhatikan panggilan masuk.
+
+b. Tidak sesuai: Halo, nomor telepon yang ditampilkan adalah W, apakah T dan H pada nomor telepon Anda sama?
+
+2. Informasi A Anda telah FIN. Klik [Ubah nomor telepon login] untuk mengubah?
+
+Penyebab: Nomor telepon pengguna telah SDD
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk mengklik tombol dan mengikuti petunjuk
+
+Solusi:
+Arahkan pengguna untuk mengklik [Ubah nomor telepon login] untuk masuk ke akun asli yang terdaftar (setelah dialihkan melalui tombol ini, akan AWESD kemudian selesai)
+
+Contoh percakapan:
+Halo, jika muncul pemberitahuan bahwa informasi A Anda telah FIN, itu berarti informasi A Anda telah ADE di platform kami. Anda dapat mengklik [Ubah nomor telepon login] dan mengikuti petunjuk untuk mengubah pendaftaran. Jika nomor telepon baru Anda memenuhi persyaratan, perubahan akan berhasil.
+
+3. Akun Anda telah TR atau ada situasi W3, operasi ini tidak didukung
+Penyebab: Nomor telepon baru pengguna memiliki catatan pendaftaran sebelumnya (tidak selalu informasi pinjaman milik pengguna sendiri)
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk login ke aplikasi menggunakan nomor telepon baru
+
+Contoh percakapan:
+Halo, akun Anda telah TR. Kami sarankan Anda dapat langsung login menggunakan nomor telepon baru untuk memeriksa.
+
+4. Nomor telepon yang akan diubah telah PP
+Penyebab: Nomor telepon baru pengguna telah PP
+
+Tindakan layanan pelanggan:
+Periksa di sistem backend pengguna Q - C pengguna - V pengguna - operasi, apakah ada tombol [FG]
+
+Solusi:
+a. Jika ada tombol, dapat melakukan operasi T: Setelah melakukan operasi untuk pengguna, arahkan pengguna untuk mengubah kembali;
+b. Jika tidak ada tombol, tidak dapat melakukan operasi T: Beritahu pengguna untuk mencoba nomor lain
+
+Contoh percakapan:
+
+a. Jika ada tombol, dapat melakukan operasi T, arahan percakapan: Halo, nomor telepon baru Anda telah QW, yang akan mempengaruhi perubahan Anda. Setelah layanan pelanggan membantu Anda melakukan operasi T, Anda dapat mencoba mengubah nomor telepon pendaftaran kembali. Apakah Anda memerlukan bantuan layanan pelanggan untuk melakukannya?
+
+b. Jika tidak ada tombol, tidak dapat melakukan operasi, arahan percakapan: Halo, nomor telepon baru yang Anda berikan sudah ada E, tidak didukung untuk digunakan sebagai nomor telepon baru untuk perubahan. Kami sarankan Anda untuk mencoba nomor telepon lain untuk pendaftaran.
+
+5. Batas perubahan nomor hari ini telah tercapai, silakan coba lagi besok atau hubungi layanan pelanggan
+Penyebab: Permintaan pengguna untuk mengganti nomor telepon pada hari itu telah melebihi x kali (misalnya mengklik tombol x kali, tetapi tidak berarti perubahan berhasil)
+
+Solusi: Layanan pelanggan perlu secara proaktif memeriksa apakah nomor telepon lama dan baru pengguna yang akan diubah memenuhi aturan perubahan, sambil menginformasikan pengguna tentang aturan perubahan dan mengarahkan mereka untuk mencoba lagi keesokan harinya
+
+Contoh percakapan:
+Halo, ada batasan jumlah untuk mengganti nomor telepon. Maksimum x kali permintaan per hari, dan maksimum y kali per bulan. Anda telah mencapai batas hari ini. (Informasikan pengguna tentang aturan perubahan dan arahkan mereka untuk mencoba lagi keesokan harinya)
+
+
+## Pertanyaan: Saya mengganti nomor telepon, bagaimana cara saya login?
+
+Jawaban: Ringkasan penanganan lini pertama: Prioritaskan untuk menentukan apakah nomor telepon asli pelanggan belum A, dan harus memenuhi syarat bahwa nomor telepon baru belum X, informasi B sama dengan akun asli, dan waktu penggunaan melebihi C hari, baru dapat dilakukan penggantian. Tentukan aplikasi yang digunakan pelanggan untuk mendaftar, jika menggunakan versi APP7, beritahu pengguna bahwa sistem telepon Banjia tidak didukung, perlu menggunakan sistem XO untuk mengubah nomor telepon.
+
+Langkah-langkah mengubah nomor telepon terdaftar:
+1. Jika nomor telepon lama masih bisa login: Halaman utama APP > [Saya] di pojok kanan bawah > [Pengaturan Lainnya] > [Pengaturan Keamanan] > [Ubah Nomor Telepon Login]
+2. Jika nomor telepon lama tidak bisa login: Melalui halaman login APP, klik "Gunakan metode login lain" di bagian bawah halaman, lalu klik teks merah [Klik untuk mengubah nomor telepon login] di bagian atas halaman, ikuti petunjuk untuk mengisi informasi terkait dan operasikan untuk mengubah nomor telepon terdaftar.
+
+(II) Syarat mengubah nomor telepon
+1. Memenuhi syarat frekuensi: Tidak melebihi 2 kali perubahan nomor telepon per bulan, tidak lebih dari 1 kali per hari. Catatan: Jika pengguna melaporkan telah mencapai batas harian untuk mengganti nomor, layanan pelanggan harus secara proaktif memeriksa apakah nomor telepon lama dan baru pengguna memenuhi aturan perubahan, dan pada saat yang sama mengingatkan pengguna tentang aturan penggantian nomor sebelum mengarahkan mereka untuk mencoba lagi keesokan harinya.
+
+2. Nomor telepon harus memenuhi syarat
+
+1) Syarat untuk nomor telepon lama:
+① Nomor telepon lama AAA;
+② Nomor telepon lama XXX;
+③ Nomor telepon lama YYY
+
+2) Syarat untuk nomor telepon baru:
+① Nomor telepon baru tidak boleh memiliki SSS di platform
+② Nomor telepon baru harus GGG dengan akun asli;
+③ Nomor telepon baru harus RRR;
+④ Nomor telepon baru pengguna harus EEE
+
+(III) Hal-hal yang perlu diperhatikan saat mengubah nomor telepon
+1. Saat mengubah ke nomor baru, C dan D harus dilakukan secara bersamaan;
+2. Pengguna telah melakukan operasi T;
+3. Jika nomor telepon baru memiliki K, maka perlu mengklik M;
+4. Nomor telepon belum melakukan operasi lain
+
+Proses penanganan
+1. Dapatkan FN pengguna
+2. Tentukan apakah nomor telepon lama X
+3. Tentukan apakah nomor telepon lama telah D, jika ya D, maka perlu melakukan operasi V, jika tidak D, maka perlu melakukan operasi T
+4. Tentukan apakah nomor telepon baru baru dibuat di sistem
+(1) Tentukan apakah nomor telepon baru sudah D: Halaman pengguna - A pengguna - S pengguna - Gunakan D pengguna untuk mencari dan tentukan berdasarkan petunjuk
+(2) Tentukan apakah nomor telepon baru telah melakukan operasi X
+Z pengguna - X pengguna - C pengguna - Gunakan V pengguna untuk mencari dan lihat kolom [MG]
+[Sudah D]: Beritahu pengguna bahwa perubahan tidak didukung, arahkan pengguna untuk login menggunakan XXX
+[Belum D]: A pengguna - S pengguna - D pengguna - Lakukan operasi [Hapus nomor telepon terdaftar]
+
+(V) Contoh percakapan
+1. Mendapatkan nomor telepon:
+Halo, mohon berikan nomor telepon terdaftar Anda yang lama dan nomor telepon baru yang ingin Anda ganti, saya akan memeriksa apakah memenuhi syarat penggantian.
+
+2. Telah X:
+Halo, nomor baru yang Anda berikan sementara tidak dapat diubah menjadi nomor telepon terdaftar. Kami mohon maaf atas ketidaknyamanan yang ditimbulkan. Sistem melakukan evaluasi menyeluruh terhadap kualifikasi Anda, dan evaluasi dilakukan secara berkala. Kami sarankan Anda untuk terus memperhatikan pembaruan APP.
+
+3. Nomor telepon lama dan baru memenuhi syarat:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor telepon baru dan akun terdaftar asli Anda memenuhi syarat untuk penggantian nomor. Anda dapat melakukan penggantian di APP.
+
+4. Nomor telepon baru sudah EE:
+Halo, layanan pelanggan telah memeriksa bahwa nomor telepon baru Anda XXXXXX tidak dapat digunakan sebagai nomor yang dapat diubah. Kami sarankan Anda untuk langsung login menggunakan nomor telepon baru tersebut untuk memeriksa.
+
+5. RR nomor telepon baru:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor telepon baru Anda telah FFF, yang akan mempengaruhi keberhasilan perubahan. Layanan pelanggan telah membantu GGG informasi pendaftaran Anda, Anda dapat melakukan penggantian di APP.
+
+Skenario Kesalahan dan Solusi Penanganan
+
+1. Nomor Telepon tidak cocok dengan SSS
+Penyebab: Nomor telepon pengguna SSS tidak sesuai dengan EEE
+
+Tindakan layanan pelanggan:
+a. Tanyakan nomor seri ASD untuk nomor telepon baru RRR pengguna;
+b. Periksa SSS pengguna di backend, dan tentukan apakah sesuai dengan yang diberikan pengguna
+
+Solusi:
+a. Jika sesuai, laporkan untuk penanganan lebih lanjut; 
+b. Jika tidak sesuai, sarankan pengguna untuk mencoba lagi operasi YUI di ponsel mereka.
+
+Contoh percakapan:
+
+a. Sesuai: Halo, masalah Anda telah dilaporkan ke departemen terkait untuk verifikasi. Staf akan menghubungi Anda kembali, harap perhatikan panggilan masuk.
+
+b. Tidak sesuai: Halo, nomor telepon yang ditampilkan adalah W, apakah T dan H pada nomor telepon Anda sama?
+
+2. Informasi A Anda telah FIN. Klik [Ubah nomor telepon login] untuk mengubah?
+
+Penyebab: Nomor telepon pengguna telah SDD
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk mengklik tombol dan mengikuti petunjuk
+
+Solusi:
+Arahkan pengguna untuk mengklik [Ubah nomor telepon login] untuk masuk ke akun asli yang terdaftar (setelah dialihkan melalui tombol ini, akan AWESD kemudian selesai)
+
+Contoh percakapan:
+Halo, jika muncul pemberitahuan bahwa informasi A Anda telah FIN, itu berarti informasi A Anda telah ADE di platform kami. Anda dapat mengklik [Ubah nomor telepon login] dan mengikuti petunjuk untuk mengubah pendaftaran. Jika nomor telepon baru Anda memenuhi persyaratan, perubahan akan berhasil.
+
+3. Akun Anda telah TR atau ada situasi W3, operasi ini tidak didukung
+Penyebab: Nomor telepon baru pengguna memiliki catatan pendaftaran sebelumnya (tidak selalu informasi pinjaman milik pengguna sendiri)
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk login ke aplikasi menggunakan nomor telepon baru
+
+Contoh percakapan:
+Halo, akun Anda telah TR. Kami sarankan Anda dapat langsung login menggunakan nomor telepon baru untuk memeriksa.
+
+4. Nomor telepon yang akan diubah telah PP
+Penyebab: Nomor telepon baru pengguna telah PP
+
+Tindakan layanan pelanggan:
+Periksa di sistem backend pengguna Q - C pengguna - V pengguna - operasi, apakah ada tombol [FG]
+
+Solusi:
+a. Jika ada tombol, dapat melakukan operasi T: Setelah melakukan operasi untuk pengguna, arahkan pengguna untuk mengubah kembali;
+b. Jika tidak ada tombol, tidak dapat melakukan operasi T: Beritahu pengguna untuk mencoba nomor lain
+
+Contoh percakapan:
+
+a. Jika ada tombol, dapat melakukan operasi T, arahan percakapan: Halo, nomor telepon baru Anda telah QW, yang akan mempengaruhi perubahan Anda. Setelah layanan pelanggan membantu Anda melakukan operasi T, Anda dapat mencoba mengubah nomor telepon pendaftaran kembali. Apakah Anda memerlukan bantuan layanan pelanggan untuk melakukannya?
+
+b. Jika tidak ada tombol, tidak dapat melakukan operasi, arahan percakapan: Halo, nomor telepon baru yang Anda berikan sudah ada E, tidak didukung untuk digunakan sebagai nomor telepon baru untuk perubahan. Kami sarankan Anda untuk mencoba nomor telepon lain untuk pendaftaran.
+
+5. Batas perubahan nomor hari ini telah tercapai, silakan coba lagi besok atau hubungi layanan pelanggan
+Penyebab: Permintaan pengguna untuk mengganti nomor telepon pada hari itu telah melebihi x kali (misalnya mengklik tombol x kali, tetapi tidak berarti perubahan berhasil)
+
+Solusi: Layanan pelanggan perlu secara proaktif memeriksa apakah nomor telepon lama dan baru pengguna yang akan diubah memenuhi aturan perubahan, sambil menginformasikan pengguna tentang aturan perubahan dan mengarahkan mereka untuk mencoba lagi keesokan harinya
+
+Contoh percakapan:
+Halo, ada batasan jumlah untuk mengganti nomor telepon. Maksimum x kali permintaan per hari, dan maksimum y kali per bulan. Anda telah mencapai batas hari ini. (Informasikan pengguna tentang aturan perubahan dan arahkan mereka untuk mencoba lagi keesokan harinya)
+
+
+## Pertanyaan: Bagaimana saya login menggunakan nomor telepon baru?
+
+Jawaban: Ringkasan penanganan lini pertama: Prioritaskan menilai apakah nomor telepon lama pelanggan belum A, dan harus memenuhi syarat nomor baru belum pernah X, informasi B cocok dengan akun asli, dan waktu penggunaan melebihi C hari, baru dapat dilakukan penggantian. Tentukan aplikasi yang digunakan pelanggan untuk mendaftar, jika menggunakan versi APP 7, beritahu pengguna bahwa sistem telepon Banjia tidak didukung, perlu menggunakan sistem XO untuk mengubah nomor telepon.
+
+Langkah-langkah mengganti nomor telepon terikat:
+1. Jika nomor lama bisa login: Halaman utama APP > [Saya] di kanan bawah > [Pengaturan lainnya] > [Pengaturan keamanan] > [Ubah nomor telepon login]
+2. Jika nomor lama tidak bisa login: Melalui halaman login APP, klik "Login dengan cara lain" di bagian bawah halaman, lalu klik teks merah [Klik untuk mengubah nomor telepon login] di bagian atas halaman, ikuti petunjuk untuk mengisi informasi terkait dan operasikan untuk mengubah nomor telepon terdaftar.
+
+(II) Persyaratan mengubah nomor telepon
+1. Memenuhi syarat frekuensi: Tidak lebih dari 2 kali per bulan, tidak lebih dari 1 kali per hari untuk mengubah nomor telepon. Catatan: Jika pengguna melaporkan telah mencapai batas harian untuk mengganti nomor, layanan pelanggan harus secara proaktif memeriksa apakah nomor lama dan baru pengguna memenuhi aturan perubahan, dan sekaligus mengingatkan pengguna tentang aturan penggantian sebelum mengarahkan mereka untuk mencoba lagi keesokan harinya.
+
+2. Nomor telepon harus memenuhi persyaratan
+
+1) Persyaratan nomor lama:
+① Nomor lama AAA;
+② Nomor lama XXX;
+③ Nomor lama YYY
+
+2) Persyaratan nomor baru:
+① Nomor baru tidak boleh memiliki SSS di platform
+② Informasi nomor baru harus GGG dengan akun asli;
+③ Nomor baru harus RRR;
+④ Nomor baru pengguna harus EEE
+
+(III) Hal-hal yang perlu diperhatikan saat mengubah nomor telepon
+1. Saat mengubah nomor baru, C dan D harus dilakukan bersamaan;
+2. Pengguna telah melakukan operasi T;
+3. Jika nomor baru memiliki K, maka perlu mengklik M;
+4. Nomor telepon belum pernah melakukan operasi lain
+
+Proses penanganan
+1. Dapatkan FN pengguna
+2. Tentukan apakah nomor lama X
+3. Tentukan apakah nomor lama telah D, jika sudah D, maka perlu melakukan V, jika belum D, maka perlu melakukan T
+4. Tentukan apakah nomor baru baru dibuat di sistem
+
+(1) Tentukan apakah nomor baru sudah D: Halaman pengguna - A pengguna - S pengguna - Gunakan D pengguna untuk mencari dan menilai berdasarkan petunjuk
+(2) Tentukan apakah nomor baru sudah pernah X
+
+Z pengguna - X pengguna - C pengguna - Gunakan V pengguna untuk mencari dan lihat kolom [MG]
+
+[Sudah D]: Beritahu pengguna perubahan tidak didukung, arahkan pengguna untuk login menggunakan XXX
+[Belum D]: A pengguna - S pengguna - D pengguna - Lakukan [Hapus nomor telepon terdaftar]
+
+(V) Referensi percakapan
+1. Mendapatkan nomor telepon:
+Halo, mohon berikan nomor telepon terdaftar Anda yang lama dan nomor baru yang ingin Anda ganti, saya akan memverifikasi apakah memenuhi syarat penggantian.
+
+2. Telah X:
+Halo, nomor baru yang Anda berikan untuk sementara tidak dapat diubah menjadi nomor telepon terdaftar. Kami mohon maaf atas ketidaknyamanan ini. Sistem melakukan penilaian menyeluruh terhadap kualifikasi Anda, dan akan melakukan penilaian dari waktu ke waktu. Kami sarankan Anda untuk memperhatikan update APP.
+
+3. Nomor lama dan baru memenuhi syarat:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor baru Anda dan akun terdaftar asli keduanya memenuhi syarat untuk penggantian nomor telepon. Anda dapat melakukan penggantian di APP.
+
+4. Nomor baru sudah EE:
+Halo, layanan pelanggan menemukan bahwa nomor baru Anda XXXXXX tidak didukung sebagai nomor yang dapat diubah. Kami sarankan Anda untuk langsung login menggunakan nomor baru tersebut untuk memeriksa.
+
+5. RR nomor baru:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor baru Anda telah FFF, yang akan mempengaruhi keberhasilan perubahan. Layanan pelanggan telah membantu GGG informasi pendaftaran Anda, Anda dapat melakukan penggantian di APP.
+
+
+Skenario Kesalahan dan Solusi Penanganan
+
+1. Nomor Telepon tidak cocok dengan SSS
+Penyebab: Nomor telepon pengguna SSS tidak sesuai dengan EEE
+
+Tindakan layanan pelanggan:
+a. Tanyakan nomor seri ASD untuk nomor telepon baru RRR pengguna;
+b. Periksa SSS pengguna di backend, dan tentukan apakah sesuai dengan yang diberikan pengguna
+
+Solusi:
+a. Jika sesuai, laporkan untuk penanganan lebih lanjut; 
+b. Jika tidak sesuai, sarankan pengguna untuk mencoba lagi operasi YUI di ponsel mereka.
+
+Contoh percakapan:
+
+a. Sesuai: Halo, masalah Anda telah dilaporkan ke departemen terkait untuk verifikasi. Staf akan menghubungi Anda kembali, harap perhatikan panggilan masuk.
+
+b. Tidak sesuai: Halo, nomor telepon yang ditampilkan adalah W, apakah T dan H pada nomor telepon Anda sama?
+
+2. Informasi A Anda telah FIN. Klik [Ubah nomor telepon login] untuk mengubah?
+
+Penyebab: Nomor telepon pengguna telah SDD
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk mengklik tombol dan mengikuti petunjuk
+
+Solusi:
+Arahkan pengguna untuk mengklik [Ubah nomor telepon login] untuk masuk ke akun asli yang terdaftar (setelah dialihkan melalui tombol ini, akan AWESD kemudian selesai)
+
+Contoh percakapan:
+Halo, jika muncul pemberitahuan bahwa informasi A Anda telah FIN, itu berarti informasi A Anda telah ADE di platform kami. Anda dapat mengklik [Ubah nomor telepon login] dan mengikuti petunjuk untuk mengubah pendaftaran. Jika nomor telepon baru Anda memenuhi persyaratan, perubahan akan berhasil.
+
+3. Akun Anda telah TR atau ada situasi W3, operasi ini tidak didukung
+Penyebab: Nomor telepon baru pengguna memiliki catatan pendaftaran sebelumnya (tidak selalu informasi pinjaman milik pengguna sendiri)
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk login ke aplikasi menggunakan nomor telepon baru
+
+Contoh percakapan:
+Halo, akun Anda telah TR. Kami sarankan Anda dapat langsung login menggunakan nomor telepon baru untuk memeriksa.
+
+4. Nomor telepon yang akan diubah telah PP
+Penyebab: Nomor telepon baru pengguna telah PP
+
+Tindakan layanan pelanggan:
+Periksa di sistem backend pengguna Q - C pengguna - V pengguna - operasi, apakah ada tombol [FG]
+
+Solusi:
+a. Jika ada tombol, dapat melakukan operasi T: Setelah melakukan operasi untuk pengguna, arahkan pengguna untuk mengubah kembali;
+b. Jika tidak ada tombol, tidak dapat melakukan operasi T: Beritahu pengguna untuk mencoba nomor lain
+
+Contoh percakapan:
+
+a. Jika ada tombol, dapat melakukan operasi T, arahan percakapan: Halo, nomor telepon baru Anda telah QW, yang akan mempengaruhi perubahan Anda. Setelah layanan pelanggan membantu Anda melakukan operasi T, Anda dapat mencoba mengubah nomor telepon pendaftaran kembali. Apakah Anda memerlukan bantuan layanan pelanggan untuk melakukannya?
+
+b. Jika tidak ada tombol, tidak dapat melakukan operasi, arahan percakapan: Halo, nomor telepon baru yang Anda berikan sudah ada E, tidak didukung untuk digunakan sebagai nomor telepon baru untuk perubahan. Kami sarankan Anda untuk mencoba nomor telepon lain untuk pendaftaran.
+
+5. Batas perubahan nomor hari ini telah tercapai, silakan coba lagi besok atau hubungi layanan pelanggan
+Penyebab: Permintaan pengguna untuk mengganti nomor telepon pada hari itu telah melebihi x kali (misalnya mengklik tombol x kali, tetapi tidak berarti perubahan berhasil)
+
+Solusi: Layanan pelanggan perlu secara proaktif memeriksa apakah nomor telepon lama dan baru pengguna yang akan diubah memenuhi aturan perubahan, sambil menginformasikan pengguna tentang aturan perubahan dan mengarahkan mereka untuk mencoba lagi keesokan harinya
+
+Contoh percakapan:
+Halo, ada batasan jumlah untuk mengganti nomor telepon. Maksimum x kali permintaan per hari, dan maksimum y kali per bulan. Anda telah mencapai batas hari ini. (Informasikan pengguna tentang aturan perubahan dan arahkan mereka untuk mencoba lagi keesokan harinya)
+
+
+## Pertanyaan: Bisakah Anda membantu saya mengubah nomor telepon untuk login?
+
+Jawaban: Ringkasan penanganan lini pertama: Prioritaskan untuk menentukan apakah nomor telepon asli pelanggan belum A, dan nomor telepon baru harus memenuhi syarat belum pernah X, informasi B sama dengan akun asli, dan waktu penggunaan melebihi C hari, baru bisa dilakukan penggantian. Tentukan aplikasi yang digunakan pelanggan untuk mendaftar, jika menggunakan versi APP7, beri tahu pengguna bahwa sistem telepon Banja tidak didukung, dan perlu menggunakan sistem XO untuk mengubah nomor telepon.
+
+Langkah-langkah untuk mengganti nomor telepon terikat:
+1. Jika nomor telepon lama masih bisa login: Halaman utama APP > [Saya] di pojok kanan bawah > [Pengaturan Lainnya] > [Pengaturan Keamanan] > [Ubah Nomor Telepon Login]
+2. Jika nomor telepon lama tidak bisa login: Melalui halaman login APP, klik "Gunakan metode login lain" di bagian bawah halaman, lalu klik teks merah [Klik untuk mengubah nomor telepon login] di bagian atas halaman, ikuti petunjuk untuk mengisi informasi terkait dan operasikan untuk mengubah nomor telepon terdaftar.
+
+(II) Syarat untuk mengubah nomor telepon
+1. Memenuhi syarat frekuensi: Tidak lebih dari 2 kali per bulan dan tidak lebih dari 1 kali per hari untuk mengubah nomor telepon. Catatan: Jika pengguna melaporkan telah mencapai batas harian untuk mengganti nomor, layanan pelanggan harus secara proaktif memeriksa apakah nomor telepon lama dan baru pengguna memenuhi aturan perubahan, dan pada saat yang sama mengingatkan pengguna tentang aturan penggantian dan mengarahkan mereka untuk mencoba lagi keesokan harinya.
+
+2. Nomor telepon harus memenuhi syarat:
+
+1) Syarat untuk nomor telepon lama:
+① Nomor telepon lama AAA;
+② Nomor telepon lama XXX;
+③ Nomor telepon lama YYY
+
+2) Syarat untuk nomor telepon baru:
+① Nomor telepon baru tidak boleh memiliki SSS di platform
+② Nomor telepon baru harus GGG dengan akun asli;
+③ Nomor telepon baru harus RRR;
+④ Nomor telepon baru pengguna harus EEE
+
+(III) Hal-hal yang perlu diperhatikan saat mengubah nomor telepon
+1. Saat mengubah nomor telepon baru, C dan D harus dilakukan secara bersamaan;
+2. Pengguna telah melakukan operasi T;
+3. Jika nomor telepon baru memiliki K, maka perlu mengklik M;
+4. Nomor telepon belum pernah melakukan operasi lain
+
+Proses penanganan
+1. Dapatkan FN pengguna
+2. Tentukan apakah nomor telepon lama telah X
+3. Tentukan apakah nomor telepon lama telah D, jika ya maka perlu melakukan operasi V, jika tidak maka perlu melakukan operasi T
+4. Tentukan apakah nomor telepon baru baru dibuat dalam sistem
+
+(1) Tentukan apakah nomor telepon baru sudah D: Halaman pengguna - A pengguna - S pengguna - Gunakan D pengguna untuk mencari dan menentukan berdasarkan petunjuk
+(2) Tentukan apakah nomor telepon baru sudah pernah melakukan operasi X
+
+Z pengguna - X pengguna - C pengguna - Gunakan V pengguna untuk mencari dan lihat kolom [MG]
+
+[Sudah D]: Beri tahu pengguna bahwa perubahan tidak didukung, arahkan pengguna untuk login menggunakan XXX
+
+[Belum D]: A pengguna - S pengguna - D pengguna - Lakukan operasi [Hapus nomor telepon terdaftar]
+
+(V) Contoh skrip percakapan
+1. Mendapatkan nomor telepon:
+Halo, mohon berikan nomor telepon terdaftar Anda yang lama dan nomor telepon baru yang ingin Anda ganti, saya akan memverifikasi apakah memenuhi syarat penggantian.
+
+2. Telah X:
+Halo, nomor baru yang Anda berikan saat ini tidak dapat diubah menjadi nomor telepon terdaftar. Kami mohon maaf atas ketidaknyamanan ini. Sistem melakukan evaluasi menyeluruh terhadap kualifikasi Anda, dan evaluasi dilakukan secara berkala. Kami sarankan Anda untuk terus memperhatikan pembaruan APP.
+
+3. Nomor telepon lama dan baru memenuhi syarat:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor telepon baru Anda dan akun terdaftar asli keduanya memenuhi syarat untuk penggantian nomor. Anda dapat melakukan penggantian di APP.
+
+4. Nomor telepon baru sudah EE:
+Halo, layanan pelanggan telah memeriksa bahwa nomor telepon baru Anda XXXXXX tidak dapat digunakan sebagai nomor yang dapat diubah. Kami sarankan Anda untuk langsung login menggunakan nomor telepon baru tersebut untuk melihat.
+
+5. RR nomor telepon baru:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor telepon baru Anda telah FFF, yang akan mempengaruhi keberhasilan perubahan. Layanan pelanggan telah membantu Anda GGG informasi pendaftaran, Anda dapat melakukan penggantian di APP.
+
+
+Skenario Kesalahan dan Solusi Penanganan
+
+1. Nomor Telepon tidak cocok dengan SSS
+Penyebab: Nomor telepon pengguna SSS tidak sesuai dengan EEE
+
+Tindakan layanan pelanggan:
+a. Tanyakan nomor seri ASD untuk nomor telepon baru RRR pengguna;
+b. Periksa SSS pengguna di backend, dan tentukan apakah sesuai dengan yang diberikan pengguna
+
+Solusi:
+a. Jika sesuai, laporkan untuk penanganan lebih lanjut; 
+b. Jika tidak sesuai, sarankan pengguna untuk mencoba lagi operasi YUI di ponsel mereka.
+
+Contoh percakapan:
+
+a. Sesuai: Halo, masalah Anda telah dilaporkan ke departemen terkait untuk verifikasi. Staf akan menghubungi Anda kembali, harap perhatikan panggilan masuk.
+
+b. Tidak sesuai: Halo, nomor telepon yang ditampilkan adalah W, apakah T dan H pada nomor telepon Anda sama?
+
+2. Informasi A Anda telah FIN. Klik [Ubah nomor telepon login] untuk mengubah?
+
+Penyebab: Nomor telepon pengguna telah SDD
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk mengklik tombol dan mengikuti petunjuk
+
+Solusi:
+Arahkan pengguna untuk mengklik [Ubah nomor telepon login] untuk masuk ke akun asli yang terdaftar (setelah dialihkan melalui tombol ini, akan AWESD kemudian selesai)
+
+Contoh percakapan:
+Halo, jika muncul pemberitahuan bahwa informasi A Anda telah FIN, itu berarti informasi A Anda telah ADE di platform kami. Anda dapat mengklik [Ubah nomor telepon login] dan mengikuti petunjuk untuk mengubah pendaftaran. Jika nomor telepon baru Anda memenuhi persyaratan, perubahan akan berhasil.
+
+3. Akun Anda telah TR atau ada situasi W3, operasi ini tidak didukung
+Penyebab: Nomor telepon baru pengguna memiliki catatan pendaftaran sebelumnya (tidak selalu informasi pinjaman milik pengguna sendiri)
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk login ke aplikasi menggunakan nomor telepon baru
+
+Contoh percakapan:
+Halo, akun Anda telah TR. Kami sarankan Anda dapat langsung login menggunakan nomor telepon baru untuk memeriksa.
+
+4. Nomor telepon yang akan diubah telah PP
+Penyebab: Nomor telepon baru pengguna telah PP
+
+Tindakan layanan pelanggan:
+Periksa di sistem backend pengguna Q - C pengguna - V pengguna - operasi, apakah ada tombol [FG]
+
+Solusi:
+a. Jika ada tombol, dapat melakukan operasi T: Setelah melakukan operasi untuk pengguna, arahkan pengguna untuk mengubah kembali;
+b. Jika tidak ada tombol, tidak dapat melakukan operasi T: Beritahu pengguna untuk mencoba nomor lain
+
+Contoh percakapan:
+
+a. Jika ada tombol, dapat melakukan operasi T, arahan percakapan: Halo, nomor telepon baru Anda telah QW, yang akan mempengaruhi perubahan Anda. Setelah layanan pelanggan membantu Anda melakukan operasi T, Anda dapat mencoba mengubah nomor telepon pendaftaran kembali. Apakah Anda memerlukan bantuan layanan pelanggan untuk melakukannya?
+
+b. Jika tidak ada tombol, tidak dapat melakukan operasi, arahan percakapan: Halo, nomor telepon baru yang Anda berikan sudah ada E, tidak didukung untuk digunakan sebagai nomor telepon baru untuk perubahan. Kami sarankan Anda untuk mencoba nomor telepon lain untuk pendaftaran.
+
+5. Batas perubahan nomor hari ini telah tercapai, silakan coba lagi besok atau hubungi layanan pelanggan
+Penyebab: Permintaan pengguna untuk mengganti nomor telepon pada hari itu telah melebihi x kali (misalnya mengklik tombol x kali, tetapi tidak berarti perubahan berhasil)
+
+Solusi: Layanan pelanggan perlu secara proaktif memeriksa apakah nomor telepon lama dan baru pengguna yang akan diubah memenuhi aturan perubahan, sambil menginformasikan pengguna tentang aturan perubahan dan mengarahkan mereka untuk mencoba lagi keesokan harinya
+
+Contoh percakapan:
+Halo, ada batasan jumlah untuk mengganti nomor telepon. Maksimum x kali permintaan per hari, dan maksimum y kali per bulan. Anda telah mencapai batas hari ini. (Informasikan pengguna tentang aturan perubahan dan arahkan mereka untuk mencoba lagi keesokan harinya)
+
+
+## Pertanyaan: Di mana saya bisa memasukkan nomor telepon baru saya untuk login?
+
+Jawaban: Ringkasan penanganan lini pertama: Prioritaskan menilai apakah nomor telepon lama pelanggan belum A, dan perlu memenuhi syarat nomor baru belum X, informasi B sesuai dengan akun asli, waktu penggunaan melebihi C hari, baru bisa melakukan penggantian. Periksa aplikasi yang digunakan pelanggan untuk mendaftar, jika menggunakan versi APP7, informasikan pengguna bahwa sistem ponsel Banjia tidak didukung, perlu menggunakan sistem XO untuk mengubah nomor telepon.
+
+Langkah-langkah mengganti nomor telepon terdaftar:
+1. Jika nomor lama masih bisa login: Halaman utama APP - [Saya] di kanan bawah - [Pengaturan Lainnya] - [Pengaturan Keamanan] - [Ubah Nomor Telepon Login]
+2. Jika nomor lama tidak bisa login: Melalui halaman login APP, klik "Gunakan cara login lain" di bagian bawah halaman, lalu klik teks merah [Klik untuk mengubah nomor telepon login] di bagian atas halaman, ikuti petunjuk untuk mengisi informasi terkait dan lakukan operasi untuk mengubah nomor telepon terdaftar.
+
+(II) Syarat mengubah nomor telepon
+1. Memenuhi syarat frekuensi: Tidak melebihi 2 kali per bulan, tidak lebih dari 1 kali per hari. Catatan: Jika pengguna melaporkan telah mencapai batas harian untuk mengganti nomor, layanan pelanggan harus secara proaktif memeriksa apakah nomor lama dan baru pengguna memenuhi aturan perubahan, dan menginformasikan aturan penggantian kepada pengguna sambil mengarahkan mereka untuk mencoba lagi keesokan harinya.
+
+2. Nomor telepon harus memenuhi syarat
+
+1) Syarat nomor lama:
+① Nomor lama AAA;
+② Nomor lama XXX;
+③ Nomor lama YYY
+
+2) Syarat nomor baru:
+① Nomor baru tidak boleh memiliki SSS di platform
+② Nomor baru harus GGG dengan akun asli;
+③ Nomor baru harus RRR;
+④ Nomor baru pengguna harus EEE
+
+(III) Hal yang perlu diperhatikan saat mengubah nomor telepon
+1. Saat mengubah ke nomor baru, C dan D harus dilakukan bersamaan;
+2. Pengguna telah melakukan operasi T;
+3. Jika nomor baru memiliki K, maka perlu mengklik M;
+4. Nomor telepon belum pernah melakukan operasi lain
+
+Proses penanganan
+1. Dapatkan FN pengguna
+2. Periksa apakah nomor lama X
+3. Periksa apakah nomor lama telah D, jika ya maka perlu melakukan operasi V, jika tidak maka perlu melakukan operasi T
+4. Periksa apakah nomor baru baru dibuat di sistem
+(1) Periksa apakah nomor baru sudah D: Halaman pengguna - A pengguna - S pengguna - Gunakan D pengguna untuk mencari dan menilai berdasarkan petunjuk
+(2) Periksa apakah nomor baru sudah pernah melakukan operasi X
+Z pengguna - X pengguna - C pengguna - Gunakan V pengguna untuk mencari dan lihat kolom [MG]
+[Sudah D]: Beritahu pengguna perubahan tidak didukung, arahkan pengguna untuk login menggunakan XXX
+[Belum D]: A pengguna - S pengguna - D pengguna - Lakukan operasi [Hapus nomor telepon terdaftar]
+
+(V) Contoh percakapan
+1. Mendapatkan nomor telepon:
+Halo, mohon berikan nomor telepon terdaftar lama Anda dan nomor baru yang ingin Anda ganti, saya akan memeriksanya apakah memenuhi syarat penggantian.
+
+2. Telah X:
+Halo, nomor baru yang Anda berikan untuk saat ini tidak dapat diubah menjadi nomor telepon terdaftar. Kami mohon maaf atas ketidaknyamanannya. Sistem melakukan evaluasi menyeluruh terhadap kualifikasi Anda, dan evaluasi dilakukan secara berkala. Kami sarankan Anda untuk tetap memperhatikan perkembangan di APP.
+
+3. Nomor lama dan baru memenuhi syarat:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor baru Anda dan akun terdaftar asli keduanya memenuhi syarat untuk penggantian nomor telepon. Anda dapat melakukan penggantian di APP.
+
+4. Nomor baru sudah EE:
+Halo, layanan pelanggan telah memeriksa bahwa nomor baru Anda XXXXXX tidak dapat digunakan sebagai nomor yang dapat diubah. Kami sarankan Anda untuk langsung login menggunakan nomor baru tersebut untuk melihat.
+
+5. RR nomor baru:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor baru Anda telah FFF, yang akan mempengaruhi keberhasilan perubahan. Layanan pelanggan telah membantu Anda GGG informasi pendaftaran, Anda dapat melakukan penggantian di APP.
+
+Skenario Kesalahan dan Solusi Penanganan
+
+1. Nomor Telepon tidak cocok dengan SSS
+Penyebab: Nomor telepon pengguna SSS tidak sesuai dengan EEE
+
+Tindakan layanan pelanggan:
+a. Tanyakan nomor seri ASD untuk nomor telepon baru RRR pengguna;
+b. Periksa SSS pengguna di backend, dan tentukan apakah sesuai dengan yang diberikan pengguna
+
+Solusi:
+a. Jika sesuai, laporkan untuk penanganan lebih lanjut; 
+b. Jika tidak sesuai, sarankan pengguna untuk mencoba lagi operasi YUI di ponsel mereka.
+
+Contoh percakapan:
+
+a. Sesuai: Halo, masalah Anda telah dilaporkan ke departemen terkait untuk verifikasi. Staf akan menghubungi Anda kembali, harap perhatikan panggilan masuk.
+
+b. Tidak sesuai: Halo, nomor telepon yang ditampilkan adalah W, apakah T dan H pada nomor telepon Anda sama?
+
+2. Informasi A Anda telah FIN. Klik [Ubah nomor telepon login] untuk mengubah?
+
+Penyebab: Nomor telepon pengguna telah SDD
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk mengklik tombol dan mengikuti petunjuk
+
+Solusi:
+Arahkan pengguna untuk mengklik [Ubah nomor telepon login] untuk masuk ke akun asli yang terdaftar (setelah dialihkan melalui tombol ini, akan AWESD kemudian selesai)
+
+Contoh percakapan:
+Halo, jika muncul pemberitahuan bahwa informasi A Anda telah FIN, itu berarti informasi A Anda telah ADE di platform kami. Anda dapat mengklik [Ubah nomor telepon login] dan mengikuti petunjuk untuk mengubah pendaftaran. Jika nomor telepon baru Anda memenuhi persyaratan, perubahan akan berhasil.
+
+3. Akun Anda telah TR atau ada situasi W3, operasi ini tidak didukung
+Penyebab: Nomor telepon baru pengguna memiliki catatan pendaftaran sebelumnya (tidak selalu informasi pinjaman milik pengguna sendiri)
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk login ke aplikasi menggunakan nomor telepon baru
+
+Contoh percakapan:
+Halo, akun Anda telah TR. Kami sarankan Anda dapat langsung login menggunakan nomor telepon baru untuk memeriksa.
+
+4. Nomor telepon yang akan diubah telah PP
+Penyebab: Nomor telepon baru pengguna telah PP
+
+Tindakan layanan pelanggan:
+Periksa di sistem backend pengguna Q - C pengguna - V pengguna - operasi, apakah ada tombol [FG]
+
+Solusi:
+a. Jika ada tombol, dapat melakukan operasi T: Setelah melakukan operasi untuk pengguna, arahkan pengguna untuk mengubah kembali;
+b. Jika tidak ada tombol, tidak dapat melakukan operasi T: Beritahu pengguna untuk mencoba nomor lain
+
+Contoh percakapan:
+
+a. Jika ada tombol, dapat melakukan operasi T, arahan percakapan: Halo, nomor telepon baru Anda telah QW, yang akan mempengaruhi perubahan Anda. Setelah layanan pelanggan membantu Anda melakukan operasi T, Anda dapat mencoba mengubah nomor telepon pendaftaran kembali. Apakah Anda memerlukan bantuan layanan pelanggan untuk melakukannya?
+
+b. Jika tidak ada tombol, tidak dapat melakukan operasi, arahan percakapan: Halo, nomor telepon baru yang Anda berikan sudah ada E, tidak didukung untuk digunakan sebagai nomor telepon baru untuk perubahan. Kami sarankan Anda untuk mencoba nomor telepon lain untuk pendaftaran.
+
+5. Batas perubahan nomor hari ini telah tercapai, silakan coba lagi besok atau hubungi layanan pelanggan
+Penyebab: Permintaan pengguna untuk mengganti nomor telepon pada hari itu telah melebihi x kali (misalnya mengklik tombol x kali, tetapi tidak berarti perubahan berhasil)
+
+Solusi: Layanan pelanggan perlu secara proaktif memeriksa apakah nomor telepon lama dan baru pengguna yang akan diubah memenuhi aturan perubahan, sambil menginformasikan pengguna tentang aturan perubahan dan mengarahkan mereka untuk mencoba lagi keesokan harinya
+
+Contoh percakapan:
+Halo, ada batasan jumlah untuk mengganti nomor telepon. Maksimum x kali permintaan per hari, dan maksimum y kali per bulan. Anda telah mencapai batas hari ini. (Informasikan pengguna tentang aturan perubahan dan arahkan mereka untuk mencoba lagi keesokan harinya)
+
+## Pertanyaan: Prosedur penanganan perubahan nomor telepon terdaftar
+Jawaban: Ringkasan penanganan lini pertama: Prioritaskan menilai apakah nomor telepon asli pelanggan belum A, dan nomor telepon baru harus memenuhi syarat belum pernah X, informasi B sesuai dengan akun asli, dan waktu penggunaan melebihi C hari, baru bisa dilakukan perubahan. Tentukan aplikasi yang digunakan pelanggan untuk mendaftar, jika menggunakan versi APP7, beri tahu pengguna bahwa sistem ponsel Banjia tidak didukung, perlu menggunakan sistem XO untuk mengubah nomor telepon.
+
+Langkah-langkah mengubah nomor telepon:
+1. Jika nomor lama masih bisa login: Halaman utama APP - [Saya] di pojok kanan bawah - [Pengaturan Lainnya] - [Pengaturan Keamanan] - [Ubah Nomor Telepon Login]
+2. Jika nomor lama tidak bisa login: Melalui halaman login APP, klik "Gunakan metode login lain" di bagian bawah halaman, lalu klik teks merah [Klik untuk mengubah nomor telepon login] di bagian atas halaman, ikuti petunjuk untuk mengisi informasi terkait dan ubah nomor telepon terdaftar.
+
+(II) Syarat untuk mengubah nomor telepon
+1. Memenuhi batasan frekuensi: Tidak lebih dari 2 kali per bulan, tidak lebih dari 1 kali per hari. Catatan: Jika pengguna melaporkan telah mencapai batas harian untuk mengubah nomor telepon, layanan pelanggan harus secara aktif memeriksa apakah nomor lama dan baru pengguna memenuhi aturan perubahan, dan mengingatkan pengguna tentang aturan perubahan serta mengarahkan mereka untuk mencoba lagi keesokan harinya.
+
+2. Nomor telepon harus memenuhi persyaratan
+
+1) Syarat untuk nomor lama:
+
+① Nomor lama harus AAA;
+
+② Nomor lama harus XXX; 
+
+③ Nomor lama harus YYY
+
+2) Syarat untuk nomor baru:
+
+① Nomor baru tidak boleh memiliki SSS di platform
+
+② Informasi nomor baru harus GGG dengan akun asli;
+
+③ Nomor baru harus RRR;
+
+④ Nomor baru pengguna harus EEE
+
+(III) Hal-hal yang perlu diperhatikan saat mengubah nomor telepon
+1. Saat mengubah ke nomor baru, C dan D harus dilakukan bersamaan;
+
+2. Pengguna sudah melakukan operasi T;
+
+3. Jika nomor baru memiliki K, maka perlu mengklik M;
+
+4. Nomor telepon belum pernah dioperasikan lainnya
+
+Prosedur penanganan
+1. Dapatkan FN pengguna
+
+2. Periksa apakah nomor lama sudah X
+
+3. Periksa apakah nomor lama sudah D, jika sudah D, perlu melakukan operasi V, jika belum D, perlu melakukan operasi T
+
+4. Periksa apakah nomor baru baru dibuat di sistem
+
+(1) Periksa apakah nomor baru sudah D: Halaman pengguna - A pengguna - S pengguna - Gunakan D pengguna untuk mencari dan menilai berdasarkan petunjuk
+(2) Periksa apakah nomor baru sudah pernah X
+
+Z pengguna - X pengguna - C pengguna - Gunakan V pengguna untuk mencari dan lihat kolom [MG]
+
+[Sudah D]: Beri tahu pengguna perubahan tidak didukung, arahkan pengguna untuk login menggunakan XXX
+
+[Belum D]: A pengguna - S pengguna - D pengguna - Lakukan [Hapus nomor telepon terdaftar]
+
+(V) Contoh percakapan
+1. Mendapatkan nomor telepon:
+Halo, mohon berikan nomor telepon terdaftar Anda yang lama dan nomor baru yang ingin Anda gunakan, saya akan memeriksa apakah memenuhi syarat perubahan.
+
+2. Sudah X:
+Halo, nomor baru yang Anda berikan untuk saat ini tidak dapat digunakan sebagai nomor telepon terdaftar. Kami mohon maaf atas ketidaknyamanan ini. Sistem melakukan penilaian komprehensif terhadap kualifikasi Anda, dan akan melakukan penilaian secara berkala. Kami sarankan Anda untuk terus memantau pembaruan di aplikasi.
+
+3. Nomor lama dan baru memenuhi syarat:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor telepon baru Anda dan akun terdaftar asli keduanya memenuhi syarat untuk perubahan nomor. Anda dapat melakukan perubahan melalui aplikasi.
+
+4. Nomor baru sudah EE:
+Halo, layanan pelanggan telah memeriksa bahwa nomor baru Anda XXXXXX tidak dapat digunakan sebagai nomor yang dapat diubah. Kami sarankan Anda untuk langsung login menggunakan nomor telepon baru tersebut.
+
+5. RR nomor baru:
+Halo, layanan pelanggan telah memverifikasi bahwa nomor telepon baru Anda sudah FFF, yang akan menyebabkan perubahan gagal. Layanan pelanggan telah membantu GGG informasi pendaftaran Anda, Anda dapat melakukan perubahan melalui aplikasi.
+
+Skenario Kesalahan dan Solusi Penanganan
+
+1. Nomor Telepon tidak cocok dengan SSS
+Penyebab: Nomor telepon pengguna SSS tidak sesuai dengan EEE
+
+Tindakan layanan pelanggan:
+a. Tanyakan nomor seri ASD untuk nomor telepon baru RRR pengguna;
+b. Periksa SSS pengguna di backend, dan tentukan apakah sesuai dengan yang diberikan pengguna
+
+Solusi:
+a. Jika sesuai, laporkan untuk penanganan lebih lanjut; 
+b. Jika tidak sesuai, sarankan pengguna untuk mencoba lagi operasi YUI di ponsel mereka.
+
+Contoh percakapan:
+
+a. Sesuai: Halo, masalah Anda telah dilaporkan ke departemen terkait untuk verifikasi. Staf akan menghubungi Anda kembali, harap perhatikan panggilan masuk.
+
+b. Tidak sesuai: Halo, nomor telepon yang ditampilkan adalah W, apakah T dan H pada nomor telepon Anda sama?
+
+2. Informasi A Anda telah FIN. Klik [Ubah nomor telepon login] untuk mengubah?
+
+Penyebab: Nomor telepon pengguna telah SDD
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk mengklik tombol dan mengikuti petunjuk
+
+Solusi:
+Arahkan pengguna untuk mengklik [Ubah nomor telepon login] untuk masuk ke akun asli yang terdaftar (setelah dialihkan melalui tombol ini, akan AWESD kemudian selesai)
+
+Contoh percakapan:
+Halo, jika muncul pemberitahuan bahwa informasi A Anda telah FIN, itu berarti informasi A Anda telah ADE di platform kami. Anda dapat mengklik [Ubah nomor telepon login] dan mengikuti petunjuk untuk mengubah pendaftaran. Jika nomor telepon baru Anda memenuhi persyaratan, perubahan akan berhasil.
+
+3. Akun Anda telah TR atau ada situasi W3, operasi ini tidak didukung
+Penyebab: Nomor telepon baru pengguna memiliki catatan pendaftaran sebelumnya (tidak selalu informasi pinjaman milik pengguna sendiri)
+
+Tindakan layanan pelanggan: Arahkan pengguna untuk login ke aplikasi menggunakan nomor telepon baru
+
+Contoh percakapan:
+Halo, akun Anda telah TR. Kami sarankan Anda dapat langsung login menggunakan nomor telepon baru untuk memeriksa.
+
+4. Nomor telepon yang akan diubah telah PP
+Penyebab: Nomor telepon baru pengguna telah PP
+
+Tindakan layanan pelanggan:
+Periksa di sistem backend pengguna Q - C pengguna - V pengguna - operasi, apakah ada tombol [FG]
+
+Solusi:
+a. Jika ada tombol, dapat melakukan operasi T: Setelah melakukan operasi untuk pengguna, arahkan pengguna untuk mengubah kembali;
+b. Jika tidak ada tombol, tidak dapat melakukan operasi T: Beritahu pengguna untuk mencoba nomor lain
+
+Contoh percakapan:
+
+a. Jika ada tombol, dapat melakukan operasi T, arahan percakapan: Halo, nomor telepon baru Anda telah QW, yang akan mempengaruhi perubahan Anda. Setelah layanan pelanggan membantu Anda melakukan operasi T, Anda dapat mencoba mengubah nomor telepon pendaftaran kembali. Apakah Anda memerlukan bantuan layanan pelanggan untuk melakukannya?
+
+b. Jika tidak ada tombol, tidak dapat melakukan operasi, arahan percakapan: Halo, nomor telepon baru yang Anda berikan sudah ada E, tidak didukung untuk digunakan sebagai nomor telepon baru untuk perubahan. Kami sarankan Anda untuk mencoba nomor telepon lain untuk pendaftaran.
+
+5. Batas perubahan nomor hari ini telah tercapai, silakan coba lagi besok atau hubungi layanan pelanggan
+Penyebab: Permintaan pengguna untuk mengganti nomor telepon pada hari itu telah melebihi x kali (misalnya mengklik tombol x kali, tetapi tidak berarti perubahan berhasil)
+
+Solusi: Layanan pelanggan perlu secara proaktif memeriksa apakah nomor telepon lama dan baru pengguna yang akan diubah memenuhi aturan perubahan, sambil menginformasikan pengguna tentang aturan perubahan dan mengarahkan mereka untuk mencoba lagi keesokan harinya
+
+Contoh percakapan:
+Halo, ada batasan jumlah untuk mengganti nomor telepon. Maksimum x kali permintaan per hari, dan maksimum y kali per bulan. Anda telah mencapai batas hari ini. (Informasikan pengguna tentang aturan perubahan dan arahkan mereka untuk mencoba lagi keesokan harinya)
+
+
+## Pertanyaan: Apa yang harus dilakukan jika lupa kata sandi login, bagaimana cara mengubahnya?
+Jawaban: Halo, setelah masuk ke halaman login, klik berurutan [Gunakan cara login lain] - [Login dengan kata sandi] - [Lupa kata sandi], lalu klik untuk mendapatkan kode verifikasi untuk mengubah kata sandi login Anda.
+
+## Pertanyaan: Saya lupa kata sandi saya, tidak bisa login, apa yang harus saya lakukan?
+Jawaban: Halo, setelah masuk ke halaman login, klik berurutan [Gunakan cara login lain] - [Login dengan kata sandi] - [Lupa kata sandi], lalu klik untuk mendapatkan kode verifikasi untuk mengubah kata sandi login Anda.
+
+## Pertanyaan: Tolong bantu saya mengubah kata sandi, saya tidak bisa login
+Jawaban: Halo, setelah masuk ke halaman login, klik berurutan [Gunakan cara login lain] - [Login dengan kata sandi] - [Lupa kata sandi], lalu klik untuk mendapatkan kode verifikasi untuk mengubah kata sandi login Anda.
+
+## Pertanyaan: Saya tidak ingat kata sandi saya, bagaimana cara saya login?
+Jawaban: Halo, setelah masuk ke halaman login, klik berurutan [Gunakan cara login lain] - [Login dengan kata sandi] - [Lupa kata sandi], lalu klik untuk mendapatkan kode verifikasi untuk mengubah kata sandi login Anda.
+
+## Pertanyaan: Di mana saya bisa melihat kata sandi saya, bagaimana cara memulihkan kata sandi, tidak bisa login tanpa kata sandi
+Jawaban: Halo, setelah masuk ke halaman login, klik berurutan [Gunakan cara login lain] - [Login dengan kata sandi] - [Lupa kata sandi], lalu klik untuk mendapatkan kode verifikasi untuk mengubah kata sandi login Anda.
+
+## Pertanyaan: Bagaimana cara mengubah kata sandi login?
+Jawaban: Halo, setelah masuk ke halaman login, klik berurutan [Gunakan cara login lain] - [Login dengan kata sandi] - [Lupa kata sandi], lalu klik untuk mendapatkan kode verifikasi untuk mengubah kata sandi login Anda.
+
+## Pertanyaan: Saya sudah mendaftar, tapi informasi yang ditampilkan adalah milik orang lain, ada apa ini?
+Jawaban: Halo, ini karena nomor telepon yang Anda gunakan saat ini sebelumnya telah digunakan oleh orang lain, jadi nomor tersebut tidak dapat digunakan. Kami sarankan Anda untuk mendaftar ulang atau mencoba menggunakan nomor telepon lain yang terdaftar atas nama Anda.
+
+## Pertanyaan: Mengapa setelah saya mendaftar, informasinya bukan milik saya?
+Jawaban: Halo, ini karena nomor telepon yang Anda gunakan saat ini sebelumnya telah digunakan oleh orang lain, jadi nomor tersebut tidak dapat digunakan. Kami sarankan Anda untuk mendaftar ulang atau mencoba menggunakan nomor telepon lain yang terdaftar atas nama Anda.
+
+## Pertanyaan: Mengapa setelah mendaftar, aplikasi menampilkan informasi yang bukan milik saya?
+Jawaban: Halo, ini karena nomor telepon yang Anda gunakan saat ini sebelumnya telah digunakan oleh orang lain, jadi nomor tersebut tidak dapat digunakan. Kami sarankan Anda untuk mendaftar ulang atau mencoba menggunakan nomor telepon lain yang terdaftar atas nama Anda.
+
+## Pertanyaan: Bagaimana bisa setelah mendaftar, informasi yang ditampilkan bukan milik saya?
+Jawaban: Halo, ini karena nomor telepon yang Anda gunakan saat ini sebelumnya telah digunakan oleh orang lain, jadi nomor tersebut tidak dapat digunakan. Kami sarankan Anda untuk mendaftar ulang atau mencoba menggunakan nomor telepon lain yang terdaftar atas nama Anda.
+
+## Pertanyaan: Setelah mendaftar, aplikasi menampilkan informasi yang bukan milik saya
+Jawaban: Halo, ini karena nomor telepon yang Anda gunakan saat ini sebelumnya telah digunakan oleh orang lain, jadi nomor tersebut tidak dapat digunakan. Kami sarankan Anda untuk mendaftar ulang atau mencoba menggunakan nomor telepon lain yang terdaftar atas nama Anda.
+
+## Pertanyaan: Apa yang harus dilakukan jika pengenalan wajah gagal?
+Jawaban: 
+Q1: Apakah setiap kali FN akan dilakukan pengenalan wajah?
+A: Halo, tidak akan dilakukan verifikasi pengenalan wajah.
+
+Q2: Bagaimana jika pengenalan wajah gagal setelah operasi plastik?
+A: Mohon maaf Bapak/Ibu, pengenalan wajah adalah sistem pengenalan otomatis, jika gagal maka aplikasi tidak dapat digunakan. Kami mohon maaf atas ketidaknyamanan ini, mohon pengertian Anda.
+
+Q3: Mengapa pengenalan wajah gagal?
+A: Halo, untuk pengenalan wajah Anda perlu membuka izin akses kamera. Anda dapat mengklik "Saya" di pojok kanan bawah aplikasi - "Pengaturan Lainnya" di bagian bawah halaman - "Pengaturan Keamanan" - "Ubah Izin", lalu aktifkan izin akses kamera dan coba lagi. Selama proses pengenalan, pastikan pencahayaan normal, fokus jelas, dan ikuti petunjuk untuk menggerakkan kepala ke kiri dan kanan, mengangguk ke atas dan bawah, berkedip, dll.
+
+
+Q4 Apa yang harus dilakukan jika pemindaian gagal saat pengenalan wajah?
+A: Halo, berikut hal-hal yang perlu diperhatikan saat melakukan verifikasi pengenalan wajah:
+
+1. Aktifkan izin kamera pada ponsel
+2. Pastikan pencahayaan cukup terang dan wajah terlihat jelas
+
+Cara mengaktifkan izin kamera: Klik [Saya] - [Pengaturan Lainnya] - [Pengaturan Keamanan] - [Ubah Izin]. Setelah izin diaktifkan, coba lakukan verifikasi kembali.
+
+[Tips] Selama proses pengenalan, disarankan untuk memastikan pencahayaan normal dan fokus jelas. Ikuti langkah-langkah yang ditampilkan oleh sistem untuk melakukan verifikasi.
+
+Q5 Mengapa diperlukan pengenalan wajah untuk menghubungi WQ?
+A: Latar belakang: Untuk menjaga keamanan informasi akun dan aset pengguna, akses ke WQ memerlukan pengenalan wajah.
+
+Prosedur penanganan:
+1. Tenangkan pengguna, dapatkan persetujuan, tanyakan masalah yang perlu diselesaikan, dan lanjutkan menjawab
+2. Jika pengguna mengancam S atau menyebutkan masalah Y (lihat prosedur NF), eskalasi penanganan
+
+Contoh percakapan:
+Untuk menjamin keamanan informasi identitas dan aset Anda, Anda perlu melakukan verifikasi pengenalan wajah sebelum mengakses WQ. Setelah pengenalan wajah berhasil, Anda dapat mengakses secara normal.
+
+1. Anda juga dapat berkonsultasi dengan layanan pelanggan untuk masalah apa pun, saya dapat membantu Anda.
+2. Apa masalah yang Anda hadapi? Layanan pelanggan akan menjawab pertanyaan Anda.
+3. Mohon maaf atas ketidaknyamanannya. Masalah Anda telah dicatat dan diteruskan ke pihak yang bertanggung jawab. Harap pastikan telepon Anda aktif dan siap menerima panggilan.
+
+Q6 Mengapa kamera tidak dapat dibuka?
+Halo, harap periksa apakah izin akses kamera telah diaktifkan. Klik [Saya] di pojok kanan bawah aplikasi - [Pengaturan Lainnya] - [Pengaturan Keamanan] - [Ubah Izin]. Jika izin belum diaktifkan, aktifkan dan coba lagi.
+
+Q: Bagaimana jika verifikasi pengenalan wajah gagal?
+A: Q1 Apakah pengenalan wajah diperlukan setiap kali FN?
+Halo, verifikasi pengenalan wajah tidak diperlukan.
+
+
+Q2: Apa yang harus dilakukan jika verifikasi wajah hidup gagal setelah operasi plastik?
+A: Mohon maaf Bapak/Ibu, verifikasi wajah adalah sistem pengenalan otomatis. Jika gagal, Anda tidak dapat menggunakan aplikasi. Mohon maaf atas ketidaknyamanannya dan terima kasih atas pengertian Anda.
+
+Q3: Mengapa verifikasi pengenalan wajah gagal?
+A: Halo, pengenalan wajah memerlukan izin akses kamera. Anda dapat mengklik "Saya" di pojok kanan bawah aplikasi - "Pengaturan Lainnya" di bagian bawah halaman - "Pengaturan Keamanan" - "Ubah Izin", aktifkan izin akses kamera, lalu coba lagi. Selama proses pengenalan, pastikan pencahayaan normal, fokus jelas, dan ikuti petunjuk untuk menggelengkan kepala ke kiri dan kanan, mengangguk ke atas dan bawah, berkedip, dll.
+
+Q4: Apa yang harus dilakukan jika tidak dapat memindai saat pengenalan wajah?
+A: Halo, hal-hal yang perlu diperhatikan saat verifikasi pengenalan wajah:
+
+1. Aktifkan izin kamera ponsel
+2. Pastikan pencahayaan terang dan wajah terlihat jelas
+
+Untuk mengaktifkan izin kamera: klik [Saya] - [Pengaturan Lainnya] - [Pengaturan Keamanan] - [Ubah Izin], setelah izin diaktifkan, coba lagi untuk melakukan verifikasi.
+
+[Tips] Selama proses pengenalan, disarankan untuk memastikan pencahayaan normal, fokus jelas, dan ikuti langkah-langkah yang disarankan sistem untuk verifikasi.
+
+Q5: Mengapa diperlukan pengenalan wajah untuk menghubungi WQ?
+A: Latar belakang: Untuk melindungi keamanan informasi akun dan aset pengguna, akses ke WQ memerlukan pengenalan wajah.
+
+Proses penanganan:
+1. Menenangkan pengguna, mendapatkan persetujuan pengguna, menanyakan masalah apa yang perlu diselesaikan, dan melanjutkan menjawab
+2. Jika pengguna mengancam S atau menyebutkan masalah Y (merujuk pada proses NF), eskalasi penanganan
+
+Contoh ucapan:
+Untuk memastikan keamanan informasi identitas dan aset Anda, Anda perlu melakukan verifikasi pengenalan wajah sebelum mengakses WQ. Setelah pengenalan wajah berhasil, Anda dapat mengakses secara normal.
+
+1. Anda juga dapat berkonsultasi dengan layanan pelanggan untuk masalah apa pun, saya dapat membantu Anda.
+2. Mohon beri tahu masalah apa yang Anda hadapi, layanan pelanggan akan menjawabnya untuk Anda.
+3. Mohon maaf atas ketidaknyamanannya, masalah Anda telah dicatat dan diteruskan ke pihak yang bertanggung jawab. Harap pastikan telepon Anda aktif dan jawab tepat waktu.
+
+Q6: Mengapa kamera tidak bisa dibuka?
+Halo, mohon periksa apakah izin akses kamera telah diaktifkan. Klik [Saya] di pojok kanan bawah aplikasi - [Pengaturan Lainnya] - [Pengaturan Keamanan] - [Ubah Izin]. Jika izin belum diaktifkan, harap aktifkan dan coba lagi.
+
+
+## Pertanyaan: Mengapa verifikasi wajah tidak dapat dilakukan?
+
+Jawaban: 
+
+Q1: Apakah pengenalan wajah dilakukan setiap kali FN?
+A: Halo, verifikasi pengenalan wajah tidak dilakukan.
+
+Q2: Apa yang harus dilakukan jika verifikasi wajah gagal setelah operasi plastik?
+A: Mohon maaf Bapak/Ibu, pengenalan wajah dilakukan secara otomatis oleh sistem. Jika gagal, aplikasi tidak dapat digunakan. Mohon maaf atas ketidaknyamanannya dan terima kasih atas pengertian Anda.
+
+Q3: Mengapa verifikasi pengenalan wajah gagal?
+A: Halo, pengenalan wajah memerlukan izin akses kamera. Anda dapat membuka "Saya" di pojok kanan bawah aplikasi - "Pengaturan Lainnya" di bagian bawah halaman - "Pengaturan Keamanan" - "Ubah Izin", lalu aktifkan izin akses kamera dan coba lagi. Selama proses pengenalan, pastikan pencahayaan normal, fokus jelas, dan ikuti petunjuk untuk menggerakkan kepala ke kiri dan kanan, mengangguk, berkedip, dll.
+
+Q4: Apa yang harus dilakukan jika pemindaian gagal saat pengenalan wajah?
+A: Halo, hal-hal yang perlu diperhatikan saat verifikasi pengenalan wajah:
+
+1. Aktifkan izin kamera ponsel
+2. Pastikan pencahayaan terang dan wajah terlihat jelas
+
+Untuk mengaktifkan izin kamera: Klik [Saya] - [Pengaturan Lainnya] - [Pengaturan Keamanan] - [Ubah Izin], setelah izin diaktifkan, coba lakukan verifikasi lagi.
+
+[Tips] Selama proses pengenalan, disarankan untuk memastikan pencahayaan normal, fokus jelas, dan ikuti langkah-langkah yang ditampilkan sistem.
+
+Q5: Mengapa diperlukan pengenalan wajah untuk menghubungi WQ?
+A: Latar belakang: Untuk menjamin keamanan informasi akun dan aset pengguna, akses ke WQ memerlukan pengenalan wajah.
+
+Proses penanganan:
+1. Tenangkan pengguna, dapatkan persetujuan, tanyakan masalah yang perlu diselesaikan, lanjutkan menjawab
+2. Jika pengguna mengancam S atau menyebutkan masalah Y (lihat prosedur masuk NF), eskalasi penanganan
+
+Contoh percakapan:
+Untuk memastikan keamanan informasi identitas dan aset Anda, Anda perlu melakukan verifikasi pengenalan wajah sebelum mengakses WQ. Setelah pengenalan wajah berhasil, Anda dapat mengakses secara normal.
+
+1. Anda juga bisa berkonsultasi dengan layanan pelanggan, saya dapat membantu Anda.
+2. Mohon beri tahu masalah yang Anda hadapi, layanan pelanggan akan menjawabnya.
+3. Mohon maaf atas ketidaknyamanannya. Masalah Anda telah dicatat dan diteruskan ke pihak yang bertanggung jawab. Harap jaga agar telepon Anda tetap aktif dan jawab panggilan tepat waktu.
+
+Q6: Mengapa kamera tidak dapat dibuka?
+Halo, mohon periksa apakah izin akses kamera telah diaktifkan. Klik [Saya] di pojok kanan bawah aplikasi - [Pengaturan Lainnya] - [Pengaturan Keamanan] - [Ubah Izin]. Jika izin belum diaktifkan, mohon aktifkan dan coba lagi.
+
+
+## Pertanyaan: Apa yang harus dilakukan jika pengenalan wajah bermasalah?
+
+Jawaban: 
+
+Q1: Apakah pengenalan wajah dilakukan setiap kali FN?
+A: Halo, tidak ada verifikasi pengenalan wajah yang dilakukan.
+
+Q2: Apa yang harus dilakukan jika pengenalan wajah gagal setelah operasi plastik?
+A: Mohon maaf Bapak/Ibu, pengenalan wajah adalah proses otomatis sistem. Jika gagal, Anda tidak dapat menggunakan aplikasi. Kami mohon pengertian Anda atas ketidaknyamanan ini.
+
+Q3: Mengapa otentikasi pengenalan wajah gagal?
+A: Halo, pengenalan wajah memerlukan izin akses kamera. Anda dapat membuka "Saya" di pojok kanan bawah aplikasi -- "Pengaturan Lainnya" di bagian bawah halaman -- "Pengaturan Keamanan" -- "Ubah Izin", aktifkan izin akses kamera, lalu coba lagi. Selama proses pengenalan, pastikan pencahayaan normal, fokus jelas, dan ikuti petunjuk untuk menggerakkan kepala ke kiri dan kanan, mengangguk ke atas dan bawah, berkedip, dll.
+
+Q4: Apa yang harus dilakukan jika tidak dapat memindai saat pengenalan wajah?
+A: Halo, hal-hal yang perlu diperhatikan saat otentikasi pengenalan wajah:
+
+1. Aktifkan izin kamera ponsel
+2. Pastikan pencahayaan terang dan wajah terlihat jelas
+
+Untuk mengaktifkan izin kamera: Klik [Saya] - [Pengaturan Lainnya] - [Pengaturan Keamanan] - [Ubah Izin]. Setelah izin diaktifkan, coba lakukan otentikasi lagi.
+
+[Tips] Selama proses pengenalan, disarankan untuk memastikan pencahayaan normal, fokus jelas, dan ikuti langkah-langkah yang disarankan sistem untuk otentikasi.
+
+Q5: Mengapa perlu pengenalan wajah untuk menghubungi WQ?
+A: Latar belakang: Untuk menjamin keamanan informasi akun dan properti pengguna, akses ke WQ memerlukan pengenalan wajah.
+
+Proses penanganan:
+1. Tenangkan pengguna, dapatkan persetujuan, tanyakan masalah yang perlu diselesaikan, lanjutkan menjawab.
+2. Jika pengguna mengancam S atau menyebutkan masalah Y (lihat proses NF), eskalasi penanganan.
+
+Contoh ucapan:
+Untuk menjamin keamanan identitas dan properti Anda, Anda perlu melakukan verifikasi pengenalan wajah untuk mengakses WQ. Setelah pengenalan wajah berhasil, Anda dapat mengakses secara normal.
+
+1. Anda juga dapat berkonsultasi dengan layanan pelanggan untuk masalah apa pun, saya dapat membantu Anda.
+2. Apa masalah yang Anda hadapi? Layanan pelanggan siap membantu Anda.
+3. Mohon maaf atas ketidaknyamanannya. Masalah Anda telah dicatat dan diteruskan ke pihak yang bertanggung jawab. Harap pastikan telepon Anda aktif dan siap menerima panggilan.
+
+Q6: Mengapa kamera tidak dapat dibuka?
+Halo, harap periksa apakah izin akses kamera telah diaktifkan. Klik [Saya] di pojok kanan bawah aplikasi - [Pengaturan Lainnya] - [Pengaturan Keamanan] - [Ubah Izin]. Jika izin belum diaktifkan, harap aktifkan dan coba lagi.
+
+
+## Pertanyaan: Masalah Umum Pengenalan Wajah
+
+Jawaban: 
+
+Q1: Apakah pengenalan wajah dilakukan setiap kali FN?
+A: Halo, tidak dilakukan verifikasi pengenalan wajah.
+
+Q2: Apa yang harus dilakukan jika pengenalan wajah gagal setelah operasi plastik?
+A: Mohon maaf Bapak/Ibu, pengenalan wajah adalah proses otomatis sistem. Jika gagal, aplikasi tidak dapat digunakan. Mohon maaf atas ketidaknyamanannya dan terima kasih atas pengertian Anda.
+
+Q3: Mengapa autentikasi pengenalan wajah gagal?
+A: Halo, pengenalan wajah memerlukan izin akses kamera. Anda dapat membuka "Saya" di pojok kanan bawah aplikasi -- "Pengaturan Lainnya" di bagian bawah halaman -- "Pengaturan Keamanan" -- "Ubah Izin", aktifkan izin akses kamera, lalu coba lagi. Pastikan pencahayaan normal dan fokus jelas selama proses pengenalan, ikuti petunjuk untuk menggerakkan kepala ke kiri dan kanan, mengangguk ke atas dan bawah, berkedip, dll.
+
+Q4: Apa yang harus dilakukan jika tidak dapat memindai saat pengenalan wajah?
+A: Halo, hal-hal yang perlu diperhatikan saat autentikasi pengenalan wajah:
+
+1. Aktifkan izin kamera ponsel
+2. Pastikan pencahayaan terang dan wajah terlihat jelas
+
+Untuk mengaktifkan izin kamera: klik [Saya] - [Pengaturan Lainnya] - [Pengaturan Keamanan] - [Ubah Izin], setelah izin diaktifkan, coba lakukan autentikasi lagi.
+
+[Tips] Selama proses pengenalan, disarankan untuk memastikan pencahayaan normal dan fokus jelas, ikuti langkah-langkah yang ditunjukkan sistem untuk melakukan autentikasi.
+
+Q5: Mengapa perlu pengenalan wajah untuk menghubungi WQ?
+A: Latar belakang: Untuk menjamin keamanan informasi akun dan aset pengguna, akses ke WQ memerlukan pengenalan wajah.
+
+Proses penanganan:
+1. Menenangkan pengguna, mendapatkan persetujuan pengguna, menanyakan masalah yang perlu diselesaikan, dan melanjutkan menjawab.
+2. Jika pengguna mengancam S atau menyebutkan masalah Y (rujuk prosedur panggilan masuk NF), eskalasi untuk penanganan.
+
+Contoh percakapan:
+Untuk menjamin keamanan informasi identitas dan aset Anda, Anda perlu melakukan verifikasi pengenalan wajah untuk mengakses WQ. Setelah pengenalan wajah berhasil, Anda dapat mengakses secara normal.
+
+1. Anda juga dapat berkonsultasi dengan layanan pelanggan untuk masalah apa pun, saya dapat membantu Anda.
+2. Apa masalah yang Anda hadapi? Layanan pelanggan akan menjawab pertanyaan Anda.
+3. Mohon maaf atas ketidaknyamanannya. Masalah Anda telah dicatat dan diteruskan ke penanggung jawab terkait. Harap pastikan telepon Anda aktif dan jawab panggilan tepat waktu.
+
+Q6: Mengapa kamera tidak dapat dibuka?
+Halo, harap periksa apakah izin akses kamera telah diaktifkan. Klik [Saya] di pojok kanan bawah aplikasi - [Pengaturan Lainnya] - [Pengaturan Keamanan] - [Ubah Izin]. Jika izin belum diaktifkan, harap aktifkan dan coba lagi.
+
+
+## Pertanyaan: Apakah pengenalan wajah dilakukan setiap kali FN?
+Jawaban: Halo, tidak akan dilakukan verifikasi pengenalan wajah.
+
+## Pertanyaan: Apa yang harus dilakukan jika pengenalan wajah hidup gagal setelah operasi plastik?
+Jawaban: Mohon maaf Bapak/Ibu, pengenalan wajah adalah sistem otomatis, jika gagal maka aplikasi tidak dapat digunakan. Kami mohon pengertian Anda atas ketidaknyamanan ini.
+
+## Pertanyaan: Mengapa autentikasi pengenalan wajah gagal?
+Jawaban: Halo, pengenalan wajah memerlukan izin akses kamera. Anda dapat membuka izin dengan mengklik "Saya" di pojok kanan bawah aplikasi - "Pengaturan Lainnya" di bagian bawah halaman - "Pengaturan Keamanan" - "Ubah Izin", lalu aktifkan izin akses kamera dan coba lagi. Selama proses pengenalan, pastikan pencahayaan normal, fokus jelas, dan ikuti petunjuk untuk menggerakkan kepala ke kiri dan kanan, mengangguk, berkedip, dll.
+
+## Pertanyaan: Apa yang harus dilakukan jika tidak dapat memindai saat pengenalan wajah?
+Jawaban: Halo, hal-hal yang perlu diperhatikan saat autentikasi pengenalan wajah:
+
+1. Izinkan akses kamera di ponsel
+2. Pastikan pencahayaan terang dan wajah terlihat jelas
+
+Untuk mengaktifkan izin kamera: Klik [Saya] - [Pengaturan Lainnya] - [Pengaturan Keamanan] - [Ubah Izin], setelah izin diaktifkan Anda dapat mencoba autentikasi lagi.
+
+[Tips] Selama proses pengenalan, disarankan untuk memastikan pencahayaan normal, fokus jelas, dan ikuti langkah-langkah yang disarankan sistem untuk autentikasi.
+
+## Pertanyaan: Mengapa diperlukan pengenalan wajah untuk menghubungi WQ?
+Jawaban: Latar belakang: Untuk menjamin keamanan informasi akun dan aset pengguna, akses ke WQ memerlukan pengenalan wajah.
+
+Proses penanganan:
+
+1. Tenangkan pengguna, dapatkan persetujuan mereka, tanyakan masalah apa yang perlu diselesaikan, lanjutkan menjawab
+2. Jika pengguna mengancam S atau menyebutkan masalah Y (merujuk pada proses NF), eskalasi penanganan
+
+Contoh percakapan:
+
+Untuk memastikan keamanan informasi identitas dan aset Anda, Anda perlu melakukan verifikasi pengenalan wajah untuk mengakses WQ. Setelah pengenalan wajah berhasil, Anda dapat mengakses seperti biasa.
+
+1. Anda juga bisa berkonsultasi dengan layanan pelanggan untuk masalah apapun, saya dapat membantu Anda.
+2. Mohon beritahu masalah apa yang Anda hadapi, layanan pelanggan akan membantu menjawabnya.
+3. Mohon maaf atas ketidaknyamanannya, masalah Anda telah dicatat dan diteruskan ke penanggung jawab terkait. Harap pastikan telepon Anda aktif dan segera dijawab.
+
+
+## Pertanyaan: Mengapa kamera tidak bisa dibuka?
+Jawaban: Halo, mohon periksa apakah izin akses kamera telah diaktifkan. Klik [Saya] di pojok kanan bawah aplikasi - [Pengaturan Lainnya] - [Pengaturan Keamanan] - [Ubah Izin]. Jika Anda melihat izin belum diaktifkan, mohon aktifkan izin tersebut dan coba lagi.
+
+## Pertanyaan: Bagaimana cara mengunduh aplikasi Anda?
+Jawaban: Proses penanganan:
+
+1. Verifikasi aplikasi mana yang digunakan oleh pengguna
+2. Tanyakan merek ponsel yang digunakan pengguna
+3. Arahkan pengguna untuk mengunduh sesuai cara berikut
+
+Latar belakang masalah:
+
+1. Aplikasi versi biasa: Ponsel Tang Pin dan Wu Xiang dapat mengunduh melalui situs web resmi
+   Ponsel Tang Pin dapat mengunduh melalui toko aplikasi, ponsel Wu Xiang dapat mengunduh langsung melalui gudang aplikasi.
+
+2. Aplikasi versi biasa dapat diunduh dengan mengikuti akun WeChat resmi "Versi Biasa", klik [Versi Biasa] dan ikuti petunjuk untuk mengunduh atau unduh melalui tautan
+
+Jika pengguna melaporkan tidak dapat menginstal aplikasi kami, pertama-tama konfirmasi versi sistem ponsel mereka
+Tang Pin saat ini mendukung Tang Pin 6 ke atas
+Wu Xiang mendukung versi 10 ke atas
+Versi sistem dapat dilihat di pengaturan ponsel.
+
+Jika versi sesuai tetapi masih tidak dapat diinstal, minta pengguna untuk memberikan tangkapan layar, kami akan memverifikasi dan memberikan umpan balik untuk penanganan.
+
+## Pertanyaan: Saya ingin menggunakan aplikasi Anda, bagaimana cara menginstalnya?
+Jawaban: Proses penanganan:
+
+1. Verifikasi aplikasi mana yang digunakan oleh pengguna
+2. Tanyakan merek ponsel yang digunakan pengguna
+3. Arahkan pengguna untuk mengunduh sesuai cara berikut
+
+Latar belakang masalah:
+
+1. Aplikasi versi biasa: Ponsel Tang Pin dan Wu Xiang dapat mengunduh melalui situs web resmi
+   Ponsel Tang Pin dapat mengunduh melalui toko aplikasi, ponsel Wu Xiang dapat mengunduh langsung melalui gudang aplikasi.
+
+2. Aplikasi versi biasa dapat diunduh dengan mengikuti akun WeChat resmi "Versi Biasa", klik [Versi Biasa] dan ikuti petunjuk untuk mengunduh atau unduh melalui tautan
+
+Jika pengguna melaporkan tidak dapat menginstal aplikasi kami, pertama-tama konfirmasi versi sistem ponsel mereka
+Tang Pin saat ini mendukung Tang Pin 6 ke atas
+Wu Xiang mendukung versi 10 ke atas
+Versi sistem dapat dilihat di pengaturan ponsel.
+
+Jika versi sesuai tetapi masih tidak dapat diinstal, minta pengguna untuk memberikan tangkapan layar, kami akan memverifikasi dan memberikan umpan balik untuk penanganan.
+
+
+## Pertanyaan: Ke mana saya harus pergi untuk mengunduh aplikasi Anda?
+Jawaban: Proses penanganan:
+
+1. Verifikasi aplikasi mana yang digunakan oleh pengguna
+2. Tanyakan kepada pengguna merek ponsel apa yang mereka gunakan
+3. Arahkan pengguna untuk mengunduh sesuai dengan cara berikut
+
+Latar belakang masalah:
+
+1. Aplikasi Feichang Ban: Ponsel Tangping dan Wuxiang dapat diunduh melalui situs web resmi
+   Ponsel Tangping dapat diunduh melalui toko aplikasi, ponsel Wuxiang dapat diunduh langsung melalui repositori.
+
+2. Aplikasi Feichang Ban dapat diunduh dengan mengikuti akun WeChat resmi "Feichang Ban", klik [Feichang Ban] dan ikuti petunjuk untuk mengunduh atau unduh melalui tautan
+
+Jika pengguna melaporkan bahwa mereka tidak dapat menginstal aplikasi kami, pertama-tama konfirmasikan versi sistem ponsel dengan pengguna
+Tangping saat ini mendukung Tangping 6 ke atas
+Wuxiang mendukung versi 10 ke atas
+Versi sistem dapat dilihat di pengaturan ponsel.
+
+Jika versinya kompatibel tetapi masih tidak dapat diinstal, minta pengguna untuk memberikan tangkapan layar, dan kami akan memverifikasi dan memberikan umpan balik setelah memeriksa.
+
+## Pertanyaan: Bisakah Anda membantu saya menginstal aplikasi Anda?
+Jawaban: Proses penanganan:
+
+1. Verifikasi aplikasi mana yang digunakan oleh pengguna
+2. Tanyakan kepada pengguna merek ponsel apa yang mereka gunakan
+3. Arahkan pengguna untuk mengunduh sesuai dengan cara berikut
+
+Latar belakang masalah:
+
+1. Aplikasi Feichang Ban: Ponsel Tangping dan Wuxiang dapat diunduh melalui situs web resmi
+   Ponsel Tangping dapat diunduh melalui toko aplikasi, ponsel Wuxiang dapat diunduh langsung melalui repositori.
+
+2. Aplikasi Feichang Ban dapat diunduh dengan mengikuti akun WeChat resmi "Feichang Ban", klik [Feichang Ban] dan ikuti petunjuk untuk mengunduh atau unduh melalui tautan
+
+Jika pengguna melaporkan bahwa mereka tidak dapat menginstal aplikasi kami, pertama-tama konfirmasikan versi sistem ponsel dengan pengguna
+Tangping saat ini mendukung Tangping 6 ke atas
+Wuxiang mendukung versi 10 ke atas
+Versi sistem dapat dilihat di pengaturan ponsel.
+
+Jika versinya kompatibel tetapi masih tidak dapat diinstal, minta pengguna untuk memberikan tangkapan layar, dan kami akan memverifikasi dan memberikan umpan balik setelah memeriksa.
+
+
+## Pertanyaan: Bagaimana cara mengunduh APP?
+Jawaban: Proses penanganan:
+
+1. Verifikasi aplikasi mana yang digunakan pengguna
+
+2. Tanyakan merek ponsel yang digunakan pengguna
+
+3. Panduan pengguna untuk mengunduh sesuai cara berikut
+
+Latar belakang masalah:
+
+1. Aplikasi versi Feichang: Dapat diunduh melalui situs web resmi untuk ponsel Tangpin dan Wuxiang
+   
+   Ponsel Tangpin dapat mengunduh melalui toko aplikasi, ponsel Wuxiang dapat mengunduh langsung melalui repositori.
+
+2. Aplikasi versi Feichang APP dapat diunduh dengan mengikuti akun WeChat resmi "Feichang Ban", klik [Feichang Ban] dan ikuti petunjuk untuk mengunduh atau unduh melalui tautan
+
+Jika pengguna melaporkan tidak dapat menginstal aplikasi kami, pertama-tama konfirmasi versi sistem ponsel dengan pengguna
+Tangpin sekarang mendukung Tangpin 6 ke atas
+Wuxiang mendukung 10 ke atas
+Versi sistem dapat dilihat di pengaturan ponsel.
+
+Jika versinya kompatibel tetapi masih tidak dapat diinstal, minta pengguna untuk memberikan tangkapan layar agar kita dapat memverifikasi dan menanganinya.
+
+## Pertanyaan: Apa yang harus dilakukan jika lupa kata sandi?
+Jawaban: Proses penanganan:
+
+1. Tanyakan apakah nomor ponsel yang terdaftar saat ini masih digunakan oleh pengguna,
+
+2. Jika nomor ponsel yang terdaftar masih digunakan, arahkan pengguna untuk menggunakan fungsi lupa kata sandi di halaman login kata sandi untuk mengubah kata sandi login.
+
+Poin-poin yang perlu diketahui:
+
+Ketika pengguna menemukan bahwa mereka lupa kata sandi atau memasukkan kata sandi yang salah beberapa kali di halaman login, mereka dapat masuk ke 'Langkah Pertama Lupa Kata Sandi'.
+
+Setelah pengguna memasukkan nomor ponsel yang terdaftar di 'Langkah Pertama Lupa Kata Sandi', klik untuk mengirim kode verifikasi SMS dan lakukan verifikasi captcha. Setelah verifikasi berhasil, mereka akan dialihkan ke 'Langkah Kedua Lupa Kata Sandi'.
+
+Pengguna memasukkan kode verifikasi SMS dan kata sandi baru, klik tombol reset kata sandi, setelah verifikasi berhasil, pengguna akan diberi tahu bahwa reset berhasil dan dialihkan ke 'Halaman Login Kata Sandi'.
+
+Latar belakang masalah:
+
+Pengguna perlu memasukkan kata sandi login yang telah mereka atur untuk login menggunakan kata sandi. Jika lupa kata sandi login, mereka dapat mereset kata sandi login melalui proses lupa kata sandi.
+
+
+## Pertanyaan: Bagaimana cara mengatur ulang kata sandi?
+Jawaban: Proses penanganan:
+
+1. Tanyakan kepada pengguna apakah nomor telepon yang terdaftar masih digunakan.
+
+2. Jika pengguna masih menggunakan nomor telepon yang terdaftar, arahkan pengguna untuk menggunakan fitur "Lupa Kata Sandi" di halaman login untuk mengubah kata sandi mereka.
+
+Poin-poin penting:
+
+Ketika pengguna menyadari bahwa mereka lupa kata sandi atau memasukkan kata sandi yang salah beberapa kali di halaman login, mereka dapat masuk ke "Langkah Pertama Lupa Kata Sandi".
+
+Di "Langkah Pertama Lupa Kata Sandi", pengguna memasukkan nomor telepon yang terdaftar, lalu mengklik untuk mengirim kode verifikasi SMS setelah memverifikasi captcha. Setelah verifikasi berhasil, pengguna akan diarahkan ke "Langkah Kedua Lupa Kata Sandi".
+
+Pengguna memasukkan kode verifikasi SMS dan kata sandi baru, lalu mengklik tombol reset kata sandi. Setelah verifikasi berhasil, pengguna akan diberi tahu bahwa reset berhasil dan diarahkan ke "Halaman Login dengan Kata Sandi".
+
+Latar belakang masalah:
+
+Pengguna perlu memasukkan kata sandi login yang telah mereka atur untuk masuk menggunakan kata sandi. Jika mereka lupa kata sandi login, mereka dapat mengatur ulang kata sandi melalui proses lupa kata sandi.
+
+## Pertanyaan: Apa yang harus dilakukan jika lupa kata sandi login?
+Jawaban: Proses penanganan:
+
+1. Tanyakan kepada pengguna apakah nomor telepon yang terdaftar masih digunakan.
+
+2. Jika pengguna masih menggunakan nomor telepon yang terdaftar, arahkan pengguna untuk menggunakan fitur "Lupa Kata Sandi" di halaman login untuk mengubah kata sandi mereka.
+
+Poin-poin penting:
+
+Ketika pengguna menyadari bahwa mereka lupa kata sandi atau memasukkan kata sandi yang salah beberapa kali di halaman login, mereka dapat masuk ke "Langkah Pertama Lupa Kata Sandi".
+
+Di "Langkah Pertama Lupa Kata Sandi", pengguna memasukkan nomor telepon yang terdaftar, lalu mengklik untuk mengirim kode verifikasi SMS setelah memverifikasi captcha. Setelah verifikasi berhasil, pengguna akan diarahkan ke "Langkah Kedua Lupa Kata Sandi".
+
+Pengguna memasukkan kode verifikasi SMS dan kata sandi baru, lalu mengklik tombol reset kata sandi. Setelah verifikasi berhasil, pengguna akan diberi tahu bahwa reset berhasil dan diarahkan ke "Halaman Login dengan Kata Sandi".
+
+Latar belakang masalah:
+
+Pengguna perlu memasukkan kata sandi login yang telah mereka atur untuk masuk menggunakan kata sandi. Jika mereka lupa kata sandi login, mereka dapat mengatur ulang kata sandi melalui proses lupa kata sandi.
+
+
+
+## Pertanyaan: Bagaimana cara menghapus kartu bank?
+
+Jawaban:
+
+Q1: Informasi apa yang diperlukan untuk mengikat kartu bank?
+A: Ada dua cara untuk mengikat kartu bank: pengikatan khusus dan pengikatan umum. Untuk pengikatan khusus, pengguna cukup mengoperasikan Y dan kartu akan terikat. Untuk pengikatan umum, pengguna perlu memasukkan nomor kartu bank, nomor telepon kartu bank, dan nama bank secara manual.
+
+Q2: Mengapa muncul pesan bahwa pengikatan kartu bank gagal?
+A: 1. Halo, platform ini hanya mendukung pengikatan kartu tabungan atas nama Anda sendiri. Informasi kartu bank harus mencakup nama Anda, nomor kartu bank, nomor telepon yang terdaftar di bank, dan cabang bank tempat pembukaan rekening.
+
+2. (Jika informasi di atas sudah benar tapi pengikatan tetap gagal) Halo, harap jangan khawatir. Kami sarankan Anda mencoba dengan kartu bank lain atas nama Anda.
+
+3. (Jika pengguna tidak setuju untuk mengganti kartu) Mohon maaf, pesan kesalahan apa yang muncul saat Anda melakukan operasi? Mohon berikan tangkapan layar agar layanan pelanggan dapat meneruskannya ke departemen terkait untuk diperiksa.
+
+4. Setelah mengajukan aplikasi NF, halaman akan menampilkan [NF sedang diproses]. Pada tahap ini, Anda tidak dapat mengubah kartu bank yang terikat.
+
+Q5: Bagaimana cara membatalkan pengikatan kartu bank?
+A: Untuk ponsel Tang Pin: Klik "Saya" di pojok kanan bawah aplikasi - Manajemen Kartu Bank - Geser ke kiri kartu bank yang ingin Anda hapus, Anda akan melihat tombol pembatalan pengikatan untuk menghapusnya.
+
+Untuk ponsel Wu Xiang: Klik "Saya" di pojok kanan bawah aplikasi - Manajemen Kartu Bank - Klik kartu bank yang ingin dihapus - Masuk ke halaman dan klik pembatalan pengikatan di pojok kanan atas.
+
+Q6: Bagaimana cara memeriksa kartu bank yang terikat?
+A: Klik "Saya" di pojok kanan bawah aplikasi - Manajemen Kartu Bank, Anda dapat melihat semua kartu bank yang saat ini terikat.
+
+Q7: Bagaimana cara menambah/mengubah kartu bank?
+A: Anda dapat menambah atau mengubah informasi kartu bank Anda di aplikasi dengan mengklik [Saya] - [Manajemen Kartu Bank] secara berurutan.
+
+Q8: Bisakah saya mengikat kartu bank jika nomor telepon yang terdaftar di bank berbeda dengan nomor yang digunakan untuk pendaftaran?
+A: Ya, bisa. Namun, nomor telepon yang terdaftar di kartu bank harus diisi dengan nomor telepon yang Anda daftarkan saat membuka rekening.
+
+Q9: Apakah ada dampak jika saya tidak lagi menggunakan nomor telepon yang terdaftar di kartu bank saya?
+Latar belakang: Nomor telepon yang terdaftar di kartu bank dapat berbeda dengan nomor yang digunakan untuk pendaftaran. Keduanya memiliki fungsi yang berbeda. Nomor telepon yang terdaftar di bank terutama digunakan untuk menerima kode verifikasi saat pembayaran, sedangkan nomor telepon pendaftaran lebih sering digunakan untuk login dan menerima SMS pengingat.
+
+Q10: Mengubah nomor telepon yang terikat dengan kartu bank
+Proses penanganan:
+1. Tanyakan apakah pengguna telah mengubah nomor telepon yang terdaftar di bank;
+2. Jika pengguna belum mengubahnya di bank, arahkan mereka untuk melakukannya terlebih dahulu;
+3. Jika pengguna sudah mengubahnya melalui bank, arahkan mereka ke [Manajemen Kartu Bank] untuk melakukan perubahan.
+
+Poin penting:
+Nama pemegang kartu tidak dapat diubah. Lengkapi nomor kartu tabungan sesuai petunjuk, nama bank akan muncul secara otomatis setelah diisi. Masukkan nomor telepon baru yang terdaftar di bank, klik tombol selanjutnya untuk memunculkan jendela verifikasi SMS, isi kode verifikasi dan konfirmasi. Setelah verifikasi berhasil, perubahan selesai.
+
+
+
+## Pertanyaan: Bagaimana cara mengganti kartu bank?
+
+Jawaban: 
+
+Q1: Informasi apa yang diperlukan untuk mengikat kartu bank?
+A: Ada dua cara untuk mengikat kartu bank - pengikatan khusus dan pengikatan umum. Untuk pengikatan khusus, pengguna hanya perlu mengoperasikan Y untuk berhasil mengikat. Untuk pengikatan umum, pengguna perlu memasukkan nomor kartu bank, nomor telepon kartu bank, dan nama bank secara manual.
+
+Q2: Mengapa muncul pesan bahwa pengikatan kartu bank gagal?
+A: 1. Halo, platform ini hanya mendukung pengikatan kartu tabungan atas nama Anda sendiri. Informasi kartu bank termasuk nama Anda, nomor kartu bank, nomor telepon yang terdaftar di bank, dan cabang pembukaan rekening.
+
+2. (Jika informasi di atas sudah benar tapi pengikatan masih gagal) Halo, mohon jangan khawatir, Anda bisa mencoba mengganti dengan kartu bank lain atas nama Anda.
+
+3. (Jika pengguna tidak setuju mengganti kartu) Mohon maaf, pesan kesalahan apa yang muncul saat Anda melakukan operasi? Mohon berikan tangkapan layar agar layanan pelanggan dapat meneruskannya ke departemen terkait untuk diperiksa.
+
+4. Setelah mengajukan aplikasi NF, halaman akan menampilkan [Dalam NF]. Pada saat ini, Anda tidak dapat mengubah pengikatan kartu bank.
+
+Q5: Bagaimana cara membatalkan pengikatan kartu bank?
+A: Untuk ponsel Tang Pin: Klik "Saya" di pojok kanan bawah aplikasi - Manajemen Kartu Bank - geser ke kiri kartu bank yang ingin Anda hapus, Anda akan melihat tombol pembatalan pengikatan, klik untuk menghapus.
+
+Untuk ponsel Wu Xiang: Klik "Saya" di pojok kanan bawah aplikasi - Manajemen Kartu Bank - klik kartu bank yang ingin dihapus - klik pembatalan pengikatan di pojok kanan atas halaman.
+
+Q6: Bagaimana cara memeriksa kartu bank yang terikat?
+A: Klik "Saya" di pojok kanan bawah aplikasi - Manajemen Kartu Bank, Anda dapat melihat semua kartu bank yang saat ini terikat.
+
+Q7: Bagaimana cara menambah/mengubah kartu bank?
+A: Anda dapat menambah atau mengubah informasi kartu bank Anda dengan mengklik [Saya] - [Manajemen Kartu Bank] di aplikasi.
+
+Q8: Apakah saya bisa mengikat kartu bank jika nomor telepon yang terdaftar di bank berbeda dengan nomor pendaftaran?
+A: Halo, bisa. Tapi nomor telepon yang terdaftar di kartu bank harus diisi dengan nomor telepon yang Anda daftarkan saat membuka kartu.
+
+Q9: Apakah ada dampak jika saya tidak lagi menggunakan nomor telepon yang terdaftar di kartu bank saya?
+Latar belakang: Nomor telepon yang terdaftar di kartu bank bisa berbeda dengan nomor pendaftaran. Keduanya memiliki fungsi berbeda. Nomor telepon yang terdaftar di bank terutama digunakan untuk menerima kode verifikasi saat pembayaran, sedangkan nomor pendaftaran lebih sering digunakan untuk login dan menerima SMS pengingat.
+
+Q10: Mengubah nomor telepon yang terikat dengan kartu bank
+Proses penanganan:
+1. Tanyakan apakah pengguna sudah mengubah nomor telepon terdaftar di bank;
+2. Jika pengguna belum mengubahnya di bank, arahkan mereka untuk mengubahnya di bank terlebih dahulu;
+3. Jika pengguna sudah mengubahnya melalui bank, arahkan mereka ke [Manajemen Kartu Bank] untuk melakukan operasi.
+
+Poin-poin penting:
+Nama pemegang kartu tidak dapat diubah. Lengkapi nomor kartu tabungan sesuai petunjuk, nama bank akan muncul otomatis setelah dilengkapi. Masukkan nomor telepon baru yang terdaftar di bank, klik tombol selanjutnya untuk memunculkan jendela verifikasi SMS, isi kode verifikasi dan konfirmasi keberhasilan verifikasi untuk menyelesaikan perubahan.
+
+
+## Pertanyaan: Bagaimana cara menambahkan kartu bank?
+
+Jawaban: 
+
+Q1: Informasi apa yang diperlukan untuk menautkan kartu bank?
+A: Ada dua cara untuk menautkan kartu bank: tautan khusus dan tautan umum. Untuk tautan khusus, pengguna cukup mengoperasikan Y dan tautan akan berhasil. Untuk tautan umum, pengguna perlu memasukkan nomor kartu bank, nomor telepon yang terdaftar di bank, dan nama bank secara manual.
+
+Q2: Mengapa muncul pemberitahuan bahwa tautan kartu bank gagal?
+A: 1. Halo, platform ini hanya mendukung penautan kartu tabungan atas nama Anda sendiri. Informasi kartu bank termasuk nama Anda, nomor kartu bank, nomor telepon yang terdaftar di bank, dan cabang bank pembuka rekening.
+
+2. (Jika informasi di atas sudah diverifikasi benar tetapi penautan masih gagal) Halo, harap jangan khawatir. Kami sarankan Anda untuk mencoba dengan kartu bank lain atas nama Anda.
+
+3. (Jika pengguna tidak setuju untuk mengganti kartu) Kami mohon maaf, pesan kesalahan apa yang Anda lihat saat melakukan operasi? Mohon berikan tangkapan layar agar layanan pelanggan dapat melaporkannya ke departemen terkait untuk verifikasi.
+
+4. Setelah mengajukan aplikasi NF, halaman akan menampilkan [Dalam NF]. Pada tahap ini, Anda tidak dapat mengubah kartu bank yang terkait.
+
+Q5: Bagaimana cara membatalkan tautan kartu bank?
+A: Untuk ponsel Tang Pin: Klik "Saya" di pojok kanan bawah aplikasi - Manajemen Kartu Bank - Geser ke kiri kartu bank yang ingin Anda hapus, Anda akan melihat tombol batalkan tautan untuk menghapusnya.
+
+Untuk ponsel Wu Xiang: Klik "Saya" di pojok kanan bawah aplikasi - Manajemen Kartu Bank - Klik kartu bank yang ingin dihapus - Masuk ke halaman dan klik batalkan tautan di pojok kanan atas.
+
+Q6: Bagaimana cara memeriksa kartu bank yang terkait?
+A: Klik "Saya" di pojok kanan bawah aplikasi - Manajemen Kartu Bank, Anda dapat melihat semua kartu bank yang saat ini terkait.
+
+Q7: Bagaimana cara menambah/mengubah kartu bank?
+A: Anda dapat menambah atau mengubah informasi kartu bank Anda dengan mengklik [Saya] - [Manajemen Kartu Bank] di aplikasi.
+
+Q8: Apakah saya bisa menautkan jika nomor telepon yang terdaftar di kartu bank berbeda dengan nomor yang digunakan untuk registrasi?
+A: Ya, bisa. Namun, nomor telepon yang terdaftar di kartu bank harus diisi dengan nomor telepon yang Anda daftarkan saat membuka rekening.
+
+Q9: Apakah ada pengaruhnya jika saya tidak lagi menggunakan nomor telepon yang terdaftar di kartu bank yang saya tautkan?
+Latar belakang: Nomor telepon yang terdaftar di kartu bank dapat berbeda dengan nomor yang digunakan untuk registrasi. Keduanya memiliki fungsi yang berbeda. Nomor telepon yang terdaftar di bank terutama digunakan untuk menerima kode verifikasi saat pembayaran, sedangkan nomor telepon registrasi lebih sering digunakan untuk login dan menerima SMS pengingat.
+
+Q10: Mengubah nomor telepon yang terkait dengan kartu bank
+Prosedur penanganan:
+1. Tanyakan kepada pengguna apakah mereka telah mengubah nomor telepon terdaftar di bank;
+2. Jika pengguna belum mengubahnya di bank, prioritaskan untuk mengarahkan pengguna ke bank untuk mengubah nomor telepon terdaftar;
+3. Jika pengguna telah mengubahnya melalui bank, arahkan pengguna ke [Manajemen Kartu Bank] untuk melakukan operasi.
+
+Poin-poin penting:
+Nama pemegang kartu tidak dapat diubah. Lengkapi nomor kartu tabungan sesuai petunjuk, nama bank akan muncul secara otomatis setelah dilengkapi. Masukkan nomor telepon baru yang terdaftar di bank, klik tombol selanjutnya untuk memunculkan jendela verifikasi SMS, isi kode verifikasi dan konfirmasi keberhasilan verifikasi untuk menyelesaikan perubahan.
+
+
+## Pertanyaan: Pertanyaan Umum tentang Menghubungkan/Memutuskan Kartu Bank
+
+Jawaban: 
+
+Q1: Informasi apa yang diperlukan untuk menghubungkan kartu bank?
+A: Ada dua cara untuk menghubungkan kartu bank: penghubungan khusus dan penghubungan umum. Untuk penghubungan khusus, pengguna hanya perlu melakukan operasi Y untuk berhasil menghubungkan. Untuk penghubungan umum, pengguna perlu memasukkan nomor kartu bank, nomor telepon yang terdaftar di bank, dan nama bank secara manual.
+
+Q2: Mengapa muncul pemberitahuan bahwa penghubungan kartu bank gagal?
+A: 1. Halo, platform hanya mendukung penghubungan kartu tabungan atas nama Anda sendiri. Informasi kartu bank termasuk nama Anda, nomor kartu bank, nomor telepon yang terdaftar di bank, dan cabang pembuka rekening.
+
+2. (Jika informasi di atas sudah benar tetapi masih gagal menghubungkan) Halo, mohon jangan khawatir, kami sarankan Anda mencoba dengan kartu bank lain atas nama Anda.
+
+3. (Jika pengguna tidak setuju mengganti kartu) Mohon maaf, pesan kesalahan apa yang muncul saat Anda melakukan operasi? Mohon sediakan tangkapan layar agar layanan pelanggan dapat meneruskannya ke departemen terkait untuk verifikasi.
+
+4. Setelah mengajukan aplikasi NF, halaman akan menampilkan [Dalam NF], pada saat ini tidak dapat mengubah kartu bank yang terhubung.
+
+Q5: Bagaimana cara memutuskan hubungan kartu bank?
+A: Untuk ponsel Tang Pin: Klik "Saya" di pojok kanan bawah APP - Manajemen Kartu Bank - Geser ke kiri kartu bank yang ingin Anda hapus, Anda akan melihat tombol putus hubungan, lalu klik untuk menghapus.
+
+Untuk ponsel Wu Xiang: Klik "Saya" di pojok kanan bawah APP - Manajemen Kartu Bank - Klik kartu bank yang ingin dihapus - Masuk ke halaman dan klik putus hubungan di pojok kanan atas.
+
+Q6: Bagaimana cara memeriksa kartu bank yang terhubung?
+A: Klik "Saya" di pojok kanan bawah APP - Manajemen Kartu Bank, Anda dapat melihat semua kartu bank yang saat ini terhubung.
+
+Q7: Bagaimana cara menambah/mengubah kartu bank?
+A: Anda dapat klik berturut-turut [Saya] - [Manajemen Kartu Bank] di App untuk menambah atau mengubah informasi kartu bank Anda.
+
+Q8: Apakah saya bisa menghubungkan jika nomor telepon yang terdaftar di kartu bank berbeda dengan nomor registrasi?
+A: Halo, bisa, tetapi nomor telepon yang terdaftar di kartu bank harus diisi dengan nomor telepon yang Anda daftarkan saat membuka kartu.
+
+Q9: Apakah ada pengaruhnya jika saya tidak lagi menggunakan nomor telepon yang terdaftar di kartu bank yang saya hubungkan?
+Latar belakang masalah: Nomor telepon yang terdaftar di kartu bank dapat berbeda dengan nomor registrasi, keduanya memiliki fungsi yang berbeda. Nomor telepon yang terdaftar terutama digunakan untuk menerima kode verifikasi saat pembayaran, sedangkan nomor telepon registrasi lebih sering digunakan untuk login dan menerima SMS pengingat.
+
+Q10: Mengubah nomor telepon yang terhubung dengan kartu bank
+Proses penanganan:
+1. Tanyakan kepada pengguna apakah mereka telah pergi ke bank untuk mengubah nomor telepon yang terdaftar;
+2. Jika pengguna belum pergi ke bank untuk mengubah, prioritaskan mengarahkan pengguna untuk pergi ke bank mengubah nomor telepon yang terdaftar;
+3. Jika pengguna sudah mengubah melalui bank, arahkan pengguna ke [Manajemen Kartu Bank] untuk melakukan operasi.
+
+Poin-poin penting:
+Nama pemegang kartu tidak dapat diubah. Lengkapi nomor kartu tabungan sesuai petunjuk, nama bank akan muncul otomatis setelah dilengkapi. Masukkan nomor telepon baru yang terdaftar di bank, klik tombol lanjut untuk memunculkan jendela verifikasi SMS, isi kode verifikasi dan konfirmasi keberhasilan verifikasi untuk menyelesaikan perubahan.
+
+
+
+## Pertanyaan: Informasi apa yang diperlukan untuk mengikat kartu bank?
+Jawaban: Ada dua cara untuk mengikat kartu bank: pengikatan khusus dan pengikatan umum. Untuk pengikatan khusus, pengguna dapat langsung mengikat setelah mengoperasikan Y. Untuk pengikatan umum, pengguna perlu memasukkan nomor kartu bank, nomor telepon kartu bank, dan nama bank secara manual.
+
+## Pertanyaan: Mengapa muncul pemberitahuan bahwa pengikatan kartu bank gagal?
+Jawaban: 
+1. Halo, platform ini hanya mendukung pengikatan kartu tabungan atas nama Anda sendiri. Informasi kartu bank termasuk nama Anda, nomor kartu bank, nomor telepon yang terdaftar di bank, dan cabang bank tempat pembukaan rekening.
+
+2. (Jika informasi di atas sudah benar tetapi pengikatan kartu masih gagal) Halo, harap jangan khawatir. Anda disarankan untuk mencoba dengan kartu bank lain atas nama Anda.
+
+3. (Jika pengguna tidak setuju untuk mengganti kartu) Mohon maaf, pesan kesalahan apa yang muncul saat Anda melakukan operasi? Mohon berikan tangkapan layar agar layanan pelanggan dapat melaporkannya ke departemen terkait untuk diperiksa.
+
+4. Setelah mengajukan aplikasi NF, halaman akan menampilkan [Dalam NF]. Pada saat ini, tidak dimungkinkan untuk mengubah kartu bank yang terikat.
+
+## Pertanyaan: Bagaimana cara membatalkan pengikatan kartu bank?
+Jawaban:
+Untuk ponsel Tang Pin: Klik "Saya" di pojok kanan bawah aplikasi — Manajemen Kartu Bank — Geser ke kiri kartu bank yang ingin Anda hapus, Anda akan melihat tombol pembatalan pengikatan, lalu klik untuk menghapus.
+
+Untuk ponsel Wu Xiang: Klik "Saya" di pojok kanan bawah aplikasi — Manajemen Kartu Bank — Klik kartu bank yang ingin dihapus — Masuk ke halaman dan klik pembatalan pengikatan di pojok kanan atas.
+
+## Pertanyaan: Bagaimana cara memeriksa kartu bank yang terikat?
+Jawaban: Klik "Saya" di pojok kanan bawah aplikasi — Manajemen Kartu Bank, Anda dapat melihat semua kartu bank yang saat ini terikat.
+
+## Pertanyaan: Bagaimana cara menambah/mengubah kartu bank?
+Jawaban: Anda dapat menambah atau mengubah informasi kartu bank Anda dengan mengklik [Saya] — [Manajemen Kartu Bank] secara berurutan di aplikasi.
+
+
+## Pertanyaan: Bisakah saya mengikat kartu bank jika nomor telepon yang terdaftar di kartu bank berbeda dengan nomor yang digunakan untuk registrasi?
+Jawaban: Halo, ya bisa, tetapi nomor telepon yang terdaftar di kartu bank harus diisi dengan nomor telepon yang Anda daftarkan saat membuka kartu.
+
+## Pertanyaan: Apakah ada dampak jika saya tidak lagi menggunakan nomor telepon yang terdaftar di kartu bank saya?
+Jawaban: Latar belakang masalah: Nomor telepon yang terdaftar di kartu bank dapat berbeda dari nomor registrasi, keduanya memiliki fungsi yang berbeda. Nomor telepon yang terdaftar di kartu bank terutama digunakan untuk menerima kode verifikasi saat pembayaran, sedangkan nomor telepon registrasi lebih sering digunakan untuk login dan menerima SMS pemberitahuan.
+
+## Pertanyaan: Mengubah nomor telepon yang terkait dengan kartu bank
+Jawaban: Proses penanganan:
+1. Tanyakan kepada pengguna apakah mereka telah mengunjungi bank untuk mengubah nomor telepon yang terdaftar;
+2. Jika pengguna belum mengunjungi bank untuk mengubahnya, prioritaskan untuk mengarahkan pengguna ke bank untuk mengubah nomor telepon yang terdaftar;
+3. Jika pengguna telah mengubahnya melalui bank, arahkan pengguna ke menu [Manajemen Kartu Bank] untuk melakukan operasi.
+
+## Pertanyaan: Mengapa saya tidak menerima kode verifikasi dari Anda?
+Jawaban: Proses penanganan:
+1. Periksa apakah ada catatan pengiriman SMS;
+2. Jika ada catatan pengiriman yang menunjukkan kegagalan, eskalasi untuk penanganan;
+3. Jika ada catatan pengiriman yang menunjukkan keberhasilan, arahkan pengguna untuk memeriksa apakah ada pemblokiran di ponsel mereka, batalkan pengaturan perangkat lunak pemblokiran, matikan dan nyalakan ulang ponsel, lalu coba lagi.
+4. Jika tidak ada catatan pengiriman, beritahu pengguna untuk mencoba lagi pada waktu yang berbeda.
+
+Latar belakang masalah:
+Umumnya, pengguna tidak dapat menerima kode verifikasi karena beberapa alasan berikut:
+1. Cache ponsel tidak cukup
+2. Ponsel tidak dimatikan dalam waktu lama
+3. Pengguna telah berhenti berlangganan
+4. Pengguna mengatur pemblokiran
+
+Skrip referensi:
+Halo, mohon berikan nomor telepon registrasi Anda secara lengkap, layanan pelanggan akan membantu Anda memeriksa.
+1. (Setelah memeriksa catatan pengiriman di backend, ada catatan pengiriman yang menunjukkan kegagalan) Masalah Anda telah kami laporkan, disarankan untuk mencoba lagi setelah dua jam;
+2. (Setelah memeriksa catatan pengiriman di backend) Anda dapat memeriksa apakah ada pemblokiran di ponsel Anda, disarankan untuk membatalkan pengaturan perangkat lunak pemblokiran, matikan dan nyalakan ulang ponsel, lalu coba lagi;
+3. Disarankan untuk membersihkan cache ponsel, restart ponsel, dan coba lagi pada waktu yang berbeda.
+
+
+## Pertanyaan: Tolong periksa apa kode verifikasinya
+Jawaban: Proses penanganan:
+
+1. Periksa apakah ada catatan pengiriman SMS;
+
+2. Jika ada catatan pengiriman yang menunjukkan kegagalan, eskalasi penanganan;
+
+3. Jika ada catatan pengiriman yang menunjukkan keberhasilan, arahkan pengguna untuk memeriksa apakah ada pemblokiran di ponsel, batalkan pengaturan perangkat lunak pemblokir, matikan dan nyalakan ulang ponsel, lalu coba lagi.
+
+4. Jika tidak ada catatan pengiriman, beritahu pengguna untuk mencoba lagi di waktu yang berbeda.
+
+Latar belakang masalah:
+
+Umumnya pengguna tidak dapat menerima kode verifikasi karena beberapa alasan berikut:
+
+1. Memori cache ponsel tidak cukup
+2. Ponsel tidak dimatikan dalam waktu lama
+3. Pengguna telah berhenti berlangganan
+4. Pengguna mengatur pemblokiran
+
+Skrip referensi:
+
+Halo, mohon berikan nomor ponsel registrasi lengkap Anda, agar layanan pelanggan dapat membantu memeriksakannya.
+
+1. (Setelah memeriksa catatan pengiriman di backend, jika ada catatan pengiriman yang menunjukkan kegagalan) Masalah Anda telah kami laporkan, disarankan untuk mencoba lagi setelah dua jam;
+
+2. (Setelah memeriksa catatan pengiriman di backend) Anda dapat memeriksa apakah ada pemblokiran di ponsel, disarankan untuk membatalkan pengaturan perangkat lunak pemblokir, matikan dan nyalakan ulang ponsel, lalu coba lagi;
+
+3. Disarankan untuk membersihkan cache ponsel, restart ponsel, dan coba lagi di waktu yang berbeda.
+
+
+## Pertanyaan: Apa yang harus dilakukan jika tidak menerima kode verifikasi?
+Jawaban: Prosedur penanganan:
+
+1. Periksa apakah ada catatan pengiriman SMS;
+
+2. Jika ada catatan pengiriman yang menunjukkan kegagalan, lanjutkan ke penanganan tingkat lanjut;
+
+3. Jika ada catatan pengiriman yang menunjukkan keberhasilan, arahkan pengguna untuk memeriksa apakah ada pemblokiran di ponsel mereka, batalkan pengaturan perangkat lunak pemblokiran, matikan dan nyalakan kembali ponsel, lalu coba lagi.
+
+4. Jika tidak ada catatan pengiriman, beritahu pengguna untuk mencoba lagi pada waktu yang berbeda.
+
+Latar belakang masalah:
+
+Umumnya, pengguna tidak dapat menerima kode verifikasi karena alasan berikut:
+
+1. Memori cache ponsel tidak cukup
+2. Ponsel tidak dimatikan dalam waktu lama
+3. Pengguna telah berhenti berlangganan
+4. Pengguna telah mengatur pemblokiran
+
+Naskah referensi:
+
+Halo, mohon berikan nomor ponsel registrasi Anda secara lengkap, layanan pelanggan akan membantu Anda memeriksa.
+
+1. (Setelah memeriksa catatan pengiriman di backend, ada catatan pengiriman yang menunjukkan kegagalan) Masalah Anda telah kami laporkan, disarankan untuk mencoba lagi setelah dua jam;
+
+2. (Setelah memeriksa catatan pengiriman di backend) Anda dapat memeriksa apakah ada pemblokiran di ponsel Anda, disarankan untuk membatalkan pengaturan perangkat lunak pemblokiran, matikan dan nyalakan kembali ponsel, lalu coba lagi;
+
+3. Disarankan untuk membersihkan cache ponsel, restart ponsel, coba lagi pada waktu yang berbeda.
+
+## Pertanyaan: Di mana saya bisa melihat catatan operasi saya sebelumnya?
+Jawaban: Anda dapat mengklik berurutan [Saya] - [Catatan Operasi] untuk melihatnya.
+
+## Pertanyaan: Bagaimana cara melihat catatan operasi saya?
+Jawaban: Anda dapat mengklik berurutan [Saya] - [Catatan Operasi] untuk melihatnya.
+
+## Pertanyaan: Bagaimana cara memeriksa catatan operasi?
+Jawaban: Anda dapat mengklik berurutan [Saya] - [Catatan Operasi] untuk melihatnya.
