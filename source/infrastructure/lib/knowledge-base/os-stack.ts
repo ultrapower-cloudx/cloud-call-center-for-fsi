@@ -44,8 +44,8 @@ export class AOSConstruct extends Construct {
         },
         securityGroups: props.securityGroup,
         capacity: {
-          dataNodes: 2,
-          dataNodeInstanceType: "r6g.2xlarge.search",
+          dataNodes: 1,
+          dataNodeInstanceType: "t3.medium.search",
         },
         ebs: {
           volumeSize: 300,
