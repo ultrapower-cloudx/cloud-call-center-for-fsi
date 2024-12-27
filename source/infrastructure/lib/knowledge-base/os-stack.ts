@@ -48,7 +48,7 @@ export class AOSConstruct extends Construct {
           dataNodeInstanceType: "t3.medium.search",
         },
         ebs: {
-          volumeSize: 300,
+          volumeSize: 200,
           volumeType: ec2.EbsDeviceVolumeType.GENERAL_PURPOSE_SSD_GP3,
         },
       });
